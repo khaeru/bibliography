@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+<manage_target braces="true" utf8="true">all.bib</manage_target>
+<library_folder monitor="false"></library_folder>
+<taglist>
+  <tag>
+    <uid>0</uid>
+    <name>from-vjk-2011-09</name>
+  </tag>
+  <tag>
+    <uid>1</uid>
+    <name>need-doi</name>
+  </tag>
+  <tag>
+    <uid>2</uid>
+    <name>need-details</name>
+  </tag>
+  <tag>
+    <uid>3</uid>
+    <name>from-mort-2011-10</name>
+  </tag>
+  <tag>
+    <uid>4</uid>
+    <name>no-file</name>
+  </tag>
+  <tag>
+    <uid>5</uid>
+    <name>11.369</name>
+  </tag>
+  <tag>
+    <uid>6</uid>
+    <name>own-work</name>
+  </tag>
+</taglist>
+<doclist>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Sanso%202008.pdf</filename>
+    <relative_filename>Sanso%202008.pdf</relative_filename>
+    <key>sanso-2008</key>
+    <notes></notes>
+    <tagged>3</tagged>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1214/08-BA301</bib_doi>
+    <bib_title>Inferring Climate System Properties Using a Computer Model</bib_title>
+    <bib_authors>Sanso, Bruno and Forest, Chris E. and Zantedeschi, Daniel</bib_authors>
+    <bib_journal>Bayesian Analysis</bib_journal>
+    <bib_volume>3</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1</bib_pages>
+    <bib_year>2008</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Urban,%20Keller%202010.pdf</filename>
+    <relative_filename>Urban,%20Keller%202010.pdf</relative_filename>
+    <key>urban-2010</key>
+    <notes></notes>
+    <tagged>3</tagged>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1111/j.1600-0870.2010.00471.x</bib_doi>
+    <bib_title>Probabilistic hindcasts and projections of the coupled climate, carbon cycle and Atlantic meridional overturning circulation system: a Bayesian fusion of century-scale observations with a simple model</bib_title>
+    <bib_authors>URBAN, NATHAN M. and KELLER, KLAUS</bib_authors>
+    <bib_journal>Tellus A</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>no</bib_pages>
+    <bib_year>2010</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Wang%202011.pdf</filename>
+    <relative_filename>Wang%202011.pdf</relative_filename>
+    <key>wang-2011</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.enpol.2011.03.020</bib_doi>
+    <bib_title>China’s soaring vehicle population: Even greater than forecasted?</bib_title>
+    <bib_authors>Wang, Yunshi and Teter, Jacob and Sperling, Daniel</bib_authors>
+    <bib_journal>Energy Policy</bib_journal>
+    <bib_volume>39</bib_volume>
+    <bib_number>6</bib_number>
+    <bib_pages>3296</bib_pages>
+    <bib_year>2011</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/ANL%202006.pdf</filename>
+    <relative_filename>ANL%202006.pdf</relative_filename>
+    <key>anl-2006</key>
+    <notes></notes>
+    <tagged>0</tagged>
+    <tagged>2</tagged>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Projection of Chinese Motor Vehicle Growth, Oil Demand and CO₂ Emissions Through 2050</bib_title>
+    <bib_authors>Wang, M. and Huo, Hong and Johnson, L. and He, D.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2006</bib_year>
+    <bib_extra key="address">Argonne, IL, USA</bib_extra>
+    <bib_extra key="institution">Argonne National Laboratory</bib_extra>
+    <bib_extra key="month">12</bib_extra>
+    <bib_extra key="note">Report ANL/ESD/06-6</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/ANL%202008.pdf</filename>
+    <relative_filename>ANL%202008.pdf</relative_filename>
+    <key>anl-2008</key>
+    <notes></notes>
+    <tagged>0</tagged>
+    <tagged>2</tagged>
+    <bib_type>article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>ANL 2008</bib_title>
+    <bib_authors>ANL</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2010</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Goodwin%202004.pdf</filename>
+    <relative_filename>Goodwin%202004.pdf</relative_filename>
+    <key>goodwin-2004</key>
+    <notes></notes>
+    <tagged>0</tagged>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1080/0144164042000181725</bib_doi>
+    <bib_title>Elasticities of Road Traffic and Fuel Consumption with Respect to Price and Income: A Review</bib_title>
+    <bib_authors>GOODWIN, PHIL and DARGAY, JOYCE and HANLY, MARK</bib_authors>
+    <bib_journal>Transport Reviews</bib_journal>
+    <bib_volume>24</bib_volume>
+    <bib_number>3</bib_number>
+    <bib_pages>275</bib_pages>
+    <bib_year>2004</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Meyer%202007.pdf</filename>
+    <relative_filename>Meyer%202007.pdf</relative_filename>
+    <key>meyer-2007</key>
+    <notes></notes>
+    <tagged>0</tagged>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.enpol.2007.07.025</bib_doi>
+    <bib_title>International passenger transport and climate change: A sector analysis in car demand and associated emissions from 2000 to 2050</bib_title>
+    <bib_authors>Meyer, I. and Leimbach, M. and Jaeger, C.C.</bib_authors>
+    <bib_journal>Energy Policy</bib_journal>
+    <bib_volume>35</bib_volume>
+    <bib_number>12</bib_number>
+    <bib_pages>6332-6345</bib_pages>
+    <bib_year>2007</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Ou%202010.pdf</filename>
+    <relative_filename>Ou%202010.pdf</relative_filename>
+    <key>ou-2010</key>
+    <notes></notes>
+    <tagged>0</tagged>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.enpol.2010.03.018</bib_doi>
+    <bib_title>Scenario analysis on alternative fuel/vehicle for China’s future road transport: Life-cycle energy demand and GHG emissions</bib_title>
+    <bib_authors>Ou, Xunmin and Zhang, Xiliang and Chang, Shiyan</bib_authors>
+    <bib_journal>Energy Policy</bib_journal>
+    <bib_volume>38</bib_volume>
+    <bib_number>8</bib_number>
+    <bib_pages>3943</bib_pages>
+    <bib_year>2010</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Schafer%202006.pdf</filename>
+    <relative_filename>Schafer%202006.pdf</relative_filename>
+    <key>schafer-2006a</key>
+    <notes></notes>
+    <tagged>0</tagged>
+    <tagged>2</tagged>
+    <tagged>1</tagged>
+    <bib_type>article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Long-term tends in global passenger mobility</bib_title>
+    <bib_authors>Andreas Schafer</bib_authors>
+    <bib_journal>The Bridge</bib_journal>
+    <bib_volume>36</bib_volume>
+    <bib_number>4</bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2006</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Weinert%202008.pdf</filename>
+    <relative_filename>Weinert%202008.pdf</relative_filename>
+    <key>weinert-2008</key>
+    <notes></notes>
+    <tagged>0</tagged>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.enpol.2008.03.008</bib_doi>
+    <bib_title>The future of electric two-wheelers and electric vehicles in China</bib_title>
+    <bib_authors>Weinert, Jonathan and Ogden, Joan and Sperling, Dan and Burke, Andrew</bib_authors>
+    <bib_journal>Energy Policy</bib_journal>
+    <bib_volume>36</bib_volume>
+    <bib_number>7</bib_number>
+    <bib_pages>2544</bib_pages>
+    <bib_year>2008</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Zhou%202011.pdf</filename>
+    <relative_filename>Zhou%202011.pdf</relative_filename>
+    <key>zhou-2011</key>
+    <notes></notes>
+    <tagged>0</tagged>
+    <tagged>2</tagged>
+    <tagged>1</tagged>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>China&apos;s Energy and Carbon Emissions Outlook to 2050</bib_title>
+    <bib_authors>Zhou, Nan and Fridely, David and McNeil, Michael and Zheng, Nina and Ke, Jing and Levine, Mark</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="institution">Lawrence Berkeley National Laboratory</bib_extra>
+    <bib_extra key="month">4</bib_extra>
+    <bib_extra key="note">Report LBNL-4472E</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>schafer-2009</key>
+    <notes></notes>
+    <tagged>4</tagged>
+    <tagged>2</tagged>
+    <bib_type>book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Transportation in a Climate-Constrained World</bib_title>
+    <bib_authors>Schäfer, Andreas and Heywood, John B. and Jacoby, Henry D. and Waitz, Ian A.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2009</bib_year>
+    <bib_extra key="publisher">MIT Press</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Paltsev%202005%20%5BJP%20125%5D.pdf</filename>
+    <relative_filename>Paltsev%202005%20%5BJP%20125%5D.pdf</relative_filename>
+    <key>paltsev-2005</key>
+    <notes></notes>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The MIT Emissions Prediction and Policy Analysis (EPPA) Model: Version 4</bib_title>
+    <bib_authors>Paltsev, Sergey and Reilly, John and Jacoby, Henry and Eckaus, R. and McFarland, J. and Sarofim, M. and Asadoorian, M. and Babiker, M.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2005</bib_year>
+    <bib_extra key="address">Cambridge, MA</bib_extra>
+    <bib_extra key="institution">MIT Joint Program on the Science and Policy of Global Change</bib_extra>
+    <bib_extra key="type">Report 125</bib_extra>
+    <bib_extra key="url">http://globalchange.mit.edu/files/document/MITJPSPGC_Rpt125.pdf</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Karplus%202011.pdf</filename>
+    <relative_filename>Karplus%202011.pdf</relative_filename>
+    <key>karplus-2011</key>
+    <notes></notes>
+    <tagged>0</tagged>
+    <bib_type>phdthesis</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Climate and Energy Policy for U.S. Passenger Vehicles: A Technology-Rich Economic Modeling and Policy Analysis</bib_title>
+    <bib_authors>Valerie Jean Karplus</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="address">Cambridge, USA</bib_extra>
+    <bib_extra key="month">2</bib_extra>
+    <bib_extra key="school">Massachusetts Institute of Technology</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>hertel-2007</key>
+    <notes></notes>
+    <tagged>4</tagged>
+    <bib_type>book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Global Trade Analysis: Modeling and Applications</bib_title>
+    <bib_authors>Thomas W. Hertel</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1997</bib_year>
+    <bib_extra key="address">Cambridge, UK</bib_extra>
+    <bib_extra key="editor">Thomas W. Hertel</bib_extra>
+    <bib_extra key="publisher">Press Syndicate of the University of Cambridge</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>gtap-2002</key>
+    <notes></notes>
+    <tagged>4</tagged>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Global trade, assistance, and production: the GTAP 5 data base</bib_title>
+    <bib_authors>Betina V. Dimaranan and Robert A. McDougall</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2002</bib_year>
+    <bib_extra key="address">West Lafayette, Indiana, USA</bib_extra>
+    <bib_extra key="institution">Center for Global Trade Analysis, Purdue University</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename>Paltsev%202011.docx</relative_filename>
+    <key>paltsev-2012</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The Role of China in Mitigating Climate Change</bib_title>
+    <bib_authors>Paltsev, Sergey and Morris, Jennifer and Cai, Yongxia and Karplus, Valerie and Jacoby, Henry</bib_authors>
+    <bib_journal>Energy Economics (in print)</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Dargay%202007.pdf</filename>
+    <relative_filename>Dargay%202007.pdf</relative_filename>
+    <key>dargay-2007</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Vehicle ownership and income growth, worldwide: 1960-2030</bib_title>
+    <bib_authors>Joyce Dargay and Dermot Gately and Martin Sommer</bib_authors>
+    <bib_journal>The Energy Journal</bib_journal>
+    <bib_volume>28</bib_volume>
+    <bib_number>4</bib_number>
+    <bib_pages>143-170</bib_pages>
+    <bib_year>2007</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Huo%202011a.pdf</filename>
+    <relative_filename>Huo%202011a.pdf</relative_filename>
+    <key>huo-2011a</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.enpol.2011.09.019</bib_doi>
+    <bib_title>Vehicle-use intensity in China: Current status and future trend</bib_title>
+    <bib_authors>Huo, Hong and Zhang, Qiang and He, Kebin and Yao, Zhiliang and Wang, Michael</bib_authors>
+    <bib_journal>Energy Policy (in print)</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Huo%202011b.pdf</filename>
+    <relative_filename>Huo%202011b.pdf</relative_filename>
+    <key>huo-2011b</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.enpol.2011.09.064</bib_doi>
+    <bib_title>Vehicle technologies, fuel-economy policies, and fuel-consumption rates of Chinese vehicles</bib_title>
+    <bib_authors>Huo, Hong and He, Kebin and Wang, Michael and Yao, Zhiliang</bib_authors>
+    <bib_journal>Energy Policy (in print)</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Han,%20Hayashi%202008.pdf</filename>
+    <relative_filename>Han,%20Hayashi%202008.pdf</relative_filename>
+    <key>han-2008</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.trd.2008.09.007</bib_doi>
+    <bib_title>Assessment of private car stock and its environmental impacts in China from 2000 to 2020</bib_title>
+    <bib_authors>Han, Ji and Hayashi, Yoshitsugu</bib_authors>
+    <bib_journal>Transportation Research Part D: Transport and Environment</bib_journal>
+    <bib_volume>13</bib_volume>
+    <bib_number>7</bib_number>
+    <bib_pages>471</bib_pages>
+    <bib_year>2008</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Schafer,%20Victor%202000.pdf</filename>
+    <relative_filename>Schafer,%20Victor%202000.pdf</relative_filename>
+    <key>schafer-2000</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/S0965-8564(98)00071-8</bib_doi>
+    <bib_title>The future mobility of the world population</bib_title>
+    <bib_authors>Schafer, A and Victor, D</bib_authors>
+    <bib_journal>Transportation Research Part A: Policy and Practice</bib_journal>
+    <bib_volume>34</bib_volume>
+    <bib_number>3</bib_number>
+    <bib_pages>171</bib_pages>
+    <bib_year>2000</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Schafer,%20Jacoby%202006.pdf</filename>
+    <relative_filename>Schafer,%20Jacoby%202006.pdf</relative_filename>
+    <key>schafer-2006b</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.enpol.2004.08.051</bib_doi>
+    <bib_title>Vehicle technology under CO2 constraint: a general equilibrium analysis</bib_title>
+    <bib_authors>Schafer, Andreas and Jacoby, Henry D.</bib_authors>
+    <bib_journal>Energy Policy</bib_journal>
+    <bib_volume>34</bib_volume>
+    <bib_number>9</bib_number>
+    <bib_pages>975</bib_pages>
+    <bib_year>2006</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/AT%20Kearney%202011.pdf</filename>
+    <relative_filename>AT%20Kearney%202011.pdf</relative_filename>
+    <key>atkearney-2011</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>China Solutions</bib_title>
+    <bib_authors>{A.T. Kearney}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="howpublished">Presentation slides</bib_extra>
+    <bib_extra key="month">5</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Barclays%202011.pdf</filename>
+    <relative_filename>Barclays%202011.pdf</relative_filename>
+    <key>barclays-2011</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>BRIC exposure provides mid-term growth</bib_title>
+    <bib_authors>{Barclays Capital}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="howpublished">U.S. autos \&amp; auto parts industry update, delivered 27 May 2011.</bib_extra>
+    <bib_extra key="month">5</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Winchester%202011%20%5BJP%20198%5D.pdf</filename>
+    <relative_filename>Winchester%202011%20%5BJP%20198%5D.pdf</relative_filename>
+    <key>winchester-2011</key>
+    <notes></notes>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The Impact of Climate Policy on U.S. Aviation</bib_title>
+    <bib_authors>Winchester, N. and Wollersheim, C. and Clewlow, R. and Jost, N.C. and Paltsev, S. and Reilly, J. and Waitz, I.A.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="address">Cambridge, MA, USA</bib_extra>
+    <bib_extra key="institution">MIT Joint Program on the Science and Policy of Global Change</bib_extra>
+    <bib_extra key="month">4</bib_extra>
+    <bib_extra key="type">Report 198</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>rubenstein-2007-ch6</key>
+    <notes></notes>
+    <bib_type>inbook</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Simulation and the Monte Carlo Method</bib_title>
+    <bib_authors>Rubenstein, R.Y. and Kroese, D.P.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>167-200</bib_pages>
+    <bib_year>2007</bib_year>
+    <bib_extra key="address">Hoboken, NJ, USA.</bib_extra>
+    <bib_extra key="chapter">6. Markov Chain Monte Carlo</bib_extra>
+    <bib_extra key="edition">2</bib_extra>
+    <bib_extra key="publisher">John Wiley \&amp; Sons, Inc.</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>irf-2010</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>World Road Statistics 2010 and electronic files</bib_title>
+    <bib_authors>{International Road Federation}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2010</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>gmid-2011</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Statistics retrieved October, 2011, from Euromonitor Global Market Information Database</bib_title>
+    <bib_authors>Euromonitor</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>iea-2010</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi>10.1787/data-00512-en</bib_doi>
+    <bib_title>World Energy Balances 1970-2009</bib_title>
+    <bib_authors>{International Energy Agency}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2010</bib_year>
+    <bib_extra key="note">Accessed October, 2011.</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>csy-2010</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>China Statistical Yearbook 2010</bib_title>
+    <bib_authors>{China National Bureau of Statistics}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2010</bib_year>
+    <bib_extra key="howpublished">Beijing, China</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Hao%202011a.pdf</filename>
+    <relative_filename>Hao%202011a.pdf</relative_filename>
+    <key>hao-2011a</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.enpol.2010.11.039</bib_doi>
+    <bib_title>Comparison of policies on vehicle ownership and use between Beijing and Shanghai and their impacts on fuel consumption by passenger vehicles</bib_title>
+    <bib_authors>Hao, Han and Wang, Hewu and Ouyang, Minggao</bib_authors>
+    <bib_journal>Energy Policy</bib_journal>
+    <bib_volume>39</bib_volume>
+    <bib_number>2</bib_number>
+    <bib_pages>1016--1021</bib_pages>
+    <bib_year>2011</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>ontario-2009</key>
+    <notes></notes>
+    <tagged>5</tagged>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Green Energy and Green Economy Act</bib_title>
+    <bib_authors>{Province of Ontario}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2009</bib_year>
+    <bib_extra key="howpublished">Online: \url{http://www.e-laws.gov.on.ca/html/source/statutes/english/2009/elaws_src_s09012_e.htm}</bib_extra>
+    <bib_extra key="note">Accessed 19 March 2012.</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Ontario%20MEI%202010.pdf</filename>
+    <relative_filename>Ontario%20MEI%202010.pdf</relative_filename>
+    <key>ontario-2010</key>
+    <notes></notes>
+    <tagged>5</tagged>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Long Term Energy Plan</bib_title>
+    <bib_authors>{Ontario Ministry of Energy and Infrastructure}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2010</bib_year>
+    <bib_extra key="howpublished">Online: \url{http://www.energy.gov.on.ca/docs/en/MEI_LTEP_en.pdf}</bib_extra>
+    <bib_extra key="note">Accessed 19 March 2012.</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Joshi%202012.pdf</filename>
+    <relative_filename>Joshi%202012.pdf</relative_filename>
+    <key>joshi-2012</key>
+    <notes></notes>
+    <tagged>5</tagged>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Energy Security for Ontario</bib_title>
+    <bib_authors>Robert Joshi</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="institution">Mowat Centre for Policy Innovation</bib_extra>
+    <bib_extra key="month">February</bib_extra>
+    <bib_extra key="note">Online: \url{http://mowatcentre.ca/research-topic-mowat.php?mowatResearchID=49}. Accessed 19 March 2012.</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>samsung-2010</key>
+    <notes></notes>
+    <tagged>5</tagged>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Samsung C\&amp;T to Build World&apos;s Largest Wind, Solar Panel Cluster In Ontario</bib_title>
+    <bib_authors>{Samsung C\&amp;T Corporation}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2010</bib_year>
+    <bib_extra key="howpublished">Press release, online: \url{http://www.samsungcnt.com/EN/pr/board_view.asp?fidx=1805&amp;fpart=eng}</bib_extra>
+    <bib_extra key="month">January</bib_extra>
+    <bib_extra key="note">Accessed 19 March 2012.</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>cp-2010-10-07</key>
+    <notes></notes>
+    <tagged>5</tagged>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>``Oakville power plant plan cancelled,&apos;&apos; CBC News, 07 October 2010</bib_title>
+    <bib_authors>{Canadian Press}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2010</bib_year>
+    <bib_extra key="howpublished">Online: \url{http://www.cbc.ca/news/canada/toronto/story/2010/10/07/oakville-plant.html}</bib_extra>
+    <bib_extra key="note">Accessed 19 March 2012</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>cbc-2011-10-05</key>
+    <notes></notes>
+    <tagged>5</tagged>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>``Political parties missing the mark on energy debate: Energy analyst says noise over hydro bills distracting from fundamental energy questions,&apos;&apos; CBC News, 05 October 2011</bib_title>
+    <bib_authors>{Canadian Broadcasting Corporation}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="howpublished">Online: \url{http://www.cbc.ca/news/canada/sudbury/story/2011/10/05/tby-green-energy.html}</bib_extra>
+    <bib_extra key="note">Accessed 19 March 2012.</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>cbc-2010-07-08</key>
+    <notes></notes>
+    <tagged>5</tagged>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>``Ontario eyes lower solar incentives,&apos;&apos; CBC News, 08 July 2010</bib_title>
+    <bib_authors>{Canadian Broadcasting Corporation}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2010</bib_year>
+    <bib_extra key="howpublished">Online: \url{http://www.cbc.ca/news/canada/ottawa/story/2010/07/07/ottawa-solar-rate-drop.html}</bib_extra>
+    <bib_extra key="note">Accessed 19 March 2012</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>cp-2012-03-22</key>
+    <notes></notes>
+    <tagged>5</tagged>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>``Ontario to cut rates paid for wind, solar power,&apos;&apos; CBC News, 22 March 2012</bib_title>
+    <bib_authors>{Canadian Press}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="howpublished">Online: \url{http://www.cbc.ca/news/canada/toronto/story/2012/03/22/ontario-wind-solar-electricity-rates.html}</bib_extra>
+    <bib_extra key="note">Accessed 23 March 2012</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>cbc-2012-02-02</key>
+    <notes></notes>
+    <tagged>5</tagged>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>``Reverse Enbridge oil pipeline, urge Suncor, union,&apos;&apos; CBC News, 02 February 2012</bib_title>
+    <bib_authors>Max Paris</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="howpublished">Online: \url{http://www.cbc.ca/news/business/story/2012/02/02/max-paris-suncor.html}</bib_extra>
+    <bib_extra key="note">Accessed 19 March 2012</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>usepa-2010</key>
+    <notes></notes>
+    <tagged>5</tagged>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Amending the Great Lakes Water Quality Agreement: Background</bib_title>
+    <bib_authors>{U.S. EPA \&amp; Environment Canada}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2010</bib_year>
+    <bib_extra key="howpublished">Website: \url{http://binational.net/glwqa_2011_e.html}</bib_extra>
+    <bib_extra key="note">Accessed 19 March 2012</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>hydro-one-2009</key>
+    <notes></notes>
+    <tagged>5</tagged>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Historical Timeline</bib_title>
+    <bib_authors>{Hydro One Inc.}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2009</bib_year>
+    <bib_extra key="howpublished">Website: \url{http://www.hydroone.com/OurCompany/Pages/timeline.aspx}</bib_extra>
+    <bib_extra key="note">Accessed 19 March 2012</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Davis%202012.pdf</filename>
+    <relative_filename>Davis%202012.pdf</relative_filename>
+    <key>davis-2012</key>
+    <notes></notes>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Transportation and the New Generation: Why young people are driving less and what it means for transportation policy</bib_title>
+    <bib_authors>Davis, Benjamin and Dutzik, Tony and Baxandall, Phineas</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="address">Boston, MA</bib_extra>
+    <bib_extra key="institution">Frontier Group/U.S. PIRG Education Fund</bib_extra>
+    <bib_extra key="month">April</bib_extra>
+    <bib_extra key="note">\url{http://www.frontiergroup.org/reports/fg/transportation-and-new-generation}</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Loo%201999.pdf</filename>
+    <relative_filename>Loo%201999.pdf</relative_filename>
+    <key>loo-1999</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/S0966-6923(98)00037-4</bib_doi>
+    <bib_title>Development of a regional transport infrastructure: some lessons from the Zhujiang Delta, Guangdong, China</bib_title>
+    <bib_authors>Loo, Becky P.Y.</bib_authors>
+    <bib_journal>Journal of Transport Geography</bib_journal>
+    <bib_volume>7</bib_volume>
+    <bib_number>1</bib_number>
+    <bib_pages>43--63</bib_pages>
+    <bib_year>1999</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Chen%202010.pdf</filename>
+    <relative_filename>Chen%202010.pdf</relative_filename>
+    <key>chen-2010</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.3141/2159-02</bib_doi>
+    <bib_title>High-Speed Rail Project Development Processes in the United States and China</bib_title>
+    <bib_authors>Chen, Xueming (Jimmy) and Zhang, Ming</bib_authors>
+    <bib_journal>Transportation Research Record</bib_journal>
+    <bib_volume>2159</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>9--17</bib_pages>
+    <bib_year>2010</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Amos%202010.pdf</filename>
+    <relative_filename>Amos%202010.pdf</relative_filename>
+    <key>amos-2010</key>
+    <notes></notes>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>High-Speed Rail: The Fast Track to Economic Development?</bib_title>
+    <bib_authors>Amos, Paul and Bullock, Dick and Sondhi, Jitendra</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2010</bib_year>
+    <bib_extra key="address">Beijing, China</bib_extra>
+    <bib_extra key="institution">The World Bank</bib_extra>
+    <bib_extra key="month">07</bib_extra>
+    <bib_extra key="note">\url{http://documents.worldbank.org/curated/en/2010/07/12582340/}</bib_extra>
+    <bib_extra key="type">Working Paper \#55856</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/de%20Jong%202008.pdf</filename>
+    <relative_filename>de%20Jong%202008.pdf</relative_filename>
+    <key>de-jong-2008</key>
+    <notes></notes>
+    <bib_type>inproceedings</bib_type>
+    <bib_doi>10.1109/INFRA.2008.5439595</bib_doi>
+    <bib_title>Applying public-private partnership to subway construction in China: What is the evidence?</bib_title>
+    <bib_authors>de Jong, Martin and Shanshan, Xu and Stead, Dominic</bib_authors>
+    <bib_journal>Infras</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1--6</bib_pages>
+    <bib_year>2008</bib_year>
+    <bib_extra key="address">Rotterdam, Netherlands</bib_extra>
+    <bib_extra key="booktitle">First International Conference on Infrastructure Systems and Services</bib_extra>
+    <bib_extra key="organisation">IEEE</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Wong%202002.pdf</filename>
+    <relative_filename>Wong%202002.pdf</relative_filename>
+    <key>wong-2002</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/S0965-8564(01)00003-9</bib_doi>
+    <bib_title>Evaluation of managementstrategies for the operation of high-speedrailways in China</bib_title>
+    <bib_authors>Wong, W.G. and Han, B.M. and Ferreira, L. and Zhu, X.N. and Sun, Q.X.</bib_authors>
+    <bib_journal>Transportation Research Part A: Policy and Practice</bib_journal>
+    <bib_volume>36</bib_volume>
+    <bib_number>3</bib_number>
+    <bib_pages>277--289</bib_pages>
+    <bib_year>2002</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Creutzig%202009.pdf</filename>
+    <relative_filename>Creutzig%202009.pdf</relative_filename>
+    <key>creutzig-2009</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.trd.2008.11.007</bib_doi>
+    <bib_title>Climate change mitigation and co-benefits of feasible transport demand policies in Beijing</bib_title>
+    <bib_authors>Creutzig, Felix and He, Dongquan</bib_authors>
+    <bib_journal>Transportation Research Part D: Transport and Environment</bib_journal>
+    <bib_volume>14</bib_volume>
+    <bib_number>2</bib_number>
+    <bib_pages>120--131</bib_pages>
+    <bib_year>2009</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Wang%202010.pdf</filename>
+    <relative_filename>Wang%202010.pdf</relative_filename>
+    <key>wang-2010</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.tranpol.2010.01.001</bib_doi>
+    <bib_title>Shaping urban transport policies in China: Will copying foreign policies work?</bib_title>
+    <bib_authors>Wang, Rui</bib_authors>
+    <bib_journal>Transport Policy</bib_journal>
+    <bib_volume>17</bib_volume>
+    <bib_number>3</bib_number>
+    <bib_pages>147--152</bib_pages>
+    <bib_year>2010</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Weinert%202007.pdf</filename>
+    <relative_filename>Weinert%202007.pdf</relative_filename>
+    <key>weinert-2007</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1007/s11116-007-9118-8</bib_doi>
+    <bib_title>The transition to electric bikes in China: history and key reasons for rapid growth</bib_title>
+    <bib_authors>Weinert, Jonathan and Ma, Chaktan and Cherry, Christopher</bib_authors>
+    <bib_journal>Transportation</bib_journal>
+    <bib_volume>34</bib_volume>
+    <bib_number>3</bib_number>
+    <bib_pages>301--318</bib_pages>
+    <bib_year>2007</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Leaver%202012.pdf</filename>
+    <relative_filename>Leaver%202012.pdf</relative_filename>
+    <key>leaver-2012</key>
+    <notes></notes>
+    <bib_type>inproceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Potential for low transport energy use in developing Asian cities through compact urban development</bib_title>
+    <bib_authors>Leaver, Luke H.T. and Samuelson, Ralph and Leaver, Jonathan D.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="address">Kyoto, Japan</bib_extra>
+    <bib_extra key="booktitle">3rd IAEE Asian Conference</bib_extra>
+    <bib_extra key="organisation">International Association for Energy Economics</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Dahl%202012.pdf</filename>
+    <relative_filename>Dahl%202012.pdf</relative_filename>
+    <key>dahl-2012</key>
+    <notes></notes>
+    <bib_type>inproceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Rationalizing Transport Fuels Pricing Policies and Effects on Global Fuel Consumption</bib_title>
+    <bib_authors>Dahl, Carol and Anouti, Yahya Faisal</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="address">Kyoto, Japan</bib_extra>
+    <bib_extra key="booktitle">3rd IAEE Asian Conference</bib_extra>
+    <bib_extra key="organisation">International Association for Energy Economics</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Gonz%C3%A1lez%20Palencia%202012.pdf</filename>
+    <relative_filename>Gonz%C3%A1lez%20Palencia%202012.pdf</relative_filename>
+    <key>gonzalez-palencia-2012</key>
+    <notes></notes>
+    <bib_type>inproceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Low carbon road passenger transportation system design using combined energy and materials flows in Colombia</bib_title>
+    <bib_authors>González Palencia, Juan C. and Furubayashi, Takaaki and Nakata, Toshihiko</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="address">Kyoto, Japan</bib_extra>
+    <bib_extra key="booktitle">3rd IAEE Asian Conference</bib_extra>
+    <bib_extra key="organisation">International Association for Energy Economics</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Kishimoto%202012a.pdf</filename>
+    <relative_filename>Kishimoto%202012a.pdf</relative_filename>
+    <key>kishimoto-2012a</key>
+    <notes></notes>
+    <tagged>6</tagged>
+    <bib_type>conference</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The future energy and GHG emissions impact of alternative personal transportation pathways in China</bib_title>
+    <bib_authors>Kishimoto, Paul N. and Paltsev, Sergey and Karplus, Valerie J.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="address">Kyoto, Japan</bib_extra>
+    <bib_extra key="howpublished">Proceedings, 3rd IAEE Asian Conference</bib_extra>
+    <bib_extra key="month">02</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Karplus%202012a.pdf</filename>
+    <relative_filename>Karplus%202012a.pdf</relative_filename>
+    <key>karplus-2012a</key>
+    <notes></notes>
+    <bib_type>unpublished</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The global energy, CO2 emissions, and economic impact of vehicle fuel economy standards</bib_title>
+    <bib_authors>Karplus, V. and Kishimoto, P.N. and Paltsev, S.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="note">In press</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Yan,%20Crookes%202010.pdf</filename>
+    <relative_filename>Yan,%20Crookes%202010.pdf</relative_filename>
+    <key>yan-2010</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.pecs.2010.02.003</bib_doi>
+    <bib_title>Energy demand and emissions from road transportation vehicles in China</bib_title>
+    <bib_authors>Yan, Xiaoyu and Crookes, Roy J.</bib_authors>
+    <bib_journal>Progress in Energy and Combustion Science</bib_journal>
+    <bib_volume>36</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>651--676</bib_pages>
+    <bib_year>2010</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Cherry+%202009.pdf</filename>
+    <relative_filename>Cherry+%202009.pdf</relative_filename>
+    <key>cherry-2009</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.trd.2008.11.003</bib_doi>
+    <bib_title>Comparative environmental impacts of electric bikes in China</bib_title>
+    <bib_authors>Cherry, Christopher R. and Weinert, Jonathan X. and Yang, Xinmiao</bib_authors>
+    <bib_journal>Transportation Research Part D: Transport and Environment</bib_journal>
+    <bib_volume>14</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>281--290</bib_pages>
+    <bib_year>2009</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>ou-2010b</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Life cycle analysis of electric vehicle charged by advanced technologies coal-power in future China</bib_title>
+    <bib_authors>Ou, X and Zhang, X and Qin, Y and Qi T</bib_authors>
+    <bib_journal>Journal of China Coal Society</bib_journal>
+    <bib_volume>35</bib_volume>
+    <bib_number>1</bib_number>
+    <bib_pages>169--72</bib_pages>
+    <bib_year>2010</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>csy-2011</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>China Statistical Yearbook 2011</bib_title>
+    <bib_authors>{China National Bureau of Statistics}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="howpublished">Beijing, China</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>chester-2010</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1088/1748-9326/5/1/014003</bib_doi>
+    <bib_title>Life-cycle assessment of high-speed rail: the case of California</bib_title>
+    <bib_authors>Chester, Mikhail and Horvath, Arpad</bib_authors>
+    <bib_journal>Environmental Research Letters</bib_journal>
+    <bib_volume>5</bib_volume>
+    <bib_number>1</bib_number>
+    <bib_pages>014003</bib_pages>
+    <bib_year>2010</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Wang%20SX%202010.pdf</filename>
+    <relative_filename>Wang%20SX%202010.pdf</relative_filename>
+    <key>wang-sx-2010</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1021/es9028167</bib_doi>
+    <bib_title>Quantifying the Air Pollutants Emission Reduction during the 2008 Olympic Games in Beijing</bib_title>
+    <bib_authors>WANG, Shuxiao and ZHAO, Meng and XING, Jia and WU, Ye and ZHOU, Yu and LEI, Yu and HE, Kebin and FU, Lixin and HAO, Jiming</bib_authors>
+    <bib_journal>Environmental Science \&amp; Technology</bib_journal>
+    <bib_volume>44</bib_volume>
+    <bib_number>7</bib_number>
+    <bib_pages>2490--2496</bib_pages>
+    <bib_year>2010</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Wu%202011.pdf</filename>
+    <relative_filename>Wu%202011.pdf</relative_filename>
+    <key>wu-2011</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1021/es1014289</bib_doi>
+    <bib_title>On-Road Vehicle Emission Control in Beijing: Past, Present, and Future</bib_title>
+    <bib_authors>WU, Ye and WANG, Renjie and ZHOU, Yu and LIN, Bohong and FU, Lixin and HE, Kebin and HAO, Jiming</bib_authors>
+    <bib_journal>Environmental Science \&amp; Technology</bib_journal>
+    <bib_volume>45</bib_volume>
+    <bib_number>1</bib_number>
+    <bib_pages>147--153</bib_pages>
+    <bib_year>2011</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Shen%201997.pdf</filename>
+    <relative_filename>Shen%201997.pdf</relative_filename>
+    <key>shen-1997</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1111/1468-2427.00103</bib_doi>
+    <bib_title>Urban Transportation in Shanghai, China: Problems and Planning Implications</bib_title>
+    <bib_authors>Shen, Qing</bib_authors>
+    <bib_journal>International Journal of Urban and Regional Research</bib_journal>
+    <bib_volume>21</bib_volume>
+    <bib_number>4</bib_number>
+    <bib_pages>589--606</bib_pages>
+    <bib_year>1997</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Verma%202011.pdf</filename>
+    <relative_filename>Verma%202011.pdf</relative_filename>
+    <key>verma-2011</key>
+    <notes></notes>
+    <tagged>2</tagged>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Predicting Within Country Household Food Expenditure Variation Using International Cross-Section Estimates</bib_title>
+    <bib_authors>Verma, Monika</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="type">GTAP Working Paper No. 57</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Yuan%202011.pdf</filename>
+    <relative_filename>Yuan%202011.pdf</relative_filename>
+    <key>yuan-2011</key>
+    <notes></notes>
+    <bib_type>inproceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Research on Urban Rail Transit Financing Operation Modes</bib_title>
+    <bib_authors>Yuan, Yuan and Lou, Sai</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1174--9</bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="address">Rome, Italy</bib_extra>
+    <bib_extra key="booktitle">18th International Conference on Management Science \&amp; Engineering</bib_extra>
+    <bib_extra key="organisation">IEEE</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Loo%202006.pdf</filename>
+    <relative_filename>Loo%202006.pdf</relative_filename>
+    <key>loo-2006</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1007/s11116-005-3046-2</bib_doi>
+    <bib_title>Developing metro systems in the People’s Republic of China: Policy and gaps</bib_title>
+    <bib_authors>Loo, Becky P.Y. and Li, Dennis Y.N.</bib_authors>
+    <bib_journal>Transportation</bib_journal>
+    <bib_volume>33</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>115--32</bib_pages>
+    <bib_year>2006</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Yin%202011.pdf</filename>
+    <relative_filename>Yin%202011.pdf</relative_filename>
+    <key>yin-2011</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1007/s10661-010-1660-8</bib_doi>
+    <bib_title>Monitoring urban expansion and land use/land cover changes of Shanghai metropolitan area during the transitional economy (1979–2009) in China</bib_title>
+    <bib_authors>Yin, Jie and Yin, Zhane and Zhong, Haidong and Xu, Shiyuan and Hu, Xiaomeng and Wang, Jun and Wu, Jianping</bib_authors>
+    <bib_journal>Environmental Monitoring and Assessment</bib_journal>
+    <bib_volume>177</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>609--621</bib_pages>
+    <bib_year>2011</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Wang%20QD%202008.pdf</filename>
+    <relative_filename>Wang%20QD%202008.pdf</relative_filename>
+    <key>wang-qd-2008</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.trd.2008.03.003</bib_doi>
+    <bib_title>Characterization of vehicle driving patterns and development of driving cycles in Chinese cities</bib_title>
+    <bib_authors>Wang, Qidong and Huo, Hong and He, Kebin and Yao, Zhiliang and Zhang, Qiang</bib_authors>
+    <bib_journal>Transportation Research Part D</bib_journal>
+    <bib_volume>13</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>289--97</bib_pages>
+    <bib_year>2008</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Morris%202003.pdf</filename>
+    <relative_filename>Morris%202003.pdf</relative_filename>
+    <key>morris-2003</key>
+    <notes></notes>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Impact of Biodiesel Fuels on Air Quality and Human Health</bib_title>
+    <bib_authors>Morris, R.E. and Pollack, A.K. and Mansell, G.E. and Lindhjem, C. and Jia, Y. and Wilson, G.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2003</bib_year>
+    <bib_extra key="address">Novato, California</bib_extra>
+    <bib_extra key="institution">ENVIRON International Corporation</bib_extra>
+    <bib_extra key="month">May</bib_extra>
+    <bib_extra key="type">National Renewable Energy Laboratory report NREL/SR-540-33793</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Feng%202010.pdf</filename>
+    <relative_filename>Feng%202010.pdf</relative_filename>
+    <key>feng-2010</key>
+    <notes></notes>
+    <bib_type>inproceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Performance Analysis on Private Vehicle Plate Auction in Shanghai</bib_title>
+    <bib_authors>Feng, Suwei and Ma, Zuqi</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>6--12</bib_pages>
+    <bib_year>2010</bib_year>
+    <bib_extra key="address">Beijing, China</bib_extra>
+    <bib_extra key="booktitle">The Sixth Advanced Forum on Transportation of China</bib_extra>
+    <bib_extra key="organisation">Beijing Jiaotong University (BJU), Systems Engineering Society of China (SESC)</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Ruet%202010.pdf</filename>
+    <relative_filename>Ruet%202010.pdf</relative_filename>
+    <key>ruet-2010</key>
+    <notes></notes>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Shanghai Municipality Case Study</bib_title>
+    <bib_authors>Ruet, Joël and Vallantin, Fanny and Daval, Antoine and Pasternak, Jean</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2009</bib_year>
+    <bib_extra key="address">London, UK</bib_extra>
+    <bib_extra key="institution">World Energy Council</bib_extra>
+    <bib_extra key="type">Energy for Mega Cities Study</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Hu%20XJ%202010.pdf</filename>
+    <relative_filename>Hu%20XJ%202010.pdf</relative_filename>
+    <key>hu-xj-2010</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.energy.2009.05.024</bib_doi>
+    <bib_title>Energy for sustainable road transportation in China: Challenges, initiatives and policy implications</bib_title>
+    <bib_authors>Hu, Xiaojun and Chang, Shiyan and Li, Jingjie and Qin, Yining</bib_authors>
+    <bib_journal>Energy</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>4289--301</bib_pages>
+    <bib_year>2010</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Anas%202009.pdf</filename>
+    <relative_filename>Anas%202009.pdf</relative_filename>
+    <key>anas-2009</key>
+    <notes></notes>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>An Analysis of Various Policy Instruments to Reduce Congestion, Fuel Consumption and CO$_2$ Emissions in Beijing</bib_title>
+    <bib_authors>Anas, Alex and Timilsina, Govinda R. and Zheng, Siqi</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2009</bib_year>
+    <bib_extra key="address">Washington, DC, USA</bib_extra>
+    <bib_extra key="institution">Tne World Bank, Development Research Group, Environment and Energy Team</bib_extra>
+    <bib_extra key="type">Policy Research Working Paper 5068</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Yusuf,%20Nabeshima%202010.pdf</filename>
+    <relative_filename>Yusuf,%20Nabeshima%202010.pdf</relative_filename>
+    <key>yusuf-nabeshima-2010</key>
+    <notes></notes>
+    <bib_type>book</bib_type>
+    <bib_doi>10.1596/978-0-8213-8048-2</bib_doi>
+    <bib_title>Two Dragon Heads: Contrasting Development Paths for Beijing and Shanghai</bib_title>
+    <bib_authors>Yusuf, Shahid and Nabeshima, Kaoru</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2010</bib_year>
+    <bib_extra key="address">Washington, DC, USA</bib_extra>
+    <bib_extra key="publisher">The World Bank</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Peng%202004.pdf</filename>
+    <relative_filename>Peng%202004.pdf</relative_filename>
+    <key>peng-2004</key>
+    <notes></notes>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Urban Transportation Strategies in Chinese Cities and Their Impacts on the Urban Poor</bib_title>
+    <bib_authors>Peng, Zhong-Ren</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2004</bib_year>
+    <bib_extra key="address">Washington, DC, USA</bib_extra>
+    <bib_extra key="institution">Woodrow Wilson International Center for Scholars</bib_extra>
+    <bib_extra key="type">Comparative Urban Studies Program Report</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>nam-2012</key>
+    <notes></notes>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>City-Size Distribution as a Function of Socioeconomic Conditions: An Eclectic Approach to Downscaling Global Population</bib_title>
+    <bib_authors>Nam, Kyung-Min and Reilly, John</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="address">Cambridge, MA, USA</bib_extra>
+    <bib_extra key="institution">MIT Joint Program on the Science \&amp; Policy of Global Change</bib_extra>
+    <bib_extra key="month">March</bib_extra>
+    <bib_extra key="type">Joint Program Report Series \#213</bib_extra>
+  </doc>
+</doclist>
+</library>
