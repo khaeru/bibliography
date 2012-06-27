@@ -1,0 +1,5 @@
+- .git*
+- .rsync-filter
+- all.bib
+- all.reflib
+- README
