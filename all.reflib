@@ -35,6 +35,14 @@
     <uid>7</uid>
     <name>from-rks</name>
   </tag>
+  <tag>
+    <uid>8</uid>
+    <name>correspondence</name>
+  </tag>
+  <tag>
+    <uid>9</uid>
+    <name>JP Reports</name>
+  </tag>
 </taglist>
 <doclist>
   <doc>
@@ -248,6 +256,7 @@
     <relative_filename>Paltsev%202005%20%5BJP%20125%5D.pdf</relative_filename>
     <key>paltsev-2005</key>
     <notes></notes>
+    <tagged>9</tagged>
     <bib_type>techreport</bib_type>
     <bib_doi></bib_doi>
     <bib_title>The MIT Emissions Prediction and Policy Analysis (EPPA) Model: Version 4</bib_title>
@@ -964,24 +973,25 @@
     <key>kishimoto-2012a</key>
     <notes></notes>
     <tagged>6</tagged>
-    <bib_type>conference</bib_type>
+    <bib_type>inproceedings</bib_type>
     <bib_doi></bib_doi>
     <bib_title>The future energy and GHG emissions impact of alternative personal transportation pathways in China</bib_title>
-    <bib_authors>Kishimoto, Paul N. and Paltsev, Sergey and Karplus, Valerie J.</bib_authors>
+    <bib_authors>Kishimoto, Paul Natsuo and Paltsev, Sergey and Karplus, Valerie J.</bib_authors>
     <bib_journal></bib_journal>
     <bib_volume></bib_volume>
     <bib_number></bib_number>
     <bib_pages></bib_pages>
     <bib_year>2012</bib_year>
     <bib_extra key="address">Kyoto, Japan</bib_extra>
-    <bib_extra key="howpublished">Proceedings, 3rd IAEE Asian Conference</bib_extra>
-    <bib_extra key="month">02</bib_extra>
+    <bib_extra key="booktitle">3rd IAEE Asian Conference</bib_extra>
+    <bib_extra key="organisation">International Association for Energy Economics</bib_extra>
   </doc>
   <doc>
     <filename>file:///home/pnk/Documents/Papers/Karplus%202012a.pdf</filename>
     <relative_filename>Karplus%202012a.pdf</relative_filename>
     <key>karplus-2012a</key>
     <notes></notes>
+    <tagged>6</tagged>
     <bib_type>unpublished</bib_type>
     <bib_doi></bib_doi>
     <bib_title>The global energy, CO2 emissions, and economic impact of vehicle fuel economy standards</bib_title>
@@ -1853,6 +1863,154 @@
     <bib_extra key="address">Kyoto, </bib_extra>
     <bib_extra key="booktitle">Proceedings of the 3rd IAEE Asian Conference</bib_extra>
     <bib_extra key="organisation">International Association for Energy Economics</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>jing-2012</key>
+    <notes></notes>
+    <tagged>8</tagged>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Personal correspondence</bib_title>
+    <bib_authors>Jing, Cao</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="month">5</bib_extra>
+    <bib_extra key="note">Associate professor, School of Economics and Management, Tsinghua University</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>yasunori-2012</key>
+    <notes></notes>
+    <tagged>8</tagged>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Personal correspondence</bib_title>
+    <bib_authors>Yasunori, Takei</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="month">5</bib_extra>
+    <bib_extra key="note">Project General Manager, Regulation Certification and Technical Affairs Division, Toyota Motor Engineering and Manufacturing (China)</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/pnk/Documents/Papers/Yusuf,%20Saich%202008.pdf</filename>
+    <relative_filename>Yusuf,%20Saich%202008.pdf</relative_filename>
+    <key>steinfeld-2008</key>
+    <notes></notes>
+    <bib_type>inbook</bib_type>
+    <bib_doi>10.1596/978-0-8213-7211-1</bib_doi>
+    <bib_title>China Urbanizes: Consequences, Strategies, and Policies</bib_title>
+    <bib_authors>Steinfeld, Edward S.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>125--156</bib_pages>
+    <bib_year>2008</bib_year>
+    <bib_extra key="address">Washington, DC, USA</bib_extra>
+    <bib_extra key="chapter">Energy Policy</bib_extra>
+    <bib_extra key="editor">Yusuf, Shahid and Saich, Anthony</bib_extra>
+    <bib_extra key="publisher">The World Bank</bib_extra>
+    <bib_extra key="series">Directions in Development: Countries and Regions</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>gtap-2008</key>
+    <notes></notes>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Global Trade, Assistance, and Production: The GTAP 7 Data Base</bib_title>
+    <bib_authors>Narayanan, G. Badri and Walmsley, Terrie L.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2008</bib_year>
+    <bib_extra key="address">West Lafayette, Indiana, USA</bib_extra>
+    <bib_extra key="institution">Center for Global Trade Analysis, Purdue University</bib_extra>
+    <bib_extra key="note">Available online at: \url{http://www.gtap.agecon.purdue.edu/databases/v7/v7_doco.asp}</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>paltsev-2004</key>
+    <notes></notes>
+    <tagged>9</tagged>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Disaggregating Household Transport in the MIT-EPPA Model</bib_title>
+    <bib_authors>Paltsev, Sergey and Viguier, Laurent and Babiker, Mustafa and Reilly, John and Tay, K.H.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2004</bib_year>
+    <bib_extra key="address">Cambridge, Massachusetts, USA</bib_extra>
+    <bib_extra key="institution">MIT Joint Program on the Science \&amp; Policy of Global Change</bib_extra>
+    <bib_extra key="note">\url{http://globalchange.mit.edu/research/publications/522}</bib_extra>
+    <bib_extra key="type">Technical Note No.5</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/pnk/Documents/Papers/Karplus%202012b%20%5BJP%20216%5D.pdf</filename>
+    <relative_filename>Karplus%202012b%20%5BJP%20216%5D.pdf</relative_filename>
+    <key>karplus-2012b</key>
+    <notes></notes>
+    <tagged>9</tagged>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Applying Engineering and Fleet Detail to Represent Passenger Vehicle Transport in a Computable General Equilibrium Model</bib_title>
+    <bib_authors>Karplus, Valerie J. and Paltsev, Sergey and Babiker, Mustafa and Heywood, John and Reilly, John M.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="address">Cambridge, Massachusetts, USA</bib_extra>
+    <bib_extra key="institution">MIT Joint Program on the Science \&amp; Policy of Global Change</bib_extra>
+    <bib_extra key="type">Report No. 216</bib_extra>
+    <bib_extra key="url">http://globalchange.mit.edu/research/publications/2270</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>meadows-2004</key>
+    <notes></notes>
+    <bib_type>book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Limits to Growth: The 30-Year Update</bib_title>
+    <bib_authors>Meadows, Donella H. and Randers, Jorgen and Meadows, Dennis</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2004</bib_year>
+    <bib_extra key="address">White River Junction, Vermont, USA</bib_extra>
+    <bib_extra key="publisher">Chelsea Green</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>oecd.stat</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi>10.1787/data-00285-en</bib_doi>
+    <bib_title>OECD.Stat</bib_title>
+    <bib_authors>OECD</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="howpublished">Data base</bib_extra>
+    <bib_extra key="note">Accessed July 27, 2012.</bib_extra>
   </doc>
 </doclist>
 </library>
