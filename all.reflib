@@ -43,6 +43,14 @@
     <uid>9</uid>
     <name>JP Reports</name>
   </tag>
+  <tag>
+    <uid>10</uid>
+    <name>SM to-cite</name>
+  </tag>
+  <tag>
+    <uid>11</uid>
+    <name>ESD.222</name>
+  </tag>
 </taglist>
 <doclist>
   <doc>
@@ -111,7 +119,7 @@
     <bib_extra key="address">Argonne, IL, USA</bib_extra>
     <bib_extra key="institution">Argonne National Laboratory</bib_extra>
     <bib_extra key="month">12</bib_extra>
-    <bib_extra key="note">Report ANL/ESD/06-6</bib_extra>
+    <bib_extra key="type">Report ANL/ESD/06-6</bib_extra>
   </doc>
   <doc>
     <filename>file:///home/pnk/Documents/Papers/ANL%202008.pdf</filename>
@@ -249,6 +257,7 @@
     <bib_number></bib_number>
     <bib_pages></bib_pages>
     <bib_year>2009</bib_year>
+    <bib_extra key="address">Cambridge, MA, USA</bib_extra>
     <bib_extra key="publisher">MIT Press</bib_extra>
   </doc>
   <doc>
@@ -268,8 +277,8 @@
     <bib_year>2005</bib_year>
     <bib_extra key="address">Cambridge, MA</bib_extra>
     <bib_extra key="institution">MIT Joint Program on the Science and Policy of Global Change</bib_extra>
+    <bib_extra key="note">Available at: \url{http://globalchange.mit.edu/research/publications/697}</bib_extra>
     <bib_extra key="type">Report 125</bib_extra>
-    <bib_extra key="url">http://globalchange.mit.edu/files/document/MITJPSPGC_Rpt125.pdf</bib_extra>
   </doc>
   <doc>
     <filename>file:///home/pnk/Documents/Papers/Karplus%202011.pdf</filename>
@@ -287,7 +296,7 @@
     <bib_pages></bib_pages>
     <bib_year>2011</bib_year>
     <bib_extra key="address">Cambridge, USA</bib_extra>
-    <bib_extra key="month">2</bib_extra>
+    <bib_extra key="month">February</bib_extra>
     <bib_extra key="school">Massachusetts Institute of Technology</bib_extra>
   </doc>
   <doc>
@@ -395,7 +404,7 @@
     <bib_type>article</bib_type>
     <bib_doi>10.1016/S0965-8564(98)00071-8</bib_doi>
     <bib_title>The future mobility of the world population</bib_title>
-    <bib_authors>Schafer, A and Victor, D</bib_authors>
+    <bib_authors>Schäfer, A and Victor, D</bib_authors>
     <bib_journal>Transportation Research Part A: Policy and Practice</bib_journal>
     <bib_volume>34</bib_volume>
     <bib_number>3</bib_number>
@@ -410,7 +419,7 @@
     <bib_type>article</bib_type>
     <bib_doi>10.1016/j.enpol.2004.08.051</bib_doi>
     <bib_title>Vehicle technology under CO2 constraint: a general equilibrium analysis</bib_title>
-    <bib_authors>Schafer, Andreas and Jacoby, Henry D.</bib_authors>
+    <bib_authors>Schäfer, Andreas and Jacoby, Henry D.</bib_authors>
     <bib_journal>Energy Policy</bib_journal>
     <bib_volume>34</bib_volume>
     <bib_number>9</bib_number>
@@ -432,7 +441,7 @@
     <bib_pages></bib_pages>
     <bib_year>2011</bib_year>
     <bib_extra key="howpublished">Presentation slides</bib_extra>
-    <bib_extra key="month">5</bib_extra>
+    <bib_extra key="month">May</bib_extra>
   </doc>
   <doc>
     <filename>file:///home/pnk/Documents/Papers/Barclays%202011.pdf</filename>
@@ -441,15 +450,15 @@
     <notes></notes>
     <bib_type>misc</bib_type>
     <bib_doi></bib_doi>
-    <bib_title>BRIC exposure provides mid-term growth</bib_title>
+    <bib_title>BRIC exposure provides mid-term growth: U.S. autos \&amp; auto parts industry update</bib_title>
     <bib_authors>{Barclays Capital}</bib_authors>
     <bib_journal></bib_journal>
     <bib_volume></bib_volume>
     <bib_number></bib_number>
     <bib_pages></bib_pages>
     <bib_year>2011</bib_year>
-    <bib_extra key="howpublished">U.S. autos \&amp; auto parts industry update, delivered 27 May 2011.</bib_extra>
-    <bib_extra key="month">5</bib_extra>
+    <bib_extra key="howpublished">Presentation slides</bib_extra>
+    <bib_extra key="month">May</bib_extra>
   </doc>
   <doc>
     <filename>file:///home/pnk/Documents/Papers/Winchester%202011%20%5BJP%20198%5D.pdf</filename>
@@ -467,7 +476,7 @@
     <bib_year>2011</bib_year>
     <bib_extra key="address">Cambridge, MA, USA</bib_extra>
     <bib_extra key="institution">MIT Joint Program on the Science and Policy of Global Change</bib_extra>
-    <bib_extra key="month">4</bib_extra>
+    <bib_extra key="month">April</bib_extra>
     <bib_extra key="type">Report 198</bib_extra>
   </doc>
   <doc>
@@ -511,13 +520,14 @@
     <notes></notes>
     <bib_type>misc</bib_type>
     <bib_doi></bib_doi>
-    <bib_title>Statistics retrieved October, 2011, from Euromonitor Global Market Information Database</bib_title>
-    <bib_authors>Euromonitor</bib_authors>
+    <bib_title>Passport Global Market Information Database</bib_title>
+    <bib_authors>{Euromonitor International}</bib_authors>
     <bib_journal></bib_journal>
     <bib_volume></bib_volume>
     <bib_number></bib_number>
     <bib_pages></bib_pages>
     <bib_year>2011</bib_year>
+    <bib_extra key="note">Statistics retrieved 16 October 2011</bib_extra>
   </doc>
   <doc>
     <filename></filename>
@@ -543,13 +553,14 @@
     <bib_type>misc</bib_type>
     <bib_doi></bib_doi>
     <bib_title>China Statistical Yearbook 2010</bib_title>
-    <bib_authors>{China National Bureau of Statistics}</bib_authors>
+    <bib_authors>{National Bureau of Statistics of China}</bib_authors>
     <bib_journal></bib_journal>
     <bib_volume></bib_volume>
     <bib_number></bib_number>
     <bib_pages></bib_pages>
-    <bib_year>2010</bib_year>
+    <bib_year>2011</bib_year>
     <bib_extra key="howpublished">Beijing, China</bib_extra>
+    <bib_extra key="note">Available at: \url{http://www.stats.gov.cn/tjsj/ndsj/2010/indexeh.htm}</bib_extra>
   </doc>
   <doc>
     <filename>file:///home/pnk/Documents/Papers/Hao%202011a.pdf</filename>
@@ -783,7 +794,7 @@
     <bib_extra key="address">Boston, MA</bib_extra>
     <bib_extra key="institution">Frontier Group/U.S. PIRG Education Fund</bib_extra>
     <bib_extra key="month">April</bib_extra>
-    <bib_extra key="note">\url{http://www.frontiergroup.org/reports/fg/transportation-and-new-generation}</bib_extra>
+    <bib_extra key="note">Available at: \url{http://www.frontiergroup.org/reports/fg/transportation-and-new-generation}</bib_extra>
   </doc>
   <doc>
     <filename>file:///home/pnk/Documents/Papers/Loo%201999.pdf</filename>
@@ -928,7 +939,7 @@
     <bib_pages></bib_pages>
     <bib_year>2012</bib_year>
     <bib_extra key="address">Kyoto, Japan</bib_extra>
-    <bib_extra key="booktitle">3rd IAEE Asian Conference</bib_extra>
+    <bib_extra key="booktitle">Third IAEE Asian Conference</bib_extra>
     <bib_extra key="organisation">International Association for Energy Economics</bib_extra>
   </doc>
   <doc>
@@ -992,16 +1003,20 @@
     <key>karplus-2012a</key>
     <notes></notes>
     <tagged>6</tagged>
-    <bib_type>unpublished</bib_type>
+    <bib_type>inproceedings</bib_type>
     <bib_doi></bib_doi>
     <bib_title>The global energy, CO2 emissions, and economic impact of vehicle fuel economy standards</bib_title>
-    <bib_authors>Karplus, V. and Kishimoto, P.N. and Paltsev, S.</bib_authors>
+    <bib_authors>Karplus, Valerie J. and Kishimoto, Paul N. and Paltsev, Sergey</bib_authors>
     <bib_journal></bib_journal>
     <bib_volume></bib_volume>
     <bib_number></bib_number>
     <bib_pages></bib_pages>
     <bib_year>2012</bib_year>
+    <bib_extra key="address">Cambridge, UK</bib_extra>
+    <bib_extra key="booktitle">15th Annual Conference on Global Economic Analysis</bib_extra>
     <bib_extra key="note">In press</bib_extra>
+    <bib_extra key="organisation">Global Trade Analysis Project</bib_extra>
+    <bib_extra key="publisher">Cambridge University Press</bib_extra>
   </doc>
   <doc>
     <filename>file:///home/pnk/Documents/Papers/Yan,%20Crookes%202010.pdf</filename>
@@ -1061,8 +1076,9 @@
     <bib_volume></bib_volume>
     <bib_number></bib_number>
     <bib_pages></bib_pages>
-    <bib_year>2011</bib_year>
+    <bib_year>2012</bib_year>
     <bib_extra key="howpublished">Beijing, China</bib_extra>
+    <bib_extra key="note">Available at: \url{http://www.stats.gov.cn/tjsj/ndsj/2011/indexeh.htm}</bib_extra>
   </doc>
   <doc>
     <filename>file:///home/pnk/Documents/Papers/Chester,%20Horvath%202010.pdf</filename>
@@ -1087,7 +1103,7 @@
     <bib_type>article</bib_type>
     <bib_doi>10.1021/es9028167</bib_doi>
     <bib_title>Quantifying the Air Pollutants Emission Reduction during the 2008 Olympic Games in Beijing</bib_title>
-    <bib_authors>WANG, Shuxiao and ZHAO, Meng and XING, Jia and WU, Ye and ZHOU, Yu and LEI, Yu and HE, Kebin and FU, Lixin and HAO, Jiming</bib_authors>
+    <bib_authors>Wang, Shuxiao and Zhao, Meng and Xing, Jia and Wu, Ye and Zhou, Yu and Lei, Yu and He, Kebin and Fu, Lixin and Hao, Jiming</bib_authors>
     <bib_journal>Environmental Science \&amp; Technology</bib_journal>
     <bib_volume>44</bib_volume>
     <bib_number>7</bib_number>
@@ -1102,7 +1118,7 @@
     <bib_type>article</bib_type>
     <bib_doi>10.1021/es1014289</bib_doi>
     <bib_title>On-Road Vehicle Emission Control in Beijing: Past, Present, and Future</bib_title>
-    <bib_authors>WU, Ye and WANG, Renjie and ZHOU, Yu and LIN, Bohong and FU, Lixin and HE, Kebin and HAO, Jiming</bib_authors>
+    <bib_authors>Wu, Ye and Wang, Renjie and Zhou, Yu and Lin, Bohong and Fu, Lixin and He, Kebin and Hao, Jiming</bib_authors>
     <bib_journal>Environmental Science \&amp; Technology</bib_journal>
     <bib_volume>45</bib_volume>
     <bib_number>1</bib_number>
@@ -1201,7 +1217,7 @@
     <bib_journal>Transportation Research Part D</bib_journal>
     <bib_volume>13</bib_volume>
     <bib_number></bib_number>
-    <bib_pages>289--97</bib_pages>
+    <bib_pages>289--297</bib_pages>
     <bib_year>2008</bib_year>
   </doc>
   <doc>
@@ -1238,7 +1254,7 @@
     <bib_pages>6--12</bib_pages>
     <bib_year>2010</bib_year>
     <bib_extra key="address">Beijing, China</bib_extra>
-    <bib_extra key="booktitle">The Sixth Advanced Forum on Transportation of China</bib_extra>
+    <bib_extra key="booktitle">Sixth Advanced Forum on Transportation of China</bib_extra>
     <bib_extra key="organisation">Beijing Jiaotong University (BJU), Systems Engineering Society of China (SESC)</bib_extra>
   </doc>
   <doc>
@@ -1271,7 +1287,7 @@
     <bib_journal>Energy</bib_journal>
     <bib_volume></bib_volume>
     <bib_number></bib_number>
-    <bib_pages>4289--301</bib_pages>
+    <bib_pages>4289--4301</bib_pages>
     <bib_year>2010</bib_year>
   </doc>
   <doc>
@@ -1289,7 +1305,7 @@
     <bib_pages></bib_pages>
     <bib_year>2009</bib_year>
     <bib_extra key="address">Washington, DC, USA</bib_extra>
-    <bib_extra key="institution">Tne World Bank, Development Research Group, Environment and Energy Team</bib_extra>
+    <bib_extra key="institution">The World Bank, Development Research Group, Environment and Energy Team</bib_extra>
     <bib_extra key="type">Policy Research Working Paper 5068</bib_extra>
   </doc>
   <doc>
@@ -1341,7 +1357,6 @@
     <bib_number></bib_number>
     <bib_pages></bib_pages>
     <bib_year>2012</bib_year>
-    <bib_extra key="note">Also MIT Joint Program Report \#213.</bib_extra>
   </doc>
   <doc>
     <filename></filename>
@@ -1443,16 +1458,16 @@
     <relative_filename></relative_filename>
     <key>xinhua-2012-05-10</key>
     <notes></notes>
-    <bib_type>article</bib_type>
+    <bib_type>misc</bib_type>
     <bib_doi></bib_doi>
-    <bib_title>&quot;China&apos;s imported oil dependence continues to rise&quot;, May 10, 2012</bib_title>
+    <bib_title>&quot;China&apos;s imported oil dependence continues to rise&quot;, 10 May 2012</bib_title>
     <bib_authors>{Xinhua News Agency}</bib_authors>
     <bib_journal></bib_journal>
     <bib_volume></bib_volume>
     <bib_number></bib_number>
     <bib_pages></bib_pages>
     <bib_year>2012</bib_year>
-    <bib_extra key="url">http://news.xinhuanet.com/english/china/2012-05/10/c_131580559.htm</bib_extra>
+    <bib_extra key="note">Available at: \url{http://news.xinhuanet.com/english/china/2012-05/10/c_131580559.htm}</bib_extra>
   </doc>
   <doc>
     <filename>file:///home/pnk/Documents/Papers/Sokolov+%202004.pdf</filename>
@@ -1485,8 +1500,8 @@
     <bib_year>2010</bib_year>
     <bib_extra key="address">New York, NY, USA</bib_extra>
     <bib_extra key="institution">United Nations Department of Economic and Social Affairs</bib_extra>
-    <bib_extra key="month">10</bib_extra>
-    <bib_extra key="note">Online: \url{http://esa.un.org/unpd/wpp/index.htm}</bib_extra>
+    <bib_extra key="month">October</bib_extra>
+    <bib_extra key="note">Available at: \url{http://esa.un.org/unpd/wpp/index.htm}</bib_extra>
   </doc>
   <doc>
     <filename>file:///home/pnk/Documents/Papers/Klump%20Preissler%202000.pdf</filename>
@@ -1879,7 +1894,7 @@
     <bib_number></bib_number>
     <bib_pages></bib_pages>
     <bib_year>2012</bib_year>
-    <bib_extra key="month">5</bib_extra>
+    <bib_extra key="month">May</bib_extra>
     <bib_extra key="note">Associate professor, School of Economics and Management, Tsinghua University</bib_extra>
   </doc>
   <doc>
@@ -1897,7 +1912,7 @@
     <bib_number></bib_number>
     <bib_pages></bib_pages>
     <bib_year>2012</bib_year>
-    <bib_extra key="month">5</bib_extra>
+    <bib_extra key="month">May</bib_extra>
     <bib_extra key="note">Project General Manager, Regulation Certification and Technical Affairs Division, Toyota Motor Engineering and Manufacturing (China)</bib_extra>
   </doc>
   <doc>
@@ -1917,7 +1932,7 @@
     <bib_extra key="address">Washington, DC, USA</bib_extra>
     <bib_extra key="chapter">Energy Policy</bib_extra>
     <bib_extra key="editor">Yusuf, Shahid and Saich, Anthony</bib_extra>
-    <bib_extra key="publisher">The World Bank</bib_extra>
+    <bib_extra key="publisher">6: The World Bank</bib_extra>
     <bib_extra key="series">Directions in Development: Countries and Regions</bib_extra>
   </doc>
   <doc>
@@ -1973,10 +1988,10 @@
     <bib_number></bib_number>
     <bib_pages></bib_pages>
     <bib_year>2012</bib_year>
-    <bib_extra key="address">Cambridge, Massachusetts, USA</bib_extra>
+    <bib_extra key="address">Cambridge, MA, USA</bib_extra>
     <bib_extra key="institution">MIT Joint Program on the Science \&amp; Policy of Global Change</bib_extra>
+    <bib_extra key="note">Available at: \url{http://globalchange.mit.edu/research/publications/2270}</bib_extra>
     <bib_extra key="type">Report No. 216</bib_extra>
-    <bib_extra key="url">http://globalchange.mit.edu/research/publications/2270</bib_extra>
   </doc>
   <doc>
     <filename></filename>
@@ -2002,15 +2017,813 @@
     <notes></notes>
     <bib_type>misc</bib_type>
     <bib_doi>10.1787/data-00285-en</bib_doi>
-    <bib_title>OECD.Stat</bib_title>
+    <bib_title>OECD.Stat database</bib_title>
     <bib_authors>OECD</bib_authors>
     <bib_journal></bib_journal>
     <bib_volume></bib_volume>
     <bib_number></bib_number>
     <bib_pages></bib_pages>
     <bib_year>2012</bib_year>
-    <bib_extra key="howpublished">Data base</bib_extra>
-    <bib_extra key="note">Accessed July 27, 2012.</bib_extra>
+    <bib_extra key="howpublished">Organization for Economic Cooperation and Development</bib_extra>
+    <bib_extra key="note">Accessed 27 July 2012</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>clarke-2009</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.eneco.2009.10.013</bib_doi>
+    <bib_title>International climate policy architectures: Overview of the EMF 22 International Scenarios</bib_title>
+    <bib_authors>Clarke, Leon and Edmonds, Jae and Krey, Volker and Richels, Richard and Rose, Steven and Tavoni, Massimo</bib_authors>
+    <bib_journal>Energy Economics</bib_journal>
+    <bib_volume>31</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>S64</bib_pages>
+    <bib_year>2009</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>eia-810</key>
+    <notes></notes>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Monthly Refinery Report</bib_title>
+    <bib_authors>{U.S. EIA}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="address">Washington, DC, USA</bib_extra>
+    <bib_extra key="institution">U.S. Department of Energy, Energy Information Administration</bib_extra>
+    <bib_extra key="month">July</bib_extra>
+    <bib_extra key="note">Retrieved from \url{http://www.eia.gov/dnav/pet/pet_cons_psup_dc_nus_mbbl_a.htm}</bib_extra>
+    <bib_extra key="type">Form EIA-810</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>un-wup-2011</key>
+    <notes></notes>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>World Urbanization Prospects, the 2011 Revision</bib_title>
+    <bib_authors>{UN Population Division}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="address">New York, NY, USA</bib_extra>
+    <bib_extra key="institution">United Nations Department of Economic and Social Affairs</bib_extra>
+    <bib_extra key="month">April</bib_extra>
+    <bib_extra key="note">Available at: \url{http://esa.un.org/unpd/wup/index.htm}</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>sun-2004</key>
+    <notes></notes>
+    <tagged>4</tagged>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.atmosenv.2004.07.009</bib_doi>
+    <bib_title>The air-borne particulate pollution in Beijing—concentration, composition, distribution and sources</bib_title>
+    <bib_authors>Sun, Yele and Zhaung, Gushun and Wang, Ying and Han, Lihui and Guo, Jinghua and Dan, Mo and Zhang, Wenjie and Wang, Zifa and Hao, Zhengping</bib_authors>
+    <bib_journal>Atmospheric Environment</bib_journal>
+    <bib_volume>38</bib_volume>
+    <bib_number>35</bib_number>
+    <bib_pages>5991--6004</bib_pages>
+    <bib_year>2004</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/pnk/Documents/Papers/Luo%202011.pdf</filename>
+    <relative_filename>Luo%202011.pdf</relative_filename>
+    <key>luo-2011</key>
+    <notes></notes>
+    <bib_type>inproceedings</bib_type>
+    <bib_doi>10.1049/cp.2011.1413</bib_doi>
+    <bib_title>Passenger transport CO₂ emission and mitigation policies in developing mega-city: A case study of Shanghai</bib_title>
+    <bib_authors>Xiao Luo and Hayashi, Y. and Kato, H. and Qipeng Sun</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>248--255</bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="address">Beijing, China</bib_extra>
+    <bib_extra key="booktitle">Seventh Advanced Forum on Transportation of China (AFTC 2011)</bib_extra>
+    <bib_extra key="editor">Mao, Baohua and Yang, Shujuan and Yang, Lingling</bib_extra>
+    <bib_extra key="organisation">The Institution of Engineering and Technology</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>schafer-1998</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/S0965-8564(98)00004-4</bib_doi>
+    <bib_title>The global demand for motorized mobility</bib_title>
+    <bib_authors>Schäfer, Andreas</bib_authors>
+    <bib_journal>Transportation Research Part A: Policy and Practice</bib_journal>
+    <bib_volume>32</bib_volume>
+    <bib_number>6</bib_number>
+    <bib_pages>455--477</bib_pages>
+    <bib_year>1998</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/pnk/Documents/Papers/Downs%202004.pdf</filename>
+    <relative_filename>Downs%202004.pdf</relative_filename>
+    <key>downs-2004</key>
+    <notes></notes>
+    <tagged>10</tagged>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1017/S0305741004000037</bib_doi>
+    <bib_title>The Chinese Energy Security Debate</bib_title>
+    <bib_authors>Downs, Erica S.</bib_authors>
+    <bib_journal>The China Quarterly</bib_journal>
+    <bib_volume>177</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>21--41</bib_pages>
+    <bib_year>2004</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/pnk/Documents/Papers/Kruyt%202009.pdf</filename>
+    <relative_filename>Kruyt%202009.pdf</relative_filename>
+    <key>kruyt-2009</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.enpol.2009.02.006</bib_doi>
+    <bib_title>Indicators for energy security</bib_title>
+    <bib_authors>Kruyt, Bert and van Vuuren, D.P. and de Vries, H.J.M. and Groenenberg, H.</bib_authors>
+    <bib_journal>Energy Policy</bib_journal>
+    <bib_volume>37</bib_volume>
+    <bib_number>6</bib_number>
+    <bib_pages>2166--2181</bib_pages>
+    <bib_year>2009</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/pnk/Documents/Papers/Xi%202009.pdf</filename>
+    <relative_filename>Xi%202009.pdf</relative_filename>
+    <key>xi-2009</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1080/13662710903053755</bib_doi>
+    <bib_title>Evolution of the Chinese Automobile Industry from a Sectoral System of Innovation Perspective</bib_title>
+    <bib_authors>Xi, Liang and Lei, Lin and Guisheng, Wu</bib_authors>
+    <bib_journal>Industry \&amp; Innovation</bib_journal>
+    <bib_volume>16</bib_volume>
+    <bib_number>4-5</bib_number>
+    <bib_pages>463--478</bib_pages>
+    <bib_year>2009</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>rutherford-1995</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Constant Elasticity of Substitution Functions: Some Hints and Useful Formulae</bib_title>
+    <bib_authors>Thomas F. Rutherford</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1995</bib_year>
+    <bib_extra key="howpublished">Available at: \url{ http://www.gams.com/solvers/mpsge/cesfun.htm}</bib_extra>
+    <bib_extra key="month">December</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>fan-2003</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1111/1467-9361.00196</bib_doi>
+    <bib_title>Structural Change and Economic Growth in China</bib_title>
+    <bib_authors>Fan, Shenggen and Zhang, Xiaobo and Robinson, Sherman</bib_authors>
+    <bib_journal>Review of Development Economics</bib_journal>
+    <bib_volume>7</bib_volume>
+    <bib_number>3</bib_number>
+    <bib_pages>360--377</bib_pages>
+    <bib_year>2003</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/pnk/Documents/Papers/Casey,%20Koleski%202011.pdf</filename>
+    <relative_filename>Casey,%20Koleski%202011.pdf</relative_filename>
+    <key>casey-2011</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Backgrounder: China&apos;s 12th Five-year Plan, U.S.-China Economic and Security Review Commission</bib_title>
+    <bib_authors>Casey, Joseph and Koleski, Katherine</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="howpublished">Available at: \url{http://www.uscc.gov/researchpapers/2011/12th-FiveYearPlan_062811.pdf}</bib_extra>
+    <bib_extra key="month">June</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/pnk/Documents/Papers/DB%202011.pdf</filename>
+    <relative_filename>DB%202011.pdf</relative_filename>
+    <key>db-2011</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>12th Five Year Plan: Chinese leadership towards a low carbon economy</bib_title>
+    <bib_authors>{Deutsche Bank}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="howpublished">Deutsche Bank Group, DB Climate Change Advisors, Frankfurt, Germany</bib_extra>
+    <bib_extra key="month">April</bib_extra>
+    <bib_extra key="note">Available at: \url{http://www.dbcca.com/dbcca/EN/_media/China_12th_Five_Year_Plan.pdf}. Accessed 25 July 2012</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>chamon-2008</key>
+    <notes></notes>
+    <tagged>4</tagged>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1111/j.1468-0327.2008.00201.x</bib_doi>
+    <bib_title>Mass car ownership in the emerging market giants</bib_title>
+    <bib_authors>Chamon, Marcos and Mauro, Paolo and Okawa, Yohei</bib_authors>
+    <bib_journal>Economic Policy</bib_journal>
+    <bib_volume>23</bib_volume>
+    <bib_number>54</bib_number>
+    <bib_pages>243--296</bib_pages>
+    <bib_year>2008</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>kobos-2003</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1093/cep/byg005</bib_doi>
+    <bib_title>Scenario Analysis of Chinese Passenger Vehicle Growth</bib_title>
+    <bib_authors>Kobos, Peter H. and Erickson, Jon D. and Drennen, Thomas E.</bib_authors>
+    <bib_journal>Contemporary Economic Policy</bib_journal>
+    <bib_volume>21</bib_volume>
+    <bib_number>2</bib_number>
+    <bib_pages>200--217</bib_pages>
+    <bib_year>2003</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/pnk/Documents/Papers/Gillespie%202011.pdf</filename>
+    <relative_filename>Gillespie%202011.pdf</relative_filename>
+    <key>gillespie-2011</key>
+    <notes></notes>
+    <bib_type>mastersthesis</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>A General Equilibrium Analysis of Climate Policy for Aviation</bib_title>
+    <bib_authors>Gillespie, Christopher Whittlesey</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="address">Cambridge, MA, USA</bib_extra>
+    <bib_extra key="note">Available at: \url{http://globalchange.mit.edu/research/publications/2166}</bib_extra>
+    <bib_extra key="school">Massachusetts Institute of Technology</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>coughlin-1994</key>
+    <notes></notes>
+    <tagged>11</tagged>
+    <bib_type>inbook</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The Politics of Problem Definition: Shaping the Policy Agenda</bib_title>
+    <bib_authors>Coughlin, Joseph F.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>138--158</bib_pages>
+    <bib_year>1994</bib_year>
+    <bib_extra key="address">Lawrence, KS, USA</bib_extra>
+    <bib_extra key="chapter">7: The Tragedy of the Concrete Commons: Defining Traffic Congestion as a Public Problem</bib_extra>
+    <bib_extra key="editor">Rochefort, D.A. and Cobb, R.W.</bib_extra>
+    <bib_extra key="publisher">University Press of Kansas</bib_extra>
+    <bib_extra key="series">Studies in Government and Public Policy</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>brown-2011</key>
+    <notes></notes>
+    <tagged>5</tagged>
+    <bib_type>book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Climate Change and Global Energy Security: Technology and Policy Options</bib_title>
+    <bib_authors>Brown, Marilyn A. and Sovacool, Benjamin K.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="address">Cambridge, MA, USA</bib_extra>
+    <bib_extra key="publisher">The MIT Press</bib_extra>
+    <bib_extra key="series">Energy, Environment \&amp; Public Policy</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/pnk/Documents/Papers/Gong%202012.pdf</filename>
+    <relative_filename>Gong%202012.pdf</relative_filename>
+    <key>gong-2012</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1007/s11027-012-9358-6</bib_doi>
+    <bib_title>New energy vehicles in China: policies, demonstration, and progress</bib_title>
+    <bib_authors>Gong, Huiming and Wang, Michael Q. and Wang, Hewu</bib_authors>
+    <bib_journal>Mitigation and Adaptation Strategies for Global Change</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/pnk/Documents/Papers/Nam%202011.pdf</filename>
+    <relative_filename>Nam%202011.pdf</relative_filename>
+    <key>nam-2011</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1093/icc/dtr015</bib_doi>
+    <bib_title>Learning through the international joint venture: lessons from the experience of China&apos;s automotive sector</bib_title>
+    <bib_authors>Nam, K.-M.</bib_authors>
+    <bib_journal>Industrial and Corporate Change</bib_journal>
+    <bib_volume>20</bib_volume>
+    <bib_number>3</bib_number>
+    <bib_pages>855--902</bib_pages>
+    <bib_year>2011</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/pnk/Documents/Papers/Nam%202010.pdf</filename>
+    <relative_filename>Nam%202010.pdf</relative_filename>
+    <key>nam-2010</key>
+    <notes></notes>
+    <bib_type>phdthesis</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Foreign Direct Investment, Intra-organizational Proximity, and Technological Capability: The Case of China’s Automobile Industry</bib_title>
+    <bib_authors>Nam, Kyung-Min</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2010</bib_year>
+    <bib_extra key="address">Cambridge, MA, USA</bib_extra>
+    <bib_extra key="month">September</bib_extra>
+    <bib_extra key="note">Available at: \url{http://globalchange.mit.edu/research/publications/2111}</bib_extra>
+    <bib_extra key="school">Massachusetts Institute of Technology</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>suen-2012</key>
+    <notes></notes>
+    <tagged>8</tagged>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Personal correspondence</bib_title>
+    <bib_authors>Suen, Anthony</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="month">May</bib_extra>
+    <bib_extra key="note">MAP Sustainable Energy Fellow, National Resources Defence Council, Beijing, China</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/pnk/Documents/Papers/Chien%202011.pdf</filename>
+    <relative_filename>Chien%202011.pdf</relative_filename>
+    <key>chien-2011</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1111/j.1471-0374.2011.00328.x</bib_doi>
+    <bib_title>Globalization and the local government learning process in post-Mao China: a transnational perspective</bib_title>
+    <bib_authors>Chien, Shiuh-Shen and Ho, Bing</bib_authors>
+    <bib_journal>Global Networks</bib_journal>
+    <bib_volume>11</bib_volume>
+    <bib_number>3</bib_number>
+    <bib_pages>315--333</bib_pages>
+    <bib_year>2011</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/pnk/Documents/Papers/Zhang%20ZX%202012.pdf</filename>
+    <relative_filename>Zhang%20ZX%202012.pdf</relative_filename>
+    <key>zhang-zx-2012</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.enpol.2012.05.077</bib_doi>
+    <bib_title>The overseas acquisitions and equity oil shares of Chinese national oil companies: A threat to the West but a boost to China&apos;s energy security?</bib_title>
+    <bib_authors>Zhang, ZhongXiang</bib_authors>
+    <bib_journal>Energy Policy</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/pnk/Documents/Papers/Daojiong%202006.pdf</filename>
+    <relative_filename>Daojiong%202006.pdf</relative_filename>
+    <key>daojiong-2006</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1080/00396330600594322</bib_doi>
+    <bib_title>China&apos;s energy security: Domestic and international issues</bib_title>
+    <bib_authors>Daojiong, Zha</bib_authors>
+    <bib_journal>Survival</bib_journal>
+    <bib_volume>48</bib_volume>
+    <bib_number>1</bib_number>
+    <bib_pages>179--190</bib_pages>
+    <bib_year>2006</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/pnk/Documents/Papers/Downs%202006.pdf</filename>
+    <relative_filename>Downs%202006.pdf</relative_filename>
+    <key>downs-2006</key>
+    <notes></notes>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>China</bib_title>
+    <bib_authors>Downs, Erica S.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2006</bib_year>
+    <bib_extra key="address">Washington, DC, USA</bib_extra>
+    <bib_extra key="institution">The Brookings Institution</bib_extra>
+    <bib_extra key="month">December</bib_extra>
+    <bib_extra key="note">Available at: \url{www.brookings.edu/fp/research/energy/2006china.pdf}</bib_extra>
+    <bib_extra key="type">Energy Security Series</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/pnk/Documents/Papers/Seligsohn%202012.pdf</filename>
+    <relative_filename>Seligsohn%202012.pdf</relative_filename>
+    <key>seligsohn-2012</key>
+    <notes></notes>
+    <bib_type>inproceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Environment as an Element of Development — the Growing Role of Energy Efficiency and Environmental Protection in Chinese Economic Policy</bib_title>
+    <bib_authors>Seligsohn, Deborah</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="address">South Hadley, MA, USA</bib_extra>
+    <bib_extra key="booktitle">Development in Crisis: Changing the Rules in a Global World</bib_extra>
+    <bib_extra key="organisation">McCulloch Centre for Global Initiatives, Mount Holyoke College</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>seligsohn-2010</key>
+    <notes></notes>
+    <tagged>4</tagged>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Changing, Challenging China</bib_title>
+    <bib_authors>Seligsohn, Deborah and Elliott, Mark and Kirby, William and Kroeber, Arthur and Osnos, Evan and Steinfeld, Edward and Tian, Xiaofei</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2010</bib_year>
+    <bib_extra key="howpublished">Harvard Magazine Roundtable transcript</bib_extra>
+    <bib_extra key="month">March</bib_extra>
+    <bib_extra key="note">Available at: \url{http://harvardmagazine.com/2010/03/changing-challenging-china}</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>cd-2012-07-11</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>``Guangzhou to limit number of car plates,&apos;&apos; China Daily, 11 July 2012</bib_title>
+    <bib_authors>Caixiong, Zheng</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="howpublished">Available at: \url{http://www.chinadaily.com.cn/china/2012-07/11/content_15567125.htm}</bib_extra>
+    <bib_extra key="month">July</bib_extra>
+    <bib_extra key="note">Accessed 01 August 2012</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>cd-2012-05-18</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>``New fuel standards to cut pollution in city,&apos;&apos; China Daily, 18 May 2012</bib_title>
+    <bib_authors>Xin, Zheng</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="howpublished">Available at: \url{http://www.chinadaily.com.cn/china/2012-05/18/content_15325468.htm}</bib_extra>
+    <bib_extra key="month">May</bib_extra>
+    <bib_extra key="note">Accessed 01 August 2012</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>saikawa-2011</key>
+    <notes></notes>
+    <tagged>4</tagged>
+    <bib_type>article</bib_type>
+    <bib_doi>10.5194/acp-11-9465-2011</bib_doi>
+    <bib_title>The impact of China’s vehicle emissions on regional air quality in 2000 and 2020: a scenario analysis</bib_title>
+    <bib_authors>Saikawa, E. and Kurokawa, J. and Takigawa, M. and Borken-Kleefeld, J. and Mauzerall, D. L. and Horowitz, L. W. and Ohara, T.</bib_authors>
+    <bib_journal>Atmospheric Chemistry and Physics</bib_journal>
+    <bib_volume>11</bib_volume>
+    <bib_number>18</bib_number>
+    <bib_pages>9465--9484</bib_pages>
+    <bib_year>2011</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>jfk-1963</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Remarks in Heber Springs, Arkansas, at the Dedication of Greers Ferry Dam, 03 October 1963</bib_title>
+    <bib_authors>Kennedy, John Fitzgerald</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1963</bib_year>
+    <bib_extra key="howpublished">Transcript, available at: \url{http://www.presidency.ucsb.edu/ws/index.php?pid=9455}</bib_extra>
+    <bib_extra key="month">October</bib_extra>
+    <bib_extra key="note">Accessed 03 August 2012</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>csy-2002</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>China Statistical Yearbook 2002</bib_title>
+    <bib_authors>{National Bureau of Statistics of China}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2003</bib_year>
+    <bib_extra key="howpublished">Beijing, China</bib_extra>
+    <bib_extra key="note">Available at: \url {http://www.stats.gov.cn/english/statisticaldata/yearlydata/YB2002e/ml/indexE.htm}</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>csy-2001</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>China Statistical Yearbook 2001</bib_title>
+    <bib_authors>{National Bureau of Statistics of China}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2002</bib_year>
+    <bib_extra key="howpublished">Beijing, China</bib_extra>
+    <bib_extra key="note">Available at: \url{http://www.stats.gov.cn/english/statisticaldata/yearlydata/YB2001e/ml/indexE.htm}</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/pnk/Documents/Papers/Geng%202008.pdf</filename>
+    <relative_filename>Geng%202008.pdf</relative_filename>
+    <key>geng-2008</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.3843/SusDev.15.3:6</bib_doi>
+    <bib_title>Developing the circular economy in China: Challenges and opportunities for achieving `leapfrog development&apos;</bib_title>
+    <bib_authors>Geng, Yong and Doberstein, Brent</bib_authors>
+    <bib_journal>International Journal of Sustainable Development \&amp; World Ecology</bib_journal>
+    <bib_volume>15</bib_volume>
+    <bib_number>3</bib_number>
+    <bib_pages>231--239</bib_pages>
+    <bib_year>2008</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>sichuan-2011</key>
+    <notes></notes>
+    <bib_type>book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Sichuan Transport Yearbook 2011</bib_title>
+    <bib_authors>{Sichuan Department of Transportation}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="address">Chengdu, China</bib_extra>
+    <bib_extra key="isbn">9787536473164</bib_extra>
+    <bib_extra key="publisher">Sichuan Science and Technology Press</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>fourin-2011</key>
+    <notes></notes>
+    <bib_type>book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>China Automotive Industry Yearbook 2011</bib_title>
+    <bib_authors>{Fourin, Inc.}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="address">Nagoya, Japan</bib_extra>
+    <bib_extra key="publisher">Fourin, Inc.</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>zhang-d-2012</key>
+    <notes></notes>
+    <bib_type>inproceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Regional impact of emission reduction target allocation in China</bib_title>
+    <bib_authors>Zhang, Da and Rausch, Sebastian and Karplus, Valerie and Qi, Tianyu and Zhang, Xiliang</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="address">Seville, Spain</bib_extra>
+    <bib_extra key="booktitle">EcoMod Conference 2012</bib_extra>
+    <bib_extra key="organisation">EcoMod</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>rutherford-1999</key>
+    <notes></notes>
+    <tagged>4</tagged>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1023/A:1008655831209</bib_doi>
+    <bib_title>Applied General Equilibrium Modeling with MPSGE as a GAMS Subsystem: An Overview of the Modeling Framework and Syntax</bib_title>
+    <bib_authors>Rutherford, Thomas F.</bib_authors>
+    <bib_journal>Computational Economics</bib_journal>
+    <bib_volume>14</bib_volume>
+    <bib_number>1/2</bib_number>
+    <bib_pages>1--46</bib_pages>
+    <bib_year>1999</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>greenspan-1999</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1162/003465399558300</bib_doi>
+    <bib_title>Motor Vehicle Stocks, Scrappage, and Sales</bib_title>
+    <bib_authors>Greenspan, Alan and Cohen, Darrel</bib_authors>
+    <bib_journal>Review of Economics and Statistics</bib_journal>
+    <bib_volume>81</bib_volume>
+    <bib_number>3</bib_number>
+    <bib_pages>369</bib_pages>
+    <bib_year>1999</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>iea-weo-2011</key>
+    <notes></notes>
+    <bib_type>book</bib_type>
+    <bib_doi>10.1787/20725302</bib_doi>
+    <bib_title>World Energy Outlook 2011</bib_title>
+    <bib_authors>{International Energy Agency}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="address">Paris, France</bib_extra>
+    <bib_extra key="publisher">OECD Publishing</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>campos-2009</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.tranpol.2009.02.008</bib_doi>
+    <bib_title>Some stylized facts about high-speed rail: A review of HSR experiences around the world</bib_title>
+    <bib_authors>Campos, Javier and de Rus, Ginés</bib_authors>
+    <bib_journal>Transport Policy</bib_journal>
+    <bib_volume>16</bib_volume>
+    <bib_number>1</bib_number>
+    <bib_pages>19</bib_pages>
+    <bib_year>2009</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>cd-2012-07-31</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>``Experts fear subway costs could go off the rails,&apos;&apos; China Daily, 31 July 2012</bib_title>
+    <bib_authors>Xin, Dingding and Wang, Xiaodong and Shi, Yingying</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="howpublished">Available at: \url{http://usa.chinadaily.com.cn/business/2012-07/31/content_15634587.htm}</bib_extra>
+    <bib_extra key="month">July</bib_extra>
+    <bib_extra key="note">Accessed 06 August 2012</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>cd-2012-08-06</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>``Guangzhou&apos;s car quota hurts more than helps industry,&apos;&apos; China Daily, 06 August 2012</bib_title>
+    <bib_authors>Zeng, John</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="howpublished">Available at: \url{http://www.chinadaily.com.cn/cndy/2012-08/06/content_15645892.htm}</bib_extra>
+    <bib_extra key="month">August</bib_extra>
+    <bib_extra key="note">Accessed 06 August 2012</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>urbanrail</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>UrbanRail (website)</bib_title>
+    <bib_authors>Schwandl, Robert</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="howpublished">\url{http://www.urbanrail.net}</bib_extra>
+    <bib_extra key="note">Accessed 25 July 2012</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>cn-gz-2010-03-03</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>``Guangzhou rail transit network in 2011-2015 building program publicity&apos;&apos; (in Chinese)</bib_title>
+    <bib_authors>{Guangzhou Urban Planning Committee}</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2010</bib_year>
+    <bib_extra key="howpublished">Press release</bib_extra>
+    <bib_extra key="month">March</bib_extra>
+    <bib_extra key="note">Available at: \url {http://www.upo.gov.cn/pages/news/bjxw/2010/4602.shtml}</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>sz-daily-2012-06-28</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>``City to spend 48b yuan on 3 Metro lines,&apos;&apos; Shenzhen Daily, 28 June 2012</bib_title>
+    <bib_authors>Zhang, Qian and Yang, Dan</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="month">June</bib_extra>
+    <bib_extra key="note">Available at: \url{http://szdaily.sznews.com/html/2012-06/28/content_2103092.htm}</bib_extra>
   </doc>
 </doclist>
 </library>
