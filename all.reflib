@@ -1014,7 +1014,6 @@
     <bib_year>2012</bib_year>
     <bib_extra key="address">Cambridge, UK</bib_extra>
     <bib_extra key="booktitle">15th Annual Conference on Global Economic Analysis</bib_extra>
-    <bib_extra key="note">In press</bib_extra>
     <bib_extra key="organisation">Global Trade Analysis Project</bib_extra>
     <bib_extra key="publisher">Cambridge University Press</bib_extra>
   </doc>
@@ -2824,6 +2823,24 @@
     <bib_year>2012</bib_year>
     <bib_extra key="month">June</bib_extra>
     <bib_extra key="note">Available at: \url{http://szdaily.sznews.com/html/2012-06/28/content_2103092.htm}</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>jiang-2000</key>
+    <notes></notes>
+    <bib_type>misc</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Speech during inspection tour of Guangdong Province, China, 25 February 2000</bib_title>
+    <bib_authors>Jiang, Zemin</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2000</bib_year>
+    <bib_extra key="howpublished">Transcript quotation, available at: \url{http://www.idcpc.org.cn/english/policy/3represents.htm}</bib_extra>
+    <bib_extra key="month">February</bib_extra>
+    <bib_extra key="note">Accessed 10 August 2012</bib_extra>
   </doc>
 </doclist>
 </library>
