@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <library>
 <manage_target braces="true" utf8="true">all.bib</manage_target>
-<library_folder monitor="true"></library_folder>
+<library_folder monitor="false"></library_folder>
 <taglist>
   <tag>
     <uid>0</uid>
@@ -51,10 +51,18 @@
     <uid>11</uid>
     <name>ESD.222</name>
   </tag>
+  <tag>
+    <uid>12</uid>
+    <name>misc</name>
+  </tag>
+  <tag>
+    <uid>13</uid>
+    <name>from-czegras-2012-11</name>
+  </tag>
 </taglist>
 <doclist>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Sanso%202008.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Sanso%202008.pdf</filename>
     <relative_filename>Sanso%202008.pdf</relative_filename>
     <key>sanso-2008</key>
     <notes></notes>
@@ -70,7 +78,7 @@
     <bib_year>2008</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Urban,%20Keller%202010.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Urban,%20Keller%202010.pdf</filename>
     <relative_filename>Urban,%20Keller%202010.pdf</relative_filename>
     <key>urban-2010</key>
     <notes></notes>
@@ -86,7 +94,7 @@
     <bib_year>2010</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Wang%202011.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Wang%202011.pdf</filename>
     <relative_filename>Wang%202011.pdf</relative_filename>
     <key>wang-2011</key>
     <notes></notes>
@@ -101,7 +109,7 @@
     <bib_year>2011</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/ANL%202006.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/ANL%202006.pdf</filename>
     <relative_filename>ANL%202006.pdf</relative_filename>
     <key>anl-2006</key>
     <notes></notes>
@@ -122,7 +130,7 @@
     <bib_extra key="type">Report ANL/ESD/06-6</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/ANL%202008.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/ANL%202008.pdf</filename>
     <relative_filename>ANL%202008.pdf</relative_filename>
     <key>anl-2008</key>
     <notes></notes>
@@ -139,7 +147,7 @@
     <bib_year>2010</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Goodwin%202004.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Goodwin%202004.pdf</filename>
     <relative_filename>Goodwin%202004.pdf</relative_filename>
     <key>goodwin-2004</key>
     <notes></notes>
@@ -155,7 +163,7 @@
     <bib_year>2004</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Meyer%202007.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Meyer%202007.pdf</filename>
     <relative_filename>Meyer%202007.pdf</relative_filename>
     <key>meyer-2007</key>
     <notes></notes>
@@ -171,7 +179,7 @@
     <bib_year>2007</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Ou%202010.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Ou%202010.pdf</filename>
     <relative_filename>Ou%202010.pdf</relative_filename>
     <key>ou-2010</key>
     <notes></notes>
@@ -187,7 +195,7 @@
     <bib_year>2010</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Schafer%202006.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Schafer%202006.pdf</filename>
     <relative_filename>Schafer%202006.pdf</relative_filename>
     <key>schafer-2006a</key>
     <notes></notes>
@@ -205,7 +213,7 @@
     <bib_year>2006</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Weinert%202008.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Weinert%202008.pdf</filename>
     <relative_filename>Weinert%202008.pdf</relative_filename>
     <key>weinert-2008</key>
     <notes></notes>
@@ -221,7 +229,7 @@
     <bib_year>2008</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Zhou%202011.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Zhou%202011.pdf</filename>
     <relative_filename>Zhou%202011.pdf</relative_filename>
     <key>zhou-2011</key>
     <notes></notes>
@@ -261,7 +269,7 @@
     <bib_extra key="publisher">MIT Press</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Paltsev%202005%20%5BJP%20125%5D.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Paltsev%202005%20%5BJP%20125%5D.pdf</filename>
     <relative_filename>Paltsev%202005%20%5BJP%20125%5D.pdf</relative_filename>
     <key>paltsev-2005</key>
     <notes></notes>
@@ -281,7 +289,7 @@
     <bib_extra key="type">Report 125</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Karplus%202011.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Karplus%202011.pdf</filename>
     <relative_filename>Karplus%202011.pdf</relative_filename>
     <key>karplus-2011</key>
     <notes></notes>
@@ -337,7 +345,7 @@
     <bib_extra key="institution">Center for Global Trade Analysis, Purdue University</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Dargay%202007.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Dargay%202007.pdf</filename>
     <relative_filename>Dargay%202007.pdf</relative_filename>
     <key>dargay-2007</key>
     <notes></notes>
@@ -352,9 +360,9 @@
     <bib_year>2007</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Huo%202011a.pdf</filename>
-    <relative_filename>Huo%202011a.pdf</relative_filename>
-    <key>huo-2011a</key>
+    <filename>file:///home/khaeru/Documents/Papers/Huo%202012b.pdf</filename>
+    <relative_filename>Huo%202012b.pdf</relative_filename>
+    <key>huo-2012b</key>
     <notes></notes>
     <bib_type>article</bib_type>
     <bib_doi>10.1016/j.enpol.2011.09.019</bib_doi>
@@ -365,11 +373,12 @@
     <bib_number></bib_number>
     <bib_pages></bib_pages>
     <bib_year>2011</bib_year>
+    <bib_extra key="old-key"></bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Huo%202011b.pdf</filename>
-    <relative_filename>Huo%202011b.pdf</relative_filename>
-    <key>huo-2011b</key>
+    <filename>file:///home/khaeru/Documents/Papers/Huo%202012c.pdf</filename>
+    <relative_filename>Huo%202012c.pdf</relative_filename>
+    <key>huo-2012c</key>
     <notes></notes>
     <bib_type>article</bib_type>
     <bib_doi>10.1016/j.enpol.2011.09.064</bib_doi>
@@ -380,9 +389,10 @@
     <bib_number></bib_number>
     <bib_pages></bib_pages>
     <bib_year>2011</bib_year>
+    <bib_extra key="old-key">huo-2011b</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Han,%20Hayashi%202008.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Han,%20Hayashi%202008.pdf</filename>
     <relative_filename>Han,%20Hayashi%202008.pdf</relative_filename>
     <key>han-2008</key>
     <notes></notes>
@@ -397,7 +407,7 @@
     <bib_year>2008</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Schafer,%20Victor%202000.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Schafer,%20Victor%202000.pdf</filename>
     <relative_filename>Schafer,%20Victor%202000.pdf</relative_filename>
     <key>schafer-2000</key>
     <notes></notes>
@@ -412,7 +422,7 @@
     <bib_year>2000</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Schafer,%20Jacoby%202006.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Schafer,%20Jacoby%202006.pdf</filename>
     <relative_filename>Schafer,%20Jacoby%202006.pdf</relative_filename>
     <key>schafer-2006b</key>
     <notes></notes>
@@ -427,7 +437,7 @@
     <bib_year>2006</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/AT%20Kearney%202011.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/AT%20Kearney%202011.pdf</filename>
     <relative_filename>AT%20Kearney%202011.pdf</relative_filename>
     <key>atkearney-2011</key>
     <notes></notes>
@@ -444,7 +454,7 @@
     <bib_extra key="month">May</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Barclays%202011.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Barclays%202011.pdf</filename>
     <relative_filename>Barclays%202011.pdf</relative_filename>
     <key>barclays-2011</key>
     <notes></notes>
@@ -461,7 +471,7 @@
     <bib_extra key="month">May</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Winchester%202011%20%5BJP%20198%5D.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Winchester%202011%20%5BJP%20198%5D.pdf</filename>
     <relative_filename>Winchester%202011%20%5BJP%20198%5D.pdf</relative_filename>
     <key>winchester-2011</key>
     <notes></notes>
@@ -563,7 +573,7 @@
     <bib_extra key="note">Available at: \url{http://www.stats.gov.cn/tjsj/ndsj/2010/indexeh.htm}</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Hao%202011a.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Hao%202011a.pdf</filename>
     <relative_filename>Hao%202011a.pdf</relative_filename>
     <key>hao-2011a</key>
     <notes></notes>
@@ -596,7 +606,7 @@
     <bib_extra key="note">Accessed 19 March 2012.</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Ontario%20MEI%202010.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Ontario%20MEI%202010.pdf</filename>
     <relative_filename>Ontario%20MEI%202010.pdf</relative_filename>
     <key>ontario-2010</key>
     <notes></notes>
@@ -614,7 +624,7 @@
     <bib_extra key="note">Accessed 19 March 2012.</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Joshi%202012.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Joshi%202012.pdf</filename>
     <relative_filename>Joshi%202012.pdf</relative_filename>
     <key>joshi-2012</key>
     <notes></notes>
@@ -778,7 +788,7 @@
     <bib_extra key="note">Accessed 19 March 2012</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Davis%202012.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Davis%202012.pdf</filename>
     <relative_filename>Davis%202012.pdf</relative_filename>
     <key>davis-2012</key>
     <notes></notes>
@@ -797,7 +807,7 @@
     <bib_extra key="note">Available at: \url{http://www.frontiergroup.org/reports/fg/transportation-and-new-generation}</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Loo%201999.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Loo%201999.pdf</filename>
     <relative_filename>Loo%201999.pdf</relative_filename>
     <key>loo-1999</key>
     <notes></notes>
@@ -812,7 +822,7 @@
     <bib_year>1999</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Chen%202010.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Chen%202010.pdf</filename>
     <relative_filename>Chen%202010.pdf</relative_filename>
     <key>chen-2010</key>
     <notes></notes>
@@ -827,7 +837,7 @@
     <bib_year>2010</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Amos%202010.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Amos%202010.pdf</filename>
     <relative_filename>Amos%202010.pdf</relative_filename>
     <key>amos-2010</key>
     <notes></notes>
@@ -847,7 +857,7 @@
     <bib_extra key="type">Working Paper \#55856</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/de%20Jong%202008.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/de%20Jong%202008.pdf</filename>
     <relative_filename>de%20Jong%202008.pdf</relative_filename>
     <key>de-jong-2008</key>
     <notes></notes>
@@ -865,7 +875,7 @@
     <bib_extra key="organisation">IEEE</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Wong%202002.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Wong%202002.pdf</filename>
     <relative_filename>Wong%202002.pdf</relative_filename>
     <key>wong-2002</key>
     <notes></notes>
@@ -880,7 +890,7 @@
     <bib_year>2002</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Creutzig%202009.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Creutzig%202009.pdf</filename>
     <relative_filename>Creutzig%202009.pdf</relative_filename>
     <key>creutzig-2009</key>
     <notes></notes>
@@ -895,7 +905,7 @@
     <bib_year>2009</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Wang%202010.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Wang%202010.pdf</filename>
     <relative_filename>Wang%202010.pdf</relative_filename>
     <key>wang-2010</key>
     <notes></notes>
@@ -910,7 +920,7 @@
     <bib_year>2010</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Weinert%202007.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Weinert%202007.pdf</filename>
     <relative_filename>Weinert%202007.pdf</relative_filename>
     <key>weinert-2007</key>
     <notes></notes>
@@ -925,7 +935,7 @@
     <bib_year>2007</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Leaver%202012.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Leaver%202012.pdf</filename>
     <relative_filename>Leaver%202012.pdf</relative_filename>
     <key>leaver-2012</key>
     <notes></notes>
@@ -943,7 +953,7 @@
     <bib_extra key="organisation">International Association for Energy Economics</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Dahl%202012.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Dahl%202012.pdf</filename>
     <relative_filename>Dahl%202012.pdf</relative_filename>
     <key>dahl-2012</key>
     <notes></notes>
@@ -961,7 +971,7 @@
     <bib_extra key="organisation">International Association for Energy Economics</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Gonz%C3%A1lez%20Palencia%202012.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Gonz%C3%A1lez%20Palencia%202012.pdf</filename>
     <relative_filename>Gonz%C3%A1lez%20Palencia%202012.pdf</relative_filename>
     <key>gonzalez-palencia-2012</key>
     <notes></notes>
@@ -979,7 +989,7 @@
     <bib_extra key="organisation">International Association for Energy Economics</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Kishimoto%202012a.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Kishimoto%202012a.pdf</filename>
     <relative_filename>Kishimoto%202012a.pdf</relative_filename>
     <key>kishimoto-2012a</key>
     <notes></notes>
@@ -995,10 +1005,11 @@
     <bib_year>2012</bib_year>
     <bib_extra key="address">Kyoto, Japan</bib_extra>
     <bib_extra key="booktitle">3rd IAEE Asian Conference</bib_extra>
+    <bib_extra key="month">February</bib_extra>
     <bib_extra key="organisation">International Association for Energy Economics</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Karplus%202012a.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Karplus%202012a.pdf</filename>
     <relative_filename>Karplus%202012a.pdf</relative_filename>
     <key>karplus-2012a</key>
     <notes></notes>
@@ -1012,13 +1023,13 @@
     <bib_number></bib_number>
     <bib_pages></bib_pages>
     <bib_year>2012</bib_year>
-    <bib_extra key="address">Cambridge, UK</bib_extra>
+    <bib_extra key="address">Geneva, Switzerland</bib_extra>
     <bib_extra key="booktitle">15th Annual Conference on Global Economic Analysis</bib_extra>
+    <bib_extra key="month">June</bib_extra>
     <bib_extra key="organisation">Global Trade Analysis Project</bib_extra>
-    <bib_extra key="publisher">Cambridge University Press</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Yan,%20Crookes%202010.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Yan,%20Crookes%202010.pdf</filename>
     <relative_filename>Yan,%20Crookes%202010.pdf</relative_filename>
     <key>yan-2010</key>
     <notes></notes>
@@ -1033,7 +1044,7 @@
     <bib_year>2010</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Cherry+%202009.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Cherry+%202009.pdf</filename>
     <relative_filename>Cherry+%202009.pdf</relative_filename>
     <key>cherry-2009</key>
     <notes></notes>
@@ -1080,7 +1091,7 @@
     <bib_extra key="note">Available at: \url{http://www.stats.gov.cn/tjsj/ndsj/2011/indexeh.htm}</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Chester,%20Horvath%202010.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Chester,%20Horvath%202010.pdf</filename>
     <relative_filename>Chester,%20Horvath%202010.pdf</relative_filename>
     <key>chester-2010</key>
     <notes></notes>
@@ -1095,7 +1106,7 @@
     <bib_year>2010</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Wang%20SX%202010.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Wang%20SX%202010.pdf</filename>
     <relative_filename>Wang%20SX%202010.pdf</relative_filename>
     <key>wang-sx-2010</key>
     <notes></notes>
@@ -1110,7 +1121,7 @@
     <bib_year>2010</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Wu%202011.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Wu%202011.pdf</filename>
     <relative_filename>Wu%202011.pdf</relative_filename>
     <key>wu-2011</key>
     <notes></notes>
@@ -1125,7 +1136,7 @@
     <bib_year>2011</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Shen%201997.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Shen%201997.pdf</filename>
     <relative_filename>Shen%201997.pdf</relative_filename>
     <key>shen-1997</key>
     <notes></notes>
@@ -1140,7 +1151,7 @@
     <bib_year>1997</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Verma%202011.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Verma%202011.pdf</filename>
     <relative_filename>Verma%202011.pdf</relative_filename>
     <key>verma-2011</key>
     <notes></notes>
@@ -1157,7 +1168,7 @@
     <bib_extra key="type">GTAP Working Paper No. 57</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Yuan%202011.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Yuan%202011.pdf</filename>
     <relative_filename>Yuan%202011.pdf</relative_filename>
     <key>yuan-2011</key>
     <notes></notes>
@@ -1175,7 +1186,7 @@
     <bib_extra key="organisation">IEEE</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Loo%202006.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Loo%202006.pdf</filename>
     <relative_filename>Loo%202006.pdf</relative_filename>
     <key>loo-2006</key>
     <notes></notes>
@@ -1190,7 +1201,7 @@
     <bib_year>2006</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Yin%202011.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Yin%202011.pdf</filename>
     <relative_filename>Yin%202011.pdf</relative_filename>
     <key>yin-2011</key>
     <notes></notes>
@@ -1205,7 +1216,7 @@
     <bib_year>2011</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Wang%20QD%202008.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Wang%20QD%202008.pdf</filename>
     <relative_filename>Wang%20QD%202008.pdf</relative_filename>
     <key>wang-qd-2008</key>
     <notes></notes>
@@ -1220,7 +1231,7 @@
     <bib_year>2008</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Morris%202003.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Morris%202003.pdf</filename>
     <relative_filename>Morris%202003.pdf</relative_filename>
     <key>morris-2003</key>
     <notes></notes>
@@ -1239,7 +1250,7 @@
     <bib_extra key="type">National Renewable Energy Laboratory report NREL/SR-540-33793</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Feng%202010.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Feng%202010.pdf</filename>
     <relative_filename>Feng%202010.pdf</relative_filename>
     <key>feng-2010</key>
     <notes></notes>
@@ -1257,7 +1268,7 @@
     <bib_extra key="organisation">Beijing Jiaotong University (BJU), Systems Engineering Society of China (SESC)</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Ruet%202010.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Ruet%202010.pdf</filename>
     <relative_filename>Ruet%202010.pdf</relative_filename>
     <key>ruet-2010</key>
     <notes></notes>
@@ -1275,7 +1286,7 @@
     <bib_extra key="type">Energy for Mega Cities Study</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Hu%20XJ%202010.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Hu%20XJ%202010.pdf</filename>
     <relative_filename>Hu%20XJ%202010.pdf</relative_filename>
     <key>hu-xj-2010</key>
     <notes></notes>
@@ -1290,7 +1301,7 @@
     <bib_year>2010</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Anas%202009.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Anas%202009.pdf</filename>
     <relative_filename>Anas%202009.pdf</relative_filename>
     <key>anas-2009</key>
     <notes></notes>
@@ -1308,7 +1319,7 @@
     <bib_extra key="type">Policy Research Working Paper 5068</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Yusuf,%20Nabeshima%202010.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Yusuf,%20Nabeshima%202010.pdf</filename>
     <relative_filename>Yusuf,%20Nabeshima%202010.pdf</relative_filename>
     <key>yusuf-nabeshima-2010</key>
     <notes></notes>
@@ -1325,7 +1336,7 @@
     <bib_extra key="publisher">The World Bank</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Peng%202004.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Peng%202004.pdf</filename>
     <relative_filename>Peng%202004.pdf</relative_filename>
     <key>peng-2004</key>
     <notes></notes>
@@ -1343,7 +1354,7 @@
     <bib_extra key="type">Comparative Urban Studies Program Report</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Nam,%20Reilly%202012%20%5BJP%20213%5D.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Nam,%20Reilly%202012%20%5BJP%20213%5D.pdf</filename>
     <relative_filename>Nam,%20Reilly%202012%20%5BJP%20213%5D.pdf</relative_filename>
     <key>nam-2012</key>
     <notes></notes>
@@ -1358,8 +1369,8 @@
     <bib_year>2012</bib_year>
   </doc>
   <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
+    <filename>file:///home/khaeru/Documents/Papers/Marcotullio%202005.pdf</filename>
+    <relative_filename>Marcotullio%202005.pdf</relative_filename>
     <key>marcotullio-2005</key>
     <notes></notes>
     <bib_type>article</bib_type>
@@ -1403,7 +1414,7 @@
     <bib_year>2001</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Alkema%202010.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Alkema%202010.pdf</filename>
     <relative_filename>Alkema%202010.pdf</relative_filename>
     <key>alkema-2010</key>
     <notes></notes>
@@ -1469,7 +1480,7 @@
     <bib_extra key="note">Available at: \url{http://news.xinhuanet.com/english/china/2012-05/10/c_131580559.htm}</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Sokolov+%202004.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Sokolov+%202004.pdf</filename>
     <relative_filename>Sokolov+%202004.pdf</relative_filename>
     <key>sokolov-2009</key>
     <notes></notes>
@@ -1503,7 +1514,7 @@
     <bib_extra key="note">Available at: \url{http://esa.un.org/unpd/wpp/index.htm}</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Klump%20Preissler%202000.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Klump%20Preissler%202000.pdf</filename>
     <relative_filename>Klump%20Preissler%202000.pdf</relative_filename>
     <key>klump-2000</key>
     <notes></notes>
@@ -1518,7 +1529,7 @@
     <bib_year>2000</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Zhang%201998.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Zhang%201998.pdf</filename>
     <relative_filename>Zhang%201998.pdf</relative_filename>
     <key>zhang-1998</key>
     <notes></notes>
@@ -1533,7 +1544,7 @@
     <bib_year>1998</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Angel%202005.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Angel%202005.pdf</filename>
     <relative_filename>Angel%202005.pdf</relative_filename>
     <key>angel-2005</key>
     <notes></notes>
@@ -1550,7 +1561,7 @@
     <bib_extra key="institution">Transport and Urban Development Department, The World Bank</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Nelson,%20Pack%201999.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Nelson,%20Pack%201999.pdf</filename>
     <relative_filename>Nelson,%20Pack%201999.pdf</relative_filename>
     <key>nelson-1999</key>
     <notes></notes>
@@ -1565,7 +1576,7 @@
     <bib_year>1999</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Hao%202011c.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Hao%202011c.pdf</filename>
     <relative_filename>Hao%202011c.pdf</relative_filename>
     <key>hao-2011c</key>
     <notes></notes>
@@ -1580,7 +1591,7 @@
     <bib_year>2011</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Hao%202011b.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Hao%202011b.pdf</filename>
     <relative_filename>Hao%202011b.pdf</relative_filename>
     <key>hao-2011b</key>
     <notes></notes>
@@ -1595,7 +1606,7 @@
     <bib_year>2011</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Lee%202007.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Lee%202007.pdf</filename>
     <relative_filename>Lee%202007.pdf</relative_filename>
     <key>lee-2007</key>
     <notes></notes>
@@ -1614,7 +1625,7 @@
     <bib_extra key="type">Working Paper #1020</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Paltsev%202012%20%5BJP%20215%5D.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Paltsev%202012%20%5BJP%20215%5D.pdf</filename>
     <relative_filename>Paltsev%202012%20%5BJP%20215%5D.pdf</relative_filename>
     <key>paltsev-2012</key>
     <notes></notes>
@@ -1630,7 +1641,7 @@
     <bib_extra key="note"></bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Karplus%202010.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Karplus%202010.pdf</filename>
     <relative_filename>Karplus%202010.pdf</relative_filename>
     <key>karplus-2010</key>
     <notes></notes>
@@ -1645,7 +1656,7 @@
     <bib_year>2010</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Sandoval%202009.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Sandoval%202009.pdf</filename>
     <relative_filename>Sandoval%202009.pdf</relative_filename>
     <key>sandoval-2009</key>
     <notes></notes>
@@ -1660,7 +1671,7 @@
     <bib_year>2009</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Biermann%202012.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Biermann%202012.pdf</filename>
     <relative_filename>Biermann%202012.pdf</relative_filename>
     <key>biermann-2012</key>
     <notes></notes>
@@ -1676,7 +1687,7 @@
     <bib_extra key="pmid">22422966</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Borken-Kleefeld%202010.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Borken-Kleefeld%202010.pdf</filename>
     <relative_filename>Borken-Kleefeld%202010.pdf</relative_filename>
     <key>borken-kleefeld-2010</key>
     <notes></notes>
@@ -1692,7 +1703,7 @@
     <bib_extra key="pmid">20666553</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Glomm%202008.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Glomm%202008.pdf</filename>
     <relative_filename>Glomm%202008.pdf</relative_filename>
     <key>glomm-2008</key>
     <notes></notes>
@@ -1708,7 +1719,7 @@
     <bib_year>2008</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Foley%202011a.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Foley%202011a.pdf</filename>
     <relative_filename>Foley%202011a.pdf</relative_filename>
     <key>foley-2011a</key>
     <notes></notes>
@@ -1723,7 +1734,7 @@
     <bib_year>2011</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Foley%202011b.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Foley%202011b.pdf</filename>
     <relative_filename>Foley%202011b.pdf</relative_filename>
     <key>foley-2011b</key>
     <notes></notes>
@@ -1739,7 +1750,7 @@
     <bib_extra key="pmid">21993620</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Feldman,%20Valdez-Flores%202010%202e.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Feldman,%20Valdez-Flores%202010%202e.pdf</filename>
     <relative_filename>Feldman,%20Valdez-Flores%202010%202e.pdf</relative_filename>
     <key>feldman-2010</key>
     <notes></notes>
@@ -1758,7 +1769,7 @@
     <bib_extra key="publisher">Springer-Verlag</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Powell%202011%20ADP.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Powell%202011%20ADP.pdf</filename>
     <relative_filename>Powell%202011%20ADP.pdf</relative_filename>
     <key>powell-2011</key>
     <notes></notes>
@@ -1777,7 +1788,7 @@
     <bib_extra key="series">Probability and Statistics</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Puterman%202005%20Markov.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Puterman%202005%20Markov.pdf</filename>
     <relative_filename>Puterman%202005%20Markov.pdf</relative_filename>
     <key>puterman-2005</key>
     <notes></notes>
@@ -1795,7 +1806,7 @@
     <bib_extra key="series">Probability and Mathematical Statistics</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Westerdahl%202009.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Westerdahl%202009.pdf</filename>
     <relative_filename>Westerdahl%202009.pdf</relative_filename>
     <key>westerdahl-2009</key>
     <notes></notes>
@@ -1810,7 +1821,7 @@
     <bib_year>2009</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Wang%20XJ%202012.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Wang%20XJ%202012.pdf</filename>
     <relative_filename>Wang%20XJ%202012.pdf</relative_filename>
     <key>wang-xj-2012</key>
     <notes></notes>
@@ -1825,7 +1836,7 @@
     <bib_year>2012</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Medlock%202011.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Medlock%202011.pdf</filename>
     <relative_filename>Medlock%202011.pdf</relative_filename>
     <key>medlock-2011</key>
     <notes></notes>
@@ -1844,7 +1855,7 @@
     <bib_extra key="type">The Rise of China and Its Energy Implications</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/JP%20Morgan%202010.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/JP%20Morgan%202010.pdf</filename>
     <relative_filename>JP%20Morgan%202010.pdf</relative_filename>
     <key>jp-morgan-2010</key>
     <notes></notes>
@@ -1861,7 +1872,7 @@
     <bib_extra key="month">12</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Samuelson%202012.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Samuelson%202012.pdf</filename>
     <relative_filename>Samuelson%202012.pdf</relative_filename>
     <key>samuelson-2012</key>
     <notes></notes>
@@ -1915,7 +1926,7 @@
     <bib_extra key="note">Project General Manager, Regulation Certification and Technical Affairs Division, Toyota Motor Engineering and Manufacturing (China)</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Yusuf,%20Saich%202008.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Yusuf,%20Saich%202008.pdf</filename>
     <relative_filename>Yusuf,%20Saich%202008.pdf</relative_filename>
     <key>steinfeld-2008</key>
     <notes></notes>
@@ -1973,7 +1984,7 @@
     <bib_extra key="type">Technical Note No.5</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Karplus%202012b%20%5BJP%20216%5D.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Karplus%202012b%20%5BJP%20216%5D.pdf</filename>
     <relative_filename>Karplus%202012b%20%5BJP%20216%5D.pdf</relative_filename>
     <key>karplus-2012b</key>
     <notes></notes>
@@ -2097,7 +2108,7 @@
     <bib_year>2004</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Luo%202011.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Luo%202011.pdf</filename>
     <relative_filename>Luo%202011.pdf</relative_filename>
     <key>luo-2011</key>
     <notes></notes>
@@ -2131,7 +2142,7 @@
     <bib_year>1998</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Downs%202004.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Downs%202004.pdf</filename>
     <relative_filename>Downs%202004.pdf</relative_filename>
     <key>downs-2004</key>
     <notes></notes>
@@ -2147,7 +2158,7 @@
     <bib_year>2004</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Kruyt%202009.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Kruyt%202009.pdf</filename>
     <relative_filename>Kruyt%202009.pdf</relative_filename>
     <key>kruyt-2009</key>
     <notes></notes>
@@ -2162,7 +2173,7 @@
     <bib_year>2009</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Xi%202009.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Xi%202009.pdf</filename>
     <relative_filename>Xi%202009.pdf</relative_filename>
     <key>xi-2009</key>
     <notes></notes>
@@ -2209,7 +2220,7 @@
     <bib_year>2003</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Casey,%20Koleski%202011.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Casey,%20Koleski%202011.pdf</filename>
     <relative_filename>Casey,%20Koleski%202011.pdf</relative_filename>
     <key>casey-2011</key>
     <notes></notes>
@@ -2226,7 +2237,7 @@
     <bib_extra key="month">June</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/DB%202011.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/DB%202011.pdf</filename>
     <relative_filename>DB%202011.pdf</relative_filename>
     <key>db-2011</key>
     <notes></notes>
@@ -2275,7 +2286,7 @@
     <bib_year>2003</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Gillespie%202011.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Gillespie%202011.pdf</filename>
     <relative_filename>Gillespie%202011.pdf</relative_filename>
     <key>gillespie-2011</key>
     <notes></notes>
@@ -2333,7 +2344,7 @@
     <bib_extra key="series">Energy, Environment \&amp; Public Policy</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Gong%202012.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Gong%202012.pdf</filename>
     <relative_filename>Gong%202012.pdf</relative_filename>
     <key>gong-2012</key>
     <notes></notes>
@@ -2348,7 +2359,7 @@
     <bib_year>2012</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Nam%202011.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Nam%202011.pdf</filename>
     <relative_filename>Nam%202011.pdf</relative_filename>
     <key>nam-2011</key>
     <notes></notes>
@@ -2363,7 +2374,7 @@
     <bib_year>2011</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Nam%202010.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Nam%202010.pdf</filename>
     <relative_filename>Nam%202010.pdf</relative_filename>
     <key>nam-2010</key>
     <notes></notes>
@@ -2400,7 +2411,7 @@
     <bib_extra key="note">MAP Sustainable Energy Fellow, National Resources Defence Council, Beijing, China</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Chien%202011.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Chien%202011.pdf</filename>
     <relative_filename>Chien%202011.pdf</relative_filename>
     <key>chien-2011</key>
     <notes></notes>
@@ -2415,7 +2426,7 @@
     <bib_year>2011</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Zhang%20ZX%202012.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Zhang%20ZX%202012.pdf</filename>
     <relative_filename>Zhang%20ZX%202012.pdf</relative_filename>
     <key>zhang-zx-2012</key>
     <notes></notes>
@@ -2430,7 +2441,7 @@
     <bib_year>2012</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Daojiong%202006.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Daojiong%202006.pdf</filename>
     <relative_filename>Daojiong%202006.pdf</relative_filename>
     <key>daojiong-2006</key>
     <notes></notes>
@@ -2445,7 +2456,7 @@
     <bib_year>2006</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Downs%202006.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Downs%202006.pdf</filename>
     <relative_filename>Downs%202006.pdf</relative_filename>
     <key>downs-2006</key>
     <notes></notes>
@@ -2465,7 +2476,7 @@
     <bib_extra key="type">Energy Security Series</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Seligsohn%202012.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Seligsohn%202012.pdf</filename>
     <relative_filename>Seligsohn%202012.pdf</relative_filename>
     <key>seligsohn-2012</key>
     <notes></notes>
@@ -2606,7 +2617,7 @@
     <bib_extra key="note">Available at: \url{http://www.stats.gov.cn/english/statisticaldata/yearlydata/YB2001e/ml/indexE.htm}</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Geng%202008.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Geng%202008.pdf</filename>
     <relative_filename>Geng%202008.pdf</relative_filename>
     <key>geng-2008</key>
     <notes></notes>
@@ -2900,7 +2911,7 @@
     <bib_extra key="publisher">China Statistics Press</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Kosinski%202011.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Kosinski%202011.pdf</filename>
     <relative_filename>Kosinski%202011.pdf</relative_filename>
     <key>kosinski-2011</key>
     <notes></notes>
@@ -2919,7 +2930,7 @@
     <bib_extra key="organisation">U.S. Transportation Research Board</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/pnk/Documents/Papers/Kageson%202009.pdf</filename>
+    <filename>file:///home/khaeru/Documents/Papers/Kageson%202009.pdf</filename>
     <relative_filename>Kageson%202009.pdf</relative_filename>
     <key>kageson-2009</key>
     <notes></notes>
@@ -2991,6 +3002,165 @@
     <bib_extra key="institution">International Council on Clean Transportation</bib_extra>
     <bib_extra key="month">April</bib_extra>
     <bib_extra key="note">Available at: \url{http://www.theicct.org/info/documents/PVstds_update_apr2011.pdf}</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Huo%202012a.pdf</filename>
+    <relative_filename>Huo%202012a.pdf</relative_filename>
+    <key>huo-2012a</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.enpol.2011.09.063</bib_doi>
+    <bib_title>Modeling future vehicle sales and stock in China</bib_title>
+    <bib_authors>Huo, Hong and Wang, Michael</bib_authors>
+    <bib_journal>Energy Policy</bib_journal>
+    <bib_volume>43</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>17--29</bib_pages>
+    <bib_year>2012</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Huo%202012d.pdf</filename>
+    <relative_filename>Huo%202012d.pdf</relative_filename>
+    <key>huo-2012d</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.enpol.2011.09.065</bib_doi>
+    <bib_title>Projection of energy use and greenhouse gas emissions by motor vehicles in China: Policy options and impacts</bib_title>
+    <bib_authors>Huo, Hong and Wang, Michael and Zhang, Xiliang and He, Kebin and Gong, Huiming and Jiang, Kejun and Jin, Yuefu and Shi, Yaodong and Yu, Xin</bib_authors>
+    <bib_journal>Energy Policy</bib_journal>
+    <bib_volume>43</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>37--48</bib_pages>
+    <bib_year>2012</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Acemoglu%202012.pdf</filename>
+    <relative_filename>Acemoglu%202012.pdf</relative_filename>
+    <key>acemoglu-2012</key>
+    <notes></notes>
+    <tagged>12</tagged>
+    <bib_type>unpublished</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The world our grandchildren will inherit: the rights revolution and beyond</bib_title>
+    <bib_authors>Acemoglu, Daron</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="month">April</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Banister%202008.pdf</filename>
+    <relative_filename>Banister%202008.pdf</relative_filename>
+    <key>banister-2008</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.tranpol.2007.10.005</bib_doi>
+    <bib_title>The sustainable mobility paradigm</bib_title>
+    <bib_authors>Banister, David</bib_authors>
+    <bib_journal>Transport Policy</bib_journal>
+    <bib_volume>15</bib_volume>
+    <bib_number>2</bib_number>
+    <bib_pages>73--80</bib_pages>
+    <bib_year>2008</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Basen%202011.pdf</filename>
+    <relative_filename>Basen%202011.pdf</relative_filename>
+    <key>basen-2011</key>
+    <notes></notes>
+    <tagged>12</tagged>
+    <bib_type>article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Economics has met the enemy, and it is economics</bib_title>
+    <bib_authors>Basen, Ira</bib_authors>
+    <bib_journal>The Globe &amp; Mail</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Bay%C4%B1nd%C4%B1r-Upmann,%20Raith%202003.pdf</filename>
+    <relative_filename>Bay%C4%B1nd%C4%B1r-Upmann,%20Raith%202003.pdf</relative_filename>
+    <key>bayindir-upmann-2003</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/S0014-2921(01)00193-3</bib_doi>
+    <bib_title>Should high-tax countries pursue revenue-neutral ecological tax reforms?</bib_title>
+    <bib_authors>Bayındır-Upmann, Thorsten and Raith, Matthias G.</bib_authors>
+    <bib_journal>European Economic Review</bib_journal>
+    <bib_volume>47</bib_volume>
+    <bib_number>1</bib_number>
+    <bib_pages>41--60</bib_pages>
+    <bib_year>2003</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Chen%20Y%202012%20PhD.pdf</filename>
+    <relative_filename>Chen%20Y%202012%20PhD.pdf</relative_filename>
+    <key>chen-y-2012</key>
+    <notes></notes>
+    <tagged>13</tagged>
+    <bib_type>phdthesis</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Neighborhood Design and the Energy Efficiency of Urban Lifestyle in China: Treating Residence and Mobility as Lifestyle Bundle</bib_title>
+    <bib_authors>Chen, Yang</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="month">September</bib_extra>
+    <bib_extra key="school">Massachusetts Institute of Technology</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Steinfeld%202002.pdf</filename>
+    <relative_filename>Steinfeld%202002.pdf</relative_filename>
+    <key>steinfeld-2002</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Moving beyond Transition in China: Financial Reform and the Political Economy of Declining Growth</bib_title>
+    <bib_authors>Steinfeld, Edward S.</bib_authors>
+    <bib_journal>Comparative Politics</bib_journal>
+    <bib_volume>34</bib_volume>
+    <bib_number>4</bib_number>
+    <bib_pages>379--398</bib_pages>
+    <bib_year>2002</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Dai%202012.pdf</filename>
+    <relative_filename>Dai%202012.pdf</relative_filename>
+    <key>dai-2012</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.enpol.2012.08.023</bib_doi>
+    <bib_title>The impacts of China’s household consumption expenditure patterns on energy demand and carbon emissions towards 2050</bib_title>
+    <bib_authors>Dai, Hancheng and Masui, Toshihiko and Matsuoka, Yuzuru and Fujimori, Shinichiro</bib_authors>
+    <bib_journal>Energy Policy</bib_journal>
+    <bib_volume>50</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>736</bib_pages>
+    <bib_year>2012</bib_year>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Inderwildi,%20King%202012.pdf</filename>
+    <relative_filename>Inderwildi,%20King%202012.pdf</relative_filename>
+    <key>inderwildi-2012</key>
+    <notes></notes>
+    <bib_type>book</bib_type>
+    <bib_doi>10.1007/978-1-4471-2717-8</bib_doi>
+    <bib_title>Energy, Transport, &amp; the Environment: Addressing the Sustainable Mobility Paradigm</bib_title>
+    <bib_authors></bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="address">London</bib_extra>
+    <bib_extra key="editor">Inderwildi, Oliver and King, Sir David</bib_extra>
+    <bib_extra key="publisher">Springer-Verlag</bib_extra>
   </doc>
 </doclist>
 </library>
