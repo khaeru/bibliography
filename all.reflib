@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <library>
-<manage_target braces="true" utf8="true">all.bib</manage_target>
+<manage_target braces="true" utf8="false">all.bib</manage_target>
 <library_folder monitor="false"></library_folder>
 <taglist>
   <tag>
@@ -3161,6 +3161,68 @@
     <bib_extra key="address">London</bib_extra>
     <bib_extra key="editor">Inderwildi, Oliver and King, Sir David</bib_extra>
     <bib_extra key="publisher">Springer-Verlag</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>knittel-2011a</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1257/aer.101.7.3368</bib_doi>
+    <bib_title>Automobiles on Steroids: Product Attribute Trade-offs and Technological Progress in the Automobile Sector</bib_title>
+    <bib_authors>Knittel, Christopher R.</bib_authors>
+    <bib_journal>The American Economic Review</bib_journal>
+    <bib_volume>101</bib_volume>
+    <bib_number>7</bib_number>
+    <bib_pages>3368-3399</bib_pages>
+    <bib_year>2011</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>knittel-2011b</key>
+    <notes></notes>
+    <bib_type>unpublished</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Cleaning the Bathwater with the Baby: The Health Co-Benefits of Carbon Pricing in Transportation</bib_title>
+    <bib_authors>Knittel, Christopher R. and Sandler, Ryan</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="month">October</bib_extra>
+    <bib_extra key="note">Available online: \url{http://web.mit.edu/knittel/www/papers/cobenefits_latest.pdf}</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>chen-t-2012</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Bidding to Drive: Public Acceptance of the Car License Auction Policy in Shangha</bib_title>
+    <bib_authors>Chen, T. and Zhao, J.</bib_authors>
+    <bib_journal>Transport Policy (accepted)</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>zhao-2012</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Has Shanghai’s Transportation Demand Passed Its Peak Growth Period?</bib_title>
+    <bib_authors>Zhao, Z. and Zhao, J. and Shen, Q.</bib_authors>
+    <bib_journal>Journal of the Transportation Research Board (conditionally accepted)</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
   </doc>
 </doclist>
 </library>
