@@ -3224,5 +3224,83 @@
     <bib_pages></bib_pages>
     <bib_year>2012</bib_year>
   </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/Papers/Rittel,%20Webber%201973.pdf</filename>
+    <relative_filename>Rittel,%20Webber%201973.pdf</relative_filename>
+    <key>rittel-1973</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1007/BF01405730</bib_doi>
+    <bib_title>Dilemmas in a general theory of planning</bib_title>
+    <bib_authors>Rittel, Horst W. J. and Webber, Melvin M.</bib_authors>
+    <bib_journal>Policy Sciences</bib_journal>
+    <bib_volume>4</bib_volume>
+    <bib_number>2</bib_number>
+    <bib_pages>155</bib_pages>
+    <bib_year>1973</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>zegras-1995</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Transportation Modelling for Energy and Environment: U.S. Experience and Relevance to the Developing World</bib_title>
+    <bib_authors>Zegras, C. and Guruswamy, D. and Rojas, H.M.</bib_authors>
+    <bib_journal>Transportation Research Record</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number>1487</bib_number>
+    <bib_pages>41--48</bib_pages>
+    <bib_year>1995</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>jiang-2011</key>
+    <notes></notes>
+    <bib_type>inproceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Does Transport Energy Follow Urban Form? Examination of Nine Neighborhoods in Jinan, China</bib_title>
+    <bib_authors>Jiang, Yang and Zegras, Christopher</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="address">Washington, DC</bib_extra>
+    <bib_extra key="booktitle">Transportation Research Board 90th Annual Meeting</bib_extra>
+    <bib_extra key="note"></bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>webster-2012</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1007/s10584-011-0260-0</bib_doi>
+    <bib_title>Analysis of climate policy targets under uncertainty</bib_title>
+    <bib_authors>Webster, Mort and Sokolov, Andrei P. and Reilly, John M. and Forest, Chris E. and Paltsev, Sergey and Schlosser, Adam and Wang, Chien and Kicklighter, David and Sarofim, Marcus and Melillo, Jerry and Prinn, Ronald G. and Jacoby, Henry D.</bib_authors>
+    <bib_journal>Climatic Change</bib_journal>
+    <bib_volume>112</bib_volume>
+    <bib_number>3-4</bib_number>
+    <bib_pages>569</bib_pages>
+    <bib_year>2012</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>sun-l-2012</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1021/es204290s</bib_doi>
+    <bib_title>Flexible NOx Abatement from Power Plants in the Eastern United States</bib_title>
+    <bib_authors>Sun, Lin and Webster, Mort and McGaughey, Gary and McDonald-Buller, Elena C. and Thompson, Tammy and Prinn, Ronald and Ellerman, A. Denny and Allen, David T.</bib_authors>
+    <bib_journal>Environmental Science &amp; Technology</bib_journal>
+    <bib_volume>46</bib_volume>
+    <bib_number>10</bib_number>
+    <bib_pages>5607</bib_pages>
+    <bib_year>2012</bib_year>
+  </doc>
 </doclist>
 </library>
