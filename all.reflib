@@ -360,7 +360,7 @@
     <bib_year>2007</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/khaeru/Documents/Papers/Huo%202012b.pdf</filename>
+    <filename></filename>
     <relative_filename>Huo%202012b.pdf</relative_filename>
     <key>huo-2012b</key>
     <notes></notes>
@@ -3316,6 +3316,63 @@
     <bib_number></bib_number>
     <bib_pages></bib_pages>
     <bib_year>2013</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>kishimoto-2012d</key>
+    <notes></notes>
+    <tagged>9</tagged>
+    <tagged>6</tagged>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The Future Energy and GHG Emissions Impact of Alternative Personal Transportation Pathways in China</bib_title>
+    <bib_authors>Kishimoto, Paul Natsuo and Paltsev, Sergey and Karplus, Valerie J.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="address">Cambridge, MA, USA</bib_extra>
+    <bib_extra key="institution">MIT Joint Program on the Science \&amp; Policy of Global Change</bib_extra>
+    <bib_extra key="month">September</bib_extra>
+    <bib_extra key="note">Available at: \url{http://globalchange.mit.edu/research/publications/2327}</bib_extra>
+    <bib_extra key="type">Report No. 231</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>kishimoto-2012b</key>
+    <notes></notes>
+    <tagged>6</tagged>
+    <bib_type>conference</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Applying Advanced Uncertainty Methods to Improve Forecasts of Vehicle Ownership and Passenger Travel in China</bib_title>
+    <bib_authors>Kishimoto, Paul Natsuo</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="address">Austin, TX, USA</bib_extra>
+    <bib_extra key="howpublished">31st USAEE/IAEE North American Conference</bib_extra>
+    <bib_extra key="month">July</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>karplus-2012c</key>
+    <notes></notes>
+    <tagged>6</tagged>
+    <bib_type>article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The Global Energy, CO2 Emissions, and Economic Impact of Vehicle Fuel Economy Standards</bib_title>
+    <bib_authors>Karplus, Valerie J. and Kishimoto, Paul Natsuo and Paltsev, Sergey</bib_authors>
+    <bib_journal>Environmental &amp; Resource Economics (in review)</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
   </doc>
 </doclist>
 </library>
