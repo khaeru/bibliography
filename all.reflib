@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <library>
 <manage_target braces="true" utf8="false">all.bib</manage_target>
-<library_folder monitor="false"></library_folder>
+<library_folder monitor="true"></library_folder>
 <taglist>
   <tag>
     <uid>0</uid>
@@ -360,7 +360,7 @@
     <bib_year>2007</bib_year>
   </doc>
   <doc>
-    <filename></filename>
+    <filename>file:///home/khaeru/Documents/Papers/Huo%202012b.pdf</filename>
     <relative_filename>Huo%202012b.pdf</relative_filename>
     <key>huo-2012b</key>
     <notes></notes>
@@ -3373,6 +3373,45 @@
     <bib_number></bib_number>
     <bib_pages></bib_pages>
     <bib_year>2012</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>waugh-2011</key>
+    <notes></notes>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Emission Inventory for Non-CO₂ Greenhouse Gases and Air Pollutants in EPPA 5</bib_title>
+    <bib_authors>Waugh, Caleb and Paltsev, Sergey and Selin, Noelle and Reilly, John and Morris, Jennifer and Sarofim, Marcus</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="address">Cambridge, Massachusetts, USA</bib_extra>
+    <bib_extra key="institution">MIT Joint Program on the Science and Policy of Global Change</bib_extra>
+    <bib_extra key="month">July</bib_extra>
+    <bib_extra key="note">Available at: \url{http://globalchange.mit.edu/research/publications/2153}</bib_extra>
+    <bib_extra key="type">Technical Note \#12</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>jacoby-2009</key>
+    <notes></notes>
+    <bib_type>inbook</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Post-Kyoto International Climate Policy: Implementing Architectures for Agreement</bib_title>
+    <bib_authors>Jacoby, Henry D. and Babiker, Mustafa H. and Paltsev, Sergey and Reilly, John M.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>753--785</bib_pages>
+    <bib_year>2009</bib_year>
+    <bib_extra key="address">Cambridge, UK</bib_extra>
+    <bib_extra key="chapter">24, Sharing the Burden of GHG Reductions</bib_extra>
+    <bib_extra key="editor">Aldy, Joseph E. and Stavins, Robert N.</bib_extra>
+    <bib_extra key="publisher">Cambridge University Press</bib_extra>
   </doc>
 </doclist>
 </library>
