@@ -59,6 +59,14 @@
     <uid>13</uid>
     <name>from-czegras-2012-11</name>
   </tag>
+  <tag>
+    <uid>14</uid>
+    <name>trb-cge</name>
+  </tag>
+  <tag>
+    <uid>15</uid>
+    <name>trb-cn</name>
+  </tag>
 </taglist>
 <doclist>
   <doc>
@@ -229,8 +237,8 @@
     <bib_year>2008</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/khaeru/Documents/reference/Zhou%202011.pdf</filename>
-    <relative_filename>Zhou%202011.pdf</relative_filename>
+    <filename>file:///home/khaeru/Documents/reference/Zhou%20%C3%A6%202011%20%5BLBNL-4472E%5D.pdf.bz2</filename>
+    <relative_filename>Zhou%20%C3%A6%202011%20%5BLBNL-4472E%5D.pdf.bz2</relative_filename>
     <key>zhou-2011</key>
     <notes></notes>
     <tagged>0</tagged>
@@ -890,9 +898,9 @@
     <bib_year>2002</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/khaeru/Documents/reference/Creutzig%202009.pdf</filename>
-    <relative_filename>Creutzig%202009.pdf</relative_filename>
-    <key>creutzig-2009</key>
+    <filename>file:///home/khaeru/Documents/reference/Creutzig,%20He%202009.pdf.bz2</filename>
+    <relative_filename>Creutzig,%20He%202009.pdf.bz2</relative_filename>
+    <key>creutzig-he-2009</key>
     <notes></notes>
     <bib_type>article</bib_type>
     <bib_doi>10.1016/j.trd.2008.11.007</bib_doi>
@@ -903,6 +911,7 @@
     <bib_number>2</bib_number>
     <bib_pages>120--131</bib_pages>
     <bib_year>2009</bib_year>
+    <bib_extra key="old-key">creutzig-2009</bib_extra>
   </doc>
   <doc>
     <filename>file:///home/khaeru/Documents/reference/Wang%202010.pdf</filename>
@@ -1044,8 +1053,8 @@
     <bib_year>2010</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/khaeru/Documents/reference/Cherry+%202009.pdf</filename>
-    <relative_filename>Cherry+%202009.pdf</relative_filename>
+    <filename>file:///home/khaeru/Documents/reference/Cherry%20%C3%A6%202009.pdf.bz2</filename>
+    <relative_filename>Cherry%20%C3%A6%202009.pdf.bz2</relative_filename>
     <key>cherry-2009</key>
     <notes></notes>
     <bib_type>article</bib_type>
@@ -1529,9 +1538,9 @@
     <bib_year>2000</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/khaeru/Documents/reference/Zhang%201998.pdf</filename>
-    <relative_filename>Zhang%201998.pdf</relative_filename>
-    <key>zhang-1998</key>
+    <filename>file:///home/khaeru/Documents/reference/Zhang%20ZX%201998.pdf.bz2</filename>
+    <relative_filename>Zhang%20ZX%201998.pdf.bz2</relative_filename>
+    <key>zhang-zx-1998</key>
     <notes></notes>
     <bib_type>article</bib_type>
     <bib_doi>10.1016/S0161-8938(97)00005-7</bib_doi>
@@ -1542,6 +1551,7 @@
     <bib_number>2</bib_number>
     <bib_pages>213--250</bib_pages>
     <bib_year>1998</bib_year>
+    <bib_extra key="old-key">zhang-1998</bib_extra>
   </doc>
   <doc>
     <filename>file:///home/khaeru/Documents/reference/Angel%202005.pdf</filename>
@@ -3775,6 +3785,404 @@ under the Convention</bib_extra>
     <bib_number>2</bib_number>
     <bib_pages>301</bib_pages>
     <bib_year>2010</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>qi-2012</key>
+    <notes></notes>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Will Economic Restructuring in China Reduce Trade-Embodied CO₂ Emissions?</bib_title>
+    <bib_authors>Qi, Tianyu and Winchester, Niven and Karplus, Valerie J. and Zhang, Xiliang</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2012</bib_year>
+    <bib_extra key="address">Cambridge, MA, USA</bib_extra>
+    <bib_extra key="institution">MIT Joint Program on the Science and Policy of Global Change</bib_extra>
+    <bib_extra key="month">October</bib_extra>
+    <bib_extra key="note">Available online at: \url{http://globalchange.mit.edu/research/publications/2350}</bib_extra>
+    <bib_extra key="type">Report 232</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/reference/Wang%20YS%202011.pdf</filename>
+    <relative_filename>Wang%20YS%202011.pdf</relative_filename>
+    <key>wang-ys-2011</key>
+    <notes></notes>
+    <bib_type>inproceedings</bib_type>
+    <bib_doi>10.1109/ICMSS.2011.5998557</bib_doi>
+    <bib_title>Investment and Financing Mechanism of Public Transport in China</bib_title>
+    <bib_authors>Wang, Yongsheng and Zhou, Wei and Jiang, Yulin and Zhang, Haozhi</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1--4</bib_pages>
+    <bib_year>2011</bib_year>
+    <bib_extra key="address">Wuhan, China</bib_extra>
+    <bib_extra key="booktitle">2011 International Conference on Management and Service Science</bib_extra>
+    <bib_extra key="organisation">Institute of Electrical and Electronics Engineers</bib_extra>
+  </doc>
+  <doc>
+    <filename>file:///home/khaeru/Documents/reference/Mao%202012.pdf</filename>
+    <relative_filename>Mao%202012.pdf</relative_filename>
+    <key>mao-2012</key>
+    <notes></notes>
+    <bib_type>article</bib_type>
+    <bib_doi>10.1016/j.envsci.2012.03.010</bib_doi>
+    <bib_title>Achieving CO2 emission reduction and the co-benefits of local air pollution abatement in the transportation sector of China</bib_title>
+    <bib_authors>Mao, Xianqiang and Yang, Shuqian and Liu, Qin and Tu, Jianjun and Jaccard, Mark</bib_authors>
+    <bib_journal>Environmental Science &amp; Policy</bib_journal>
+    <bib_volume>21</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1</bib_pages>
+    <bib_year>2012</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>sugiyarto-2010</key>
+    <notes></notes>
+    <tagged>14</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi>10.3141/2162-11</bib_doi>
+    <bib_title>Macroeconomic Effects of Road Corridor Investment in Kazakhstan</bib_title>
+    <bib_authors>Sugiyarto, Guntur and Roland-Holst, David and Norojono, Olly</bib_authors>
+    <bib_journal>Transportation Research Record: Journal of the Transportation Research Board</bib_journal>
+    <bib_volume>2162</bib_volume>
+    <bib_number>-1</bib_number>
+    <bib_pages>90</bib_pages>
+    <bib_year>2010</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>sato-2010</key>
+    <notes></notes>
+    <tagged>14</tagged>
+    <tagged>4</tagged>
+    <bib_type>article</bib_type>
+    <bib_doi>10.3141/2133-05</bib_doi>
+    <bib_title>Spatial Equity Analysis on Expressway Network Development in Japan</bib_title>
+    <bib_authors>Sato, Keisuke and Tavasszy, Lori and Koike, Atsushi</bib_authors>
+    <bib_journal>Transportation Research Record: Journal of the Transportation Research Board</bib_journal>
+    <bib_volume>2133</bib_volume>
+    <bib_number>-1</bib_number>
+    <bib_pages>46</bib_pages>
+    <bib_year>2010</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>tsigas-2008</key>
+    <notes></notes>
+    <tagged>14</tagged>
+    <tagged>4</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi>10.3141/2062-05</bib_doi>
+    <bib_title>A Computable General Equilibrium Model of the U.S. Economy to Evaluate Maritime Infrastructure Investments</bib_title>
+    <bib_authors>Tsigas, Marines and Fujiwara, Luis and Luskin, David and Siegesmund, Peter</bib_authors>
+    <bib_journal>Transportation Research Record: Journal of the Transportation Research Board</bib_journal>
+    <bib_volume>2062</bib_volume>
+    <bib_number>-1</bib_number>
+    <bib_pages>32</bib_pages>
+    <bib_year>2008</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>lahr-2008</key>
+    <notes></notes>
+    <tagged>14</tagged>
+    <tagged>4</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi>10.3141/2067-13</bib_doi>
+    <bib_title>Endogenous Regional Economic Growth Through Transportation Investment</bib_title>
+    <bib_authors>Lahr, Michael L. and Mahady, Francis X.</bib_authors>
+    <bib_journal>Transportation Research Record: Journal of the Transportation Research Board</bib_journal>
+    <bib_volume>2067</bib_volume>
+    <bib_number>-1</bib_number>
+    <bib_pages>110</bib_pages>
+    <bib_year>2008</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>konan-2003</key>
+    <notes></notes>
+    <tagged>14</tagged>
+    <tagged>4</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi>10.3141/1839-16</bib_doi>
+    <bib_title>Transportation and Tourism in Hawaii: Computable General Equilibrium Model</bib_title>
+    <bib_authors>Konan, Demise and Kim, Karl</bib_authors>
+    <bib_journal>Transportation Research Record</bib_journal>
+    <bib_volume>1839</bib_volume>
+    <bib_number>1</bib_number>
+    <bib_pages>142</bib_pages>
+    <bib_year>2003</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>He08</key>
+    <notes></notes>
+    <tagged>15</tagged>
+    <tagged>4</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi>10.3141/2038-09</bib_doi>
+    <bib_title>Projection of Chinese Motor Vehicle Growth, Oil Demand, and CO&lt;sub&gt;2&lt;/sub&gt; Emissions Through 2050</bib_title>
+    <bib_authors>He, Dongquan and Johnson, Larry and Wang, Michael and Huo, Hong</bib_authors>
+    <bib_journal>Transportation Research Record</bib_journal>
+    <bib_volume>2038</bib_volume>
+    <bib_number>-1</bib_number>
+    <bib_pages>69</bib_pages>
+    <bib_year>2008</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>cao-2008</key>
+    <notes></notes>
+    <tagged>15</tagged>
+    <tagged>4</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi>10.3141/2038-10</bib_doi>
+    <bib_title>Land and Transportation Development in China: Economic Analysis of Government Behavior</bib_title>
+    <bib_authors>Cao, Guangzhong and Feng, Changchun and Yang, Jiawen</bib_authors>
+    <bib_journal>Transportation Research Record</bib_journal>
+    <bib_volume>2038</bib_volume>
+    <bib_number>-1</bib_number>
+    <bib_pages>78</bib_pages>
+    <bib_year>2008</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Shi09</key>
+    <notes></notes>
+    <tagged>15</tagged>
+    <tagged>4</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi>10.3141/2123-08</bib_doi>
+    <bib_title>Development and Application of Macroscopic Emission Model for China</bib_title>
+    <bib_authors>Shi, Qinyi and Guo, Shuxia and Hao, Yanzhao and Song, Guohua and Xu, Yaofang and Yu, Lei</bib_authors>
+    <bib_journal>Transportation Research Record: Journal of the Transportation Research Board</bib_journal>
+    <bib_volume>2123</bib_volume>
+    <bib_number>-1</bib_number>
+    <bib_pages>66</bib_pages>
+    <bib_year>2009</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>grutter-2009</key>
+    <notes></notes>
+    <tagged>15</tagged>
+    <tagged>4</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi>10.3141/2114-05</bib_doi>
+    <bib_title>Behavior-Based Transportation Greenhouse Gas Mitigation Under the Clean Development Mechanism</bib_title>
+    <bib_authors>Grütter, Jürg M. and Chen, Yang and Zegras, P. Christopher</bib_authors>
+    <bib_journal>Transportation Research Record: Journal of the Transportation Research Board</bib_journal>
+    <bib_volume>2114</bib_volume>
+    <bib_number>-1</bib_number>
+    <bib_pages>38</bib_pages>
+    <bib_year>2009</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Sperling11</key>
+    <notes></notes>
+    <tagged>15</tagged>
+    <tagged>4</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi>10.3141/2193-09</bib_doi>
+    <bib_title>Motorization in China</bib_title>
+    <bib_authors>Sperling, Daniel and Kurani, Kenneth S. and Ni, Meng-Cheng</bib_authors>
+    <bib_journal>Transportation Research Record: Journal of the Transportation Research Board</bib_journal>
+    <bib_volume>2193</bib_volume>
+    <bib_number>-1</bib_number>
+    <bib_pages>68</bib_pages>
+    <bib_year>2011</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>gao-2010</key>
+    <notes></notes>
+    <tagged>15</tagged>
+    <tagged>4</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi>10.3141/2166-09</bib_doi>
+    <bib_title>Bertrand Competition with Capacity Expansion</bib_title>
+    <bib_authors>Gao, Fei and Liu, Liming and Luo, Meifeng</bib_authors>
+    <bib_journal>Transportation Research Record: Journal of the Transportation Research Board</bib_journal>
+    <bib_volume>2166</bib_volume>
+    <bib_number>-1</bib_number>
+    <bib_pages>74</bib_pages>
+    <bib_year>2010</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>zhang-m-2010</key>
+    <notes></notes>
+    <tagged>15</tagged>
+    <tagged>4</tagged>
+    <bib_type>article</bib_type>
+    <bib_doi>10.3141/2159-02</bib_doi>
+    <bib_title>High-Speed Rail Project Development Processes in the United States and China</bib_title>
+    <bib_authors>Zhang, Ming and Chen, Xueming (Jimmy)</bib_authors>
+    <bib_journal>Transportation Research Record: Journal of the Transportation Research Board</bib_journal>
+    <bib_volume>2159</bib_volume>
+    <bib_number>-1</bib_number>
+    <bib_pages>9</bib_pages>
+    <bib_year>2010</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Song11</key>
+    <notes></notes>
+    <tagged>15</tagged>
+    <tagged>4</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi>10.3141/2244-08</bib_doi>
+    <bib_title>Assessing China&apos;s Megaregional Mobility in a Comparative Context</bib_title>
+    <bib_authors>Song, Ge and Ross, Catherine and Fang, Chuanglin and Yang, Jiawen</bib_authors>
+    <bib_journal>Transportation Research Record: Journal of the Transportation Research Board</bib_journal>
+    <bib_volume>2244</bib_volume>
+    <bib_number>-1</bib_number>
+    <bib_pages>61</bib_pages>
+    <bib_year>2011</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Yahalom11</key>
+    <notes></notes>
+    <tagged>15</tagged>
+    <tagged>4</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi>10.3141/2222-01</bib_doi>
+    <bib_title>China&apos;s Port Reform and Development</bib_title>
+    <bib_authors>Yahalom, Shmuel and Guan, Changqian</bib_authors>
+    <bib_journal>Transportation Research Record: Journal of the Transportation Research Board</bib_journal>
+    <bib_volume>2222</bib_volume>
+    <bib_number>-1</bib_number>
+    <bib_pages>1</bib_pages>
+    <bib_year>2011</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Wang11</key>
+    <notes></notes>
+    <tagged>15</tagged>
+    <tagged>4</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi>10.3141/2222-02</bib_doi>
+    <bib_title>Optimization of Capacity of Ports Within a Regional Port System</bib_title>
+    <bib_authors>Wang, Wei and Zhang, Yan and Jiang, Liupeng and Feng, Xuejun</bib_authors>
+    <bib_journal>Transportation Research Record: Journal of the Transportation Research Board</bib_journal>
+    <bib_volume>2222</bib_volume>
+    <bib_number>-1</bib_number>
+    <bib_pages>10</bib_pages>
+    <bib_year>2011</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Ni13</key>
+    <notes></notes>
+    <tagged>15</tagged>
+    <tagged>4</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi>10.3141/2317-16</bib_doi>
+    <bib_title>Conducting Transportation Survey Research in China</bib_title>
+    <bib_authors>Ni, Meng-Cheng and Cherry, Christopher and Deakin, Elizabeth</bib_authors>
+    <bib_journal>Transportation Research Record: Journal of the Transportation Research Board</bib_journal>
+    <bib_volume>2317</bib_volume>
+    <bib_number>-1</bib_number>
+    <bib_pages>131</bib_pages>
+    <bib_year>2013</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>He12</key>
+    <notes></notes>
+    <tagged>15</tagged>
+    <tagged>4</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi>10.3141/2287-12</bib_doi>
+    <bib_title>Transit Policies and Potential Carbon Dioxide Emission Impacts</bib_title>
+    <bib_authors>He, Dongquan and Wang, Jiangyan and Wang, Zhigao</bib_authors>
+    <bib_journal>Transportation Research Record: Journal of the Transportation Research Board</bib_journal>
+    <bib_volume>2287</bib_volume>
+    <bib_number>-1</bib_number>
+    <bib_pages>98</bib_pages>
+    <bib_year>2012</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Liu12</key>
+    <notes></notes>
+    <tagged>15</tagged>
+    <tagged>4</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi>10.3141/2275-06</bib_doi>
+    <bib_title>Urban Rail Development in China</bib_title>
+    <bib_authors>Liu, Zhi and Mehndiratta, Shomik and Salzberg, Andrew</bib_authors>
+    <bib_journal>Transportation Research Record: Journal of the Transportation Research Board</bib_journal>
+    <bib_volume>2275</bib_volume>
+    <bib_number>-1</bib_number>
+    <bib_pages>49</bib_pages>
+    <bib_year>2012</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>pan-2013</key>
+    <notes></notes>
+    <tagged>15</tagged>
+    <tagged>4</tagged>
+    <bib_type>inproceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Travel and Car Ownership of Residents near New Suburban Metro Stations in Shanghai</bib_title>
+    <bib_authors>Pan, Haixiao and Shen, Qing and Zhao, Ting</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2013</bib_year>
+    <bib_extra key="address">Washington, DC, USA</bib_extra>
+    <bib_extra key="booktitle">TRB 92nd Annual Meeting</bib_extra>
+    <bib_extra key="organisation">Transportation Research Board</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>liu-hb-2013</key>
+    <notes></notes>
+    <tagged>15</tagged>
+    <tagged>4</tagged>
+    <bib_type>inproceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Vehicle Emissions and Near-Road Air Quality Modeling in Shanghai, China, Based on Taxi GPS Data and MOVES Revised Emissions Inventory</bib_title>
+    <bib_authors>Liu, Haobing and Wang, Yuqin and Chen, Xiaohong and Han, Shu</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2013</bib_year>
+    <bib_extra key="address">Washington, DC, USA</bib_extra>
+    <bib_extra key="booktitle">TRB 92nd Annual Meeting</bib_extra>
+    <bib_extra key="organisation">Transportation Research Board</bib_extra>
   </doc>
 </doclist>
 </library>
