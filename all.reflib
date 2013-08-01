@@ -3926,11 +3926,11 @@ under the Convention</bib_extra>
   <doc>
     <filename></filename>
     <relative_filename></relative_filename>
-    <key>He08</key>
+    <key>he-2008</key>
     <notes></notes>
     <tagged>15</tagged>
     <tagged>4</tagged>
-    <bib_type>Article</bib_type>
+    <bib_type>article</bib_type>
     <bib_doi>10.3141/2038-09</bib_doi>
     <bib_title>Projection of Chinese Motor Vehicle Growth, Oil Demand, and CO&lt;sub&gt;2&lt;/sub&gt; Emissions Through 2050</bib_title>
     <bib_authors>He, Dongquan and Johnson, Larry and Wang, Michael and Huo, Hong</bib_authors>
@@ -3960,11 +3960,11 @@ under the Convention</bib_extra>
   <doc>
     <filename></filename>
     <relative_filename></relative_filename>
-    <key>Shi09</key>
+    <key>shi-qy-2009</key>
     <notes></notes>
     <tagged>15</tagged>
     <tagged>4</tagged>
-    <bib_type>Article</bib_type>
+    <bib_type>article</bib_type>
     <bib_doi>10.3141/2123-08</bib_doi>
     <bib_title>Development and Application of Macroscopic Emission Model for China</bib_title>
     <bib_authors>Shi, Qinyi and Guo, Shuxia and Hao, Yanzhao and Song, Guohua and Xu, Yaofang and Yu, Lei</bib_authors>
@@ -3994,11 +3994,11 @@ under the Convention</bib_extra>
   <doc>
     <filename></filename>
     <relative_filename></relative_filename>
-    <key>Sperling11</key>
+    <key>sperling-2011</key>
     <notes></notes>
     <tagged>15</tagged>
     <tagged>4</tagged>
-    <bib_type>Article</bib_type>
+    <bib_type>article</bib_type>
     <bib_doi>10.3141/2193-09</bib_doi>
     <bib_title>Motorization in China</bib_title>
     <bib_authors>Sperling, Daniel and Kurani, Kenneth S. and Ni, Meng-Cheng</bib_authors>
@@ -4045,11 +4045,11 @@ under the Convention</bib_extra>
   <doc>
     <filename></filename>
     <relative_filename></relative_filename>
-    <key>Song11</key>
+    <key>song-g-2011</key>
     <notes></notes>
     <tagged>15</tagged>
     <tagged>4</tagged>
-    <bib_type>Article</bib_type>
+    <bib_type>article</bib_type>
     <bib_doi>10.3141/2244-08</bib_doi>
     <bib_title>Assessing China&apos;s Megaregional Mobility in a Comparative Context</bib_title>
     <bib_authors>Song, Ge and Ross, Catherine and Fang, Chuanglin and Yang, Jiawen</bib_authors>
@@ -4062,11 +4062,11 @@ under the Convention</bib_extra>
   <doc>
     <filename></filename>
     <relative_filename></relative_filename>
-    <key>Yahalom11</key>
+    <key>yahalom-2011</key>
     <notes></notes>
     <tagged>15</tagged>
     <tagged>4</tagged>
-    <bib_type>Article</bib_type>
+    <bib_type>article</bib_type>
     <bib_doi>10.3141/2222-01</bib_doi>
     <bib_title>China&apos;s Port Reform and Development</bib_title>
     <bib_authors>Yahalom, Shmuel and Guan, Changqian</bib_authors>
@@ -4079,28 +4079,28 @@ under the Convention</bib_extra>
   <doc>
     <filename></filename>
     <relative_filename></relative_filename>
-    <key>Wang11</key>
+    <key>wang-w-2011</key>
     <notes></notes>
     <tagged>15</tagged>
     <tagged>4</tagged>
-    <bib_type>Article</bib_type>
+    <bib_type>article</bib_type>
     <bib_doi>10.3141/2222-02</bib_doi>
     <bib_title>Optimization of Capacity of Ports Within a Regional Port System</bib_title>
     <bib_authors>Wang, Wei and Zhang, Yan and Jiang, Liupeng and Feng, Xuejun</bib_authors>
     <bib_journal>Transportation Research Record: Journal of the Transportation Research Board</bib_journal>
     <bib_volume>2222</bib_volume>
-    <bib_number>-1</bib_number>
+    <bib_number></bib_number>
     <bib_pages>10</bib_pages>
     <bib_year>2011</bib_year>
   </doc>
   <doc>
     <filename></filename>
     <relative_filename></relative_filename>
-    <key>Ni13</key>
+    <key>ni-2013</key>
     <notes></notes>
     <tagged>15</tagged>
     <tagged>4</tagged>
-    <bib_type>Article</bib_type>
+    <bib_type>article</bib_type>
     <bib_doi>10.3141/2317-16</bib_doi>
     <bib_title>Conducting Transportation Survey Research in China</bib_title>
     <bib_authors>Ni, Meng-Cheng and Cherry, Christopher and Deakin, Elizabeth</bib_authors>
@@ -4113,11 +4113,11 @@ under the Convention</bib_extra>
   <doc>
     <filename></filename>
     <relative_filename></relative_filename>
-    <key>He12</key>
+    <key>he-2012</key>
     <notes></notes>
     <tagged>15</tagged>
     <tagged>4</tagged>
-    <bib_type>Article</bib_type>
+    <bib_type>article</bib_type>
     <bib_doi>10.3141/2287-12</bib_doi>
     <bib_title>Transit Policies and Potential Carbon Dioxide Emission Impacts</bib_title>
     <bib_authors>He, Dongquan and Wang, Jiangyan and Wang, Zhigao</bib_authors>
@@ -4130,11 +4130,11 @@ under the Convention</bib_extra>
   <doc>
     <filename></filename>
     <relative_filename></relative_filename>
-    <key>Liu12</key>
+    <key>liu-z-2012</key>
     <notes></notes>
     <tagged>15</tagged>
     <tagged>4</tagged>
-    <bib_type>Article</bib_type>
+    <bib_type>article</bib_type>
     <bib_doi>10.3141/2275-06</bib_doi>
     <bib_title>Urban Rail Development in China</bib_title>
     <bib_authors>Liu, Zhi and Mehndiratta, Shomik and Salzberg, Andrew</bib_authors>
