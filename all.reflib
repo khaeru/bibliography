@@ -3932,7 +3932,7 @@ under the Convention</bib_extra>
     <tagged>4</tagged>
     <bib_type>article</bib_type>
     <bib_doi>10.3141/2038-09</bib_doi>
-    <bib_title>Projection of Chinese Motor Vehicle Growth, Oil Demand, and CO&lt;sub&gt;2&lt;/sub&gt; Emissions Through 2050</bib_title>
+    <bib_title>Projection of Chinese Motor Vehicle Growth, Oil Demand, and CO₂ Emissions Through 2050</bib_title>
     <bib_authors>He, Dongquan and Johnson, Larry and Wang, Michael and Huo, Hong</bib_authors>
     <bib_journal>Transportation Research Record</bib_journal>
     <bib_volume>2038</bib_volume>
@@ -4183,6 +4183,44 @@ under the Convention</bib_extra>
     <bib_extra key="address">Washington, DC, USA</bib_extra>
     <bib_extra key="booktitle">TRB 92nd Annual Meeting</bib_extra>
     <bib_extra key="organisation">Transportation Research Board</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>kishimoto-2013a</key>
+    <notes></notes>
+    <bib_type>inproceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Modeling regional transportation demand in China and the impacts of a national carbon constraint</bib_title>
+    <bib_authors>Kishimoto, Paul Natsuo and Zhang, Xiliang and Zhang, Da and Karplus, Valerie J.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2013</bib_year>
+    <bib_extra key="address">Shanghai, China</bib_extra>
+    <bib_extra key="booktitle">16th Annual Conference on Global Economic Analysis</bib_extra>
+    <bib_extra key="organisation">Global Trade Analysis Project (GTAP)</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>springmann-2013</key>
+    <notes></notes>
+    <bib_type>techreport</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Consumption-Based Adjustment of China&apos;s Emissions-Intensity Targets: An Analysis of its Potential Economic Effects</bib_title>
+    <bib_authors>Springmann, Marco and Zhang, Da and Karplus, Valerie J.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2013</bib_year>
+    <bib_extra key="address">Cambridge, MA, USA</bib_extra>
+    <bib_extra key="institution">MIT Joint Program on the Science and Policy of Global Change</bib_extra>
+    <bib_extra key="month">3</bib_extra>
+    <bib_extra key="note">Available at: \url{http://globalchange.mit.edu/research/publications/2416}</bib_extra>
+    <bib_extra key="type">Report 241</bib_extra>
   </doc>
 </doclist>
 </library>
