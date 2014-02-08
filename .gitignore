@@ -1,4 +1,10 @@
 *.bib~*
+# Ignore the actual documents
+*/
+*.doc
+*.docx
 *.mobi
 *.pdf
 *.pdf.bz2
+*.ps
+*.tar.bz2

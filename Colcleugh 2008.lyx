@@ -1,0 +1,2572 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\usepackage{tikz}
+  \usetikzlibrary{positioning}
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language canadian
+\language_package default
+\inputencoding utf8x
+\fontencoding global
+\font_roman charter
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a5paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation 18pt
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle empty
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Quality of Thought
+\end_layout
+
+\begin_layout Author
+DuPont Company
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+As provided by D.
+ Colcleugh in APS501 Leadership & Leading for Groups & Organizations, University
+ of Toronto, 2008.
+ Reset in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+LaTeX
+\end_layout
+
+\end_inset
+
+ by P.N.
+ Kishimoto <pnk@mit.edu>, 2010.}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+The Components of Thought
+\end_layout
+
+\begin_layout Standard
+A useful way of starting to think about thinking is to every 
+\begin_inset Quotes eld
+\end_inset
+
+thought
+\begin_inset Quotes erd
+\end_inset
+
+ falling into three componont parts: 
+\end_layout
+
+\begin_layout Itemize
+its 
+\begin_inset Quotes eld
+\end_inset
+
+level,
+\begin_inset Quotes erd
+\end_inset
+
+ on a scale that we'll look at in a moment.
+ 
+\end_layout
+
+\begin_layout Itemize
+the 
+\begin_inset Quotes eld
+\end_inset
+
+mental energy
+\begin_inset Quotes erd
+\end_inset
+
+ reflected in it.
+ 
+\end_layout
+
+\begin_layout Itemize
+the 
+\begin_inset Quotes eld
+\end_inset
+
+modes of behavior
+\begin_inset Quotes erd
+\end_inset
+
+ or values reflected in it.
+ 
+\end_layout
+
+\begin_layout Standard
+We're going to look at each of these pieces in turn, but you might like
+ to keep this picture in mind as we go:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{tikzpicture}[every to/.style={draw},every node/.style={pos=0.5,font=
+\backslash
+large}]
+\end_layout
+
+\begin_layout Plain Layout
+
+  
+\backslash
+node[draw,circle,line width=2pt,minimum size=0.8
+\backslash
+textwidth] (c) at (0,0) {};
+\end_layout
+
+\begin_layout Plain Layout
+
+  
+\backslash
+path (c.center) to (c.north) node [anchor=west,text width=7ex,text centered]
+ {Levels of Thought}
+\end_layout
+
+\begin_layout Plain Layout
+
+    (c.center) to (c.east) node [anchor=north] {Levels of Energy}
+\end_layout
+
+\begin_layout Plain Layout
+
+  (c.center) to (c.south west) node [anchor=south,rotate=45] {Modes of Behaviour};
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{tikzpicture}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Levels of Thought
+\end_layout
+
+\begin_layout Standard
+Whenever we have a thought about doing something—anything at all from going
+ to the store to building a better world—the particular thought which we
+ have at any one time can be placed somewhere on this scale: 
+\end_layout
+
+\begin_layout Itemize
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+setlength{
+\backslash
+itemsep}{0pt}
+\backslash
+setlength{
+\backslash
+parskip}{0pt}
+\end_layout
+
+\end_inset
+
+
+\series bold
+\shape smallcaps
+Belief
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\shape smallcaps
+Philosophy
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\shape smallcaps
+Principle
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\shape smallcaps
+Concept
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\shape smallcaps
+Strategy
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\shape smallcaps
+Design
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\shape smallcaps
+Action
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\shape smallcaps
+Audit
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\shape smallcaps
+Evaluate
+\series default
+ 
+\end_layout
+
+\begin_layout Standard
+Let's take a simple illustration.
+\end_layout
+
+\begin_layout Standard
+You are one of a group of friends who enjoy getting together from time to
+ time.
+ One person normally comes up with an idea for each get-together and organizes
+ it.
+\end_layout
+
+\begin_layout Standard
+You find yourself thinking about these get-togethers.
+ 
+\end_layout
+
+\begin_layout Itemize
+If your thought is 
+\begin_inset Quotes eld
+\end_inset
+
+It's important to me to spend time with my friends,
+\begin_inset Quotes erd
+\end_inset
+
+ that would be a 
+\series bold
+\shape smallcaps
+Belief
+\series default
+\shape default
+ about getting together
+\shape smallcaps
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+If your thought is 
+\begin_inset Quotes eld
+\end_inset
+
+It's very satisfying when we all get together: It keeps our friendship alive
+ and healthy; we trade news and views with people we like and trust; we
+ have fun together
+\begin_inset Quotes erd
+\end_inset
+
+—that's a 
+\series bold
+\shape smallcaps
+Philosophy
+\series default
+\shape default
+ about getting together
+\shape smallcaps
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+If your thought is 
+\begin_inset Quotes eld
+\end_inset
+
+When we get together, we always have a program (swimming, skiing, playing
+ ball), we always bring the kids, we keep it simple, we all pitch in to
+ share the cost
+\begin_inset Quotes erd
+\end_inset
+
+—these would be 
+\series bold
+\shape smallcaps
+Principles
+\series default
+\shape default
+ (or standards) about get-togethers
+\shape smallcaps
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+If your thought is 
+\begin_inset Quotes eld
+\end_inset
+
+I'll organize a get-together for next weekend in my backyard.
+ We'll all enjoy a swim in the pool and a barbecue while the weather is
+ still good
+\begin_inset Quotes erd
+\end_inset
+
+—that would be a 
+\series bold
+\shape smallcaps
+Concept
+\series default
+\shape default
+ for a get-together
+\shape smallcaps
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+If your thought is 
+\begin_inset Quotes eld
+\end_inset
+
+I'll have to figure out a whole bunch of things that will have to be done
+ if I'm going to get something organized
+\begin_inset Quotes erd
+\end_inset
+
+—things like: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+invitations 
+\end_layout
+
+\begin_layout Itemize
+mow the lawn 
+\end_layout
+
+\begin_layout Itemize
+clean the pool 
+\end_layout
+
+\begin_layout Itemize
+borrow some chairs and a second barbecue 
+\end_layout
+
+\begin_layout Itemize
+etc., etc.
+ 
+\end_layout
+
+\begin_layout Standard
+you would be at the 
+\series bold
+\shape smallcaps
+Strategy
+\series default
+\shape default
+ level of thought about a get-together.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+If your thought is 
+\begin_inset Quotes eld
+\end_inset
+
+Now, I'd better get ways and means of doing these things figured out and
+ put down on a piece of paper
+\begin_inset Quotes erd
+\end_inset
+
+: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+First, get Bill to phone everybody 
+\end_layout
+
+\begin_layout Itemize
+Next, ask John and Sue to line up a dozen chairs and bring them over on
+ Saturday morning 
+\end_layout
+
+\begin_layout Itemize
+Next, get the neighbour's kid lined up to mow the lawn on Friday 
+\end_layout
+
+\begin_layout Itemize
+etc., etc.
+ 
+\end_layout
+
+\begin_layout Standard
+you would be at the 
+\series bold
+\shape smallcaps
+Design
+\series default
+\shape default
+ level of thought about a get-together.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+If your thought is 
+\begin_inset Quotes eld
+\end_inset
+
+I'm going to start right now
+\begin_inset Quotes erd
+\end_inset
+
+ and you reached for the phone, you would be at the 
+\series bold
+\shape smallcaps
+Action
+\series default
+\shape default
+ level of thought about the get-together.
+ 
+\end_layout
+
+\begin_layout Itemize
+If, as the day of the get-together got closer, you kept thinking about how
+ everything was coming along and fitting together—you'd be at the 
+\series bold
+\shape smallcaps
+Auditing
+\series default
+\shape default
+ level of thought about the get-together.
+ 
+\end_layout
+
+\begin_layout Itemize
+If, during the get-together, you kept checking how things were going—was
+ it time to eat? Did everybody have something to drink? Was everybody getting
+ involved and having fun? —you would be at the 
+\series bold
+\shape smallcaps
+Evaluating
+\series default
+\shape default
+ level of thought about the get-together.
+ 
+\end_layout
+
+\begin_layout Standard
+Now, the point about that example is not that everybody's mind works that
+ way, in a neat and tidy flow from top to bottom.
+ It doesn't!
+\end_layout
+
+\begin_layout Standard
+And it's not an argument that everybody's mind should work that way, all
+ of the time.
+ We'd never get anything done!
+\end_layout
+
+\begin_layout Standard
+What it is, first of all, is an illustration of the many different 
+\begin_inset Quotes eld
+\end_inset
+
+levels of thought
+\begin_inset Quotes erd
+\end_inset
+
+ we can be at when we're thinking about something, and how each 
+\begin_inset Quotes eld
+\end_inset
+
+level
+\begin_inset Quotes erd
+\end_inset
+
+ of thought is different.
+\end_layout
+
+\begin_layout Standard
+Next, it's an illustration of how these different levels of thought are
+ in fact inter-connected and tied together, even if we haven't consciously
+ recognized it before.
+ 
+\end_layout
+
+\begin_layout Itemize
+Our 
+\series bold
+\shape smallcaps
+Beliefs
+\series default
+\shape default
+ lead to our 
+\series bold
+\shape smallcaps
+Philosophy
+\series default
+\shape default
+ and it leads to the 
+\series bold
+\shape smallcaps
+Principles
+\series default
+ 
+\shape default
+we follow.
+ 
+\end_layout
+
+\begin_layout Itemize
+Together they answer the question of 
+\begin_inset Quotes eld
+\end_inset
+
+why
+\begin_inset Quotes erd
+\end_inset
+
+ we think something—or want to create or do something (and don't think of
+ doing something different)—at particular points in time.
+ 
+\end_layout
+
+\begin_layout Itemize
+Once we have thought out why we want to do something, we can develop a 
+\series bold
+\shape smallcaps
+Concept
+\series default
+\shape default
+ (or idea) of what it is and what it would look like, and then we can develop
+ our overall 
+\series bold
+\shape smallcaps
+Strategy
+\series default
+\shape default
+ for getting it done and for bringing the result into existence; and we
+ can then 
+\series bold
+\shape smallcaps
+Design
+\series default
+\shape default
+ a specific set of ways and means for doing so.
+ These show us 
+\begin_inset Quotes eld
+\end_inset
+
+how
+\begin_inset Quotes erd
+\end_inset
+
+ to think about creating the result we want.
+ 
+\end_layout
+
+\begin_layout Itemize
+With this in hand, we can begin to take 
+\series bold
+\shape smallcaps
+Action
+\series default
+\shape default
+, and 
+\series bold
+\shape smallcaps
+Audit
+\series default
+\shape default
+ and 
+\series bold
+\shape smallcaps
+Evaluate
+\series default
+\shape default
+ our action in a systematic way as we move along.
+ 
+\end_layout
+
+\begin_layout Itemize
+These are the 
+\begin_inset Quotes eld
+\end_inset
+
+what
+\begin_inset Quotes erd
+\end_inset
+
+ steps in getting something done, in creating something.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{tikzpicture}[every to/.style={draw,->,line width=1pt,shorten >=2pt},every
+ node/.style={draw,line width=1pt,rounded corners,minimum height=3em,minimum
+ width=10ex,font=
+\backslash
+scshape}]
+\end_layout
+
+\begin_layout Plain Layout
+
+  
+\backslash
+node (a) {Why?};
+\end_layout
+
+\begin_layout Plain Layout
+
+  
+\backslash
+node (b) [right=1cm of a.east] {How?};
+\end_layout
+
+\begin_layout Plain Layout
+
+  
+\backslash
+node (c) [right=1cm of b.east] {What?};
+\end_layout
+
+\begin_layout Plain Layout
+
+  
+\backslash
+path (a) to (b); 
+\backslash
+path (b) to (c);
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{tikzpicture}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When we can answer the question 
+\begin_inset Quotes eld
+\end_inset
+
+Why am I thinking of doing this?
+\begin_inset Quotes erd
+\end_inset
+
+ to our own satisfaction; and can answer the question 
+\begin_inset Quotes eld
+\end_inset
+
+How am I going to do it
+\begin_inset Quotes erd
+\end_inset
+
+ in a way that takes everything that needs to be thought about into account:
+ and can then answer the question 
+\begin_inset Quotes eld
+\end_inset
+
+What am I going to do?
+\begin_inset Quotes erd
+\end_inset
+
+ in a systematic way—then we are using all the levels of thought in a conscious,
+ organized and disciplined way that is most likely to get the creative and
+ satisfying results we want.
+\end_layout
+
+\begin_layout Standard
+What we have talked about so far can be summarized as follows:
+\end_layout
+
+\begin_layout Standard
+Being conscious of levels of thought is helpful and useful in a variety
+ of ways: 
+\end_layout
+
+\begin_layout Itemize
+overall, as we have seen, it gives us a framework for seeing a total flow
+ or network of related thoughts about something 
+\end_layout
+
+\begin_layout Itemize
+at any moment, the list gives us the ability to 
+\begin_inset Quotes eld
+\end_inset
+
+locate
+\begin_inset Quotes erd
+\end_inset
+
+ a thought we are having, and to describe what it is and where it is more
+ clearly than we could do before: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+I'm down at 
+\series bold
+\shape smallcaps
+Design
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+I'm still up at 
+\series bold
+\shape smallcaps
+Principle
+\series default
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+this ability to 
+\begin_inset Quotes eld
+\end_inset
+
+locate
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+describe
+\begin_inset Quotes erd
+\end_inset
+
+ our thoughts gives us a chance to check the consistency and flow of our
+ own thinking: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+If I'm now working on 
+\series bold
+\shape smallcaps
+Design
+\series default
+\shape default
+, what 
+\series bold
+\shape smallcaps
+Concept
+\series default
+\shape default
+ is it I'm trying to put in place?
+\end_layout
+
+\begin_layout Itemize
+If I'm in 
+\series bold
+\shape smallcaps
+Action
+\series default
+\shape default
+, can I remember what 
+\series bold
+\shape smallcaps
+Principles
+\series default
+\shape default
+ I was trying to follow?
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+this, in turn, gives us a way to test and connect our thinking: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+If, when we're thinking about 
+\series bold
+\shape smallcaps
+Design
+\series default
+\shape default
+, we just can't seem to get it to come out right, we can consciously and
+ systematically work backwards, through 
+\series bold
+\shape smallcaps
+Strategy
+\series default
+, 
+\series bold
+Concept
+\series default
+\shape default
+—all the way back to 
+\series bold
+\shape smallcaps
+Belief
+\series default
+\shape default
+ if necessary—to see whether we missed something, or skipped something,
+ or need to clarify something at an upper level, before we can go forward
+ effectively.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+All levels of thought are needed and can be useful in particular situations.
+ There is no good or bad level of thought.
+\end_layout
+
+\begin_layout Standard
+Finally, there is another very important—valuable—use for levels of thought.
+ If all of us understand them in the same way, and use the same name for
+ each of the levels, then our ability to share our thoughts with others
+ will improve enormously: 
+\end_layout
+
+\begin_layout Itemize
+If I say to you—
+\begin_inset Quotes eld
+\end_inset
+
+I'm thinking of such-and-such a subject, and I'm trying to develop a 
+\series bold
+\shape smallcaps
+Concept
+\series default
+\shape default
+
+\begin_inset Quotes erd
+\end_inset
+
+, you now know immediately where I am and what I mean.
+ 
+\end_layout
+
+\begin_layout Itemize
+If, as happens more often, I just start talking about such-and-such in a
+ muddled or confused way, you can stop me and say 
+\begin_inset Quotes eld
+\end_inset
+
+Just a minute! I don't understand where you are on this thing—are we talking
+ 
+\series bold
+\shape smallcaps
+Beliefs
+\series default
+\shape default
+ or 
+\series bold
+\shape smallcaps
+Principles
+\series default
+\shape default
+ or 
+\series bold
+\shape smallcaps
+Concept
+\series default
+\shape default
+ or what? Where does your thinking stand on these?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Itemize
+If someone comes to you and lays out a proposal to do something, levels
+ of thought is an excellent framework to keep in your head as the proposal
+ unfolds! 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Do the various stages of 
+\series bold
+\shape smallcaps
+Why—How—What
+\series default
+\shape default
+ flow in a clear and logical way?
+\end_layout
+
+\begin_layout Itemize
+Do they reflect central 
+\series bold
+\shape smallcaps
+Beliefs
+\series default
+, 
+\series bold
+Philosophy
+\series default
+\shape default
+ and 
+\series bold
+\shape smallcaps
+Principles
+\series default
+\shape default
+ that you share?
+\end_layout
+
+\begin_layout Itemize
+Does the 
+\series bold
+\shape smallcaps
+Concept
+\series default
+\shape default
+ flow smoothly from the 
+\series bold
+\shape smallcaps
+Principles
+\series default
+\shape default
+, and do the 
+\series bold
+\shape smallcaps
+Strategy
+\series default
+\shape default
+ and 
+\series bold
+\shape smallcaps
+Design
+\series default
+\shape default
+ fit nicely together? 
+\end_layout
+
+\begin_layout Itemize
+Are all the elements considered and accounted for?
+\end_layout
+
+\begin_layout Itemize
+Is the 
+\series bold
+\shape smallcaps
+Action
+\series default
+\shape default
+ a good extension of the 
+\series bold
+\shape smallcaps
+Design
+\series default
+\shape default
+ and is there proper allowance for 
+\series bold
+\shape smallcaps
+Audit
+\series default
+\shape default
+ and 
+\series bold
+\shape smallcaps
+Evaluating
+\series default
+? 
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+If the answer to these questions is 
+\begin_inset Quotes eld
+\end_inset
+
+
+\series bold
+\shape smallcaps
+Yes
+\series default
+\shape default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ you may quickly agree with the proposal.
+ If not, you can use levels of thought to get back to where you need to
+ be to resolve your differences.
+\end_layout
+
+\begin_layout Standard
+This is a disciplined and orderly process—you avoid getting into unnecessary
+ and often heated arguments about detail by focussing on basic levels of
+ thought, where the chance of reaching common agreement is greatest.
+ 
+\end_layout
+
+\begin_layout Itemize
+If two or more of us are working together on some question or problem, levels
+ of thought is a useful way of thinking about how to tackle the task in
+ a disciplined and productive way instead of rushing down to the 
+\series bold
+\shape smallcaps
+Design
+\series default
+\shape default
+ or 
+\series bold
+\shape smallcaps
+Action
+\series default
+\shape default
+ level as we often do, inside the first 10 seconds, and trading interesting
+ but often unconnected or irrelevant thoughts—
+\begin_inset Quotes eld
+\end_inset
+
+Let's do this
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+No—let's do that
+\begin_inset Quotes erd
+\end_inset
+
+—that often lead nowhere.
+\end_layout
+
+\begin_layout Standard
+So much—at this stage—about levels of thought.
+\end_layout
+
+\begin_layout Standard
+Have you been testing this against your own experience? Trying it out on
+ something you were involved in recently? Does it give you any ideas you
+ want to pursue?
+\end_layout
+
+\begin_layout Standard
+Are you ready to go on to the next component of thought?
+\end_layout
+
+\begin_layout Section
+Levels of Energy
+\end_layout
+
+\begin_layout Standard
+The second component of thought is 
+\begin_inset Quotes eld
+\end_inset
+
+levels of energy
+\begin_inset Quotes erd
+\end_inset
+
+—the different kinds or levels of mental energy we can find reflected in
+ every thought that we have—and that others have.
+\end_layout
+
+\begin_layout Standard
+The different kinds or levels of mental energy we can identify are: 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\shape smallcaps
+Automatic
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\shape smallcaps
+Sensitive
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\shape smallcaps
+Conscious
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\shape smallcaps
+Creative
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\shape smallcaps
+Unitive
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\shape smallcaps
+Transcendent
+\series default
+ 
+\end_layout
+
+\begin_layout Standard
+and I
+\begin_inset Quotes erd
+\end_inset
+
+ll define more closely what these names mean as we go along.
+\end_layout
+
+\begin_layout Standard
+It's a little difficult to describe or define abstractly exactly what is
+ meant by 
+\begin_inset Quotes eld
+\end_inset
+
+mental energy
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+In part, it's a description of the feeling—the emotion, if you want to call
+ it that—which is associated with a particular thought we have, at a particular
+ moment.
+ How do we 
+\begin_inset Quotes eld
+\end_inset
+
+feel about
+\begin_inset Quotes erd
+\end_inset
+
+ what we're thinking? What level of feeling do we put into it? Are we 
+\begin_inset Quotes eld
+\end_inset
+
+turned on
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+off
+\begin_inset Quotes erd
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Standard
+In part, mental energy is comparable to the physical energy we can see in
+ different actions we take at different times—sometime low-level, just coasting;
+ other times, quite alert and active; still other times, really moving and
+ shaking!
+\end_layout
+
+\begin_layout Standard
+Why don't we look at each level of mental energy, and let you consider them
+ for yourself?
+\end_layout
+
+\begin_layout Standard
+Here are descriptions of the different levels: 
+\end_layout
+
+\begin_layout Description
+
+\shape smallcaps
+Automatic
+\shape default
+ We're scarcely aware that we are thinking at all.
+ What we are doing doesn't (or doesn't seem) to require any particular kind
+ of active thought: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+riding the bus 
+\end_layout
+
+\begin_layout Itemize
+eating lunch 
+\end_layout
+
+\begin_layout Itemize
+doing any other routine, repetitive, familiar task 
+\end_layout
+
+\end_deeper
+\begin_layout Description
+
+\shape smallcaps
+Sensitive
+\shape default
+ We know we're thinking.
+ We have a reasen for what we are doing.
+ We're looking for relationships/differences between things at quite a simple
+ level.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+checking a 6/49 ticket against the numbers in the paper 
+\end_layout
+
+\begin_layout Itemize
+searching for two matching buttons in a box ef 50 different shapes and sizes.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Description
+
+\shape smallcaps
+Conscious
+\shape default
+ We know we're thinking—we're aware of 
+\begin_inset Quotes eld
+\end_inset
+
+why
+\begin_inset Quotes erd
+\end_inset
+
+ we're thinking, what our purpose is.
+ We're consciously trying to choose thoughts/ideas/actions that fit a defined
+ purpose: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+trying to figure out when to leave home to pick up two friends and get downtown
+ for the ballgame on time in heavy traffic.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Description
+
+\shape smallcaps
+Creative
+\shape default
+ We are consciously and actively thinking about new ideas—new solutiens—new
+ approaches to what we're trying to achieve.
+ We are conscious of our own thought processes and we are not satisfied
+ with the ideas we are producing.
+ We're pushing our thinking further and deeper to reach a better answer.
+ 
+\end_layout
+
+\begin_layout Description
+
+\shape smallcaps
+Unitive
+\shape default
+ We are trying to get all our thoughts, ideas, means and methods 
+\begin_inset Quotes eld
+\end_inset
+
+lined up
+\begin_inset Quotes erd
+\end_inset
+
+ in a disciplined way.
+ We're conscious of the others involved in what we're doing, and we're trying
+ to work out a 
+\begin_inset Quotes eld
+\end_inset
+
+consensus
+\begin_inset Quotes erd
+\end_inset
+
+ that everyone can support.
+ 
+\end_layout
+
+\begin_layout Description
+
+\shape smallcaps
+Transcendent
+\shape default
+ Our thoughts and actions are completely tied-in with those of others, towards
+ a common purpose or goal.
+ We are conscious of out own thought processes and those of others, and
+ our thoughts and actions are focussed on finding the best possible solution
+ to what we are working on, regardless of self-interest or past practice,
+ in a way that generates enthusiasm and energy in everyone involved.
+ 
+\end_layout
+
+\begin_layout Standard
+Now, if your first reaction is that much of this is hard to grasp, I don't
+ blame you.
+ Some of these distinctions seem to be a little narrow when you first look
+ at them.
+ What's the point?
+\end_layout
+
+\begin_layout Standard
+Why don't you go back and read the first descsiption again (
+\series bold
+\shape smallcaps
+Automatic
+\series default
+\shape default
+), and than compare it with the last one (
+\series bold
+\shape smallcaps
+Transcendent
+\series default
+\shape default
+).
+ I don't think you will have much difficulty in recognizing a vast difference
+ between the 
+\begin_inset Quotes eld
+\end_inset
+
+feeling
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+energy
+\begin_inset Quotes erd
+\end_inset
+
+ reflected in these two extremes, or imagining the equally vast differences
+ in thought and behaviour produced at either extreme of 
+\begin_inset Quotes eld
+\end_inset
+
+energy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+If that is a correct assumption, then you are much more than half way to
+ grasping all you need to understand about 
+\begin_inset Quotes eld
+\end_inset
+
+levels of energy.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Itemize
+there are big differences in 
+\begin_inset Quotes eld
+\end_inset
+
+energy
+\begin_inset Quotes erd
+\end_inset
+
+ between the two ends of the scale.
+ 
+\end_layout
+
+\begin_layout Itemize
+these differences in 
+\begin_inset Quotes eld
+\end_inset
+
+energy
+\begin_inset Quotes erd
+\end_inset
+
+ can be expected to have powerfully different effects on 
+\begin_inset Quotes eld
+\end_inset
+
+quality of thought,
+\begin_inset Quotes erd
+\end_inset
+
+ depending on the situation.
+ 
+\end_layout
+
+\begin_layout Standard
+Note that last phrase, however: 
+\begin_inset Quotes eld
+\end_inset
+
+depending on the situation.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We all need, and should learn to use, all the levels of energy.
+ Each one has its place and none of them is good or bad by itself.
+ What's important, however, is using the appropriate one at the apptopriate
+ time.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\shape smallcaps
+Automatic
+\series default
+\shape default
+ is a perfectly appropriate level of mental energy to use for taking a shower,
+ particularly if you are using your time under the shower to be 
+\series bold
+\shape smallcaps
+Creative
+\series default
+\shape default
+ about your plans for the rest of the day.
+ The other way around would be quite inappropriate.
+ 
+\end_layout
+
+\begin_layout Itemize
+You may need to be 
+\series bold
+\shape smallcaps
+Unitive
+\series default
+\shape default
+ or even 
+\series bold
+\shape smallcaps
+Transcendent
+\series default
+\shape default
+ when you're running the PTA meeting tonight, but 
+\series bold
+\shape smallcaps
+Conscious
+\series default
+\shape default
+ is probably more than appropriate when you are ordering a quick sandwich
+ and coffee before you go to the meeting.
+ Again, the other way around would be downright foolish and wasteful.
+\end_layout
+
+\begin_layout Standard
+It is possible—in words—to split up the difference between the two ends
+ of the mental energy scale into various levels, each one of which moves
+ part way to close the gap.
+ And that's all the specific descriptions are—steps up the scale of 
+\begin_inset Quotes eld
+\end_inset
+
+energy
+\begin_inset Quotes erd
+\end_inset
+
+ from 
+\series bold
+\shape smallcaps
+Automatic
+\series default
+\shape default
+ to 
+\series bold
+\shape smallcaps
+Transcendent
+\series default
+\shape default
+.
+\end_layout
+
+\begin_layout Standard
+You can go back later, if you want, and trace the steps out for yourself,
+ and see how each one of the descriptions builds on the one before, but
+ falls short of the next one up.
+\end_layout
+
+\begin_layout Standard
+But, you don't have to do so to understand the basic idea of levels of mental
+ energy—and you certainly don't have to memorize each of the descriptions!
+\end_layout
+
+\begin_layout Subsection
+Using Levels of Energy
+\end_layout
+
+\begin_layout Standard
+Once you have understood the basic idea behind levels of energy, however,
+ what you are going to have to do is think about how—and when—you can use
+ this understanding and its implications for quality of thought: 
+\end_layout
+
+\begin_layout Itemize
+How can you practice recognizing differences in your own mental energy from
+ time to time, situation by situation? 
+\end_layout
+
+\begin_layout Itemize
+How can you go about deciding if you are using the appropriate level of
+ mental energy in each situation? 
+\end_layout
+
+\begin_layout Itemize
+If you decide you are not, how can you practice, and become skilled at,
+ shifting your level of mental energy from one level to a more appropriate
+ one, depending on the situation? 
+\end_layout
+
+\begin_layout Itemize
+How can you learn to recognize other people's level of energy, situation
+ by situation? What—if anything—can you do to shift other people's energy
+ to a more appropriate level in a given situation? 
+\end_layout
+
+\begin_layout Standard
+Most of these questions can't be answered in a general way.
+ Most of the answers depend on you, and on how interested and curious you
+ are.
+\end_layout
+
+\begin_layout Standard
+If this discussion has opened your mind up to questions you haven't thought
+ about before or thrown new light on old questions, and if you are sufficiently
+ curious about yourself and how your mind works, then you will chew away
+ at these questions until you find answers that satisfy you.
+ Just asking yourself the questions may be enough to get your mind rolling
+ towards answers! Use the various definitions as a check-list to help you
+ think about and learn how to identify two things: 
+\end_layout
+
+\begin_layout Itemize
+What's the situation? What level of energy would seem to be most appropriate?
+ 
+\end_layout
+
+\begin_layout Itemize
+What level am I at right now? Is it where I want to be? 
+\end_layout
+
+\begin_layout Standard
+As you work at these two questions, you'll find the answers moving back
+ and forward between them, until you feel comfortable with both.
+\end_layout
+
+\begin_layout Standard
+The only really useful knowledge is knowledge you acquire for yourself or
+ about yourself, so give it a try! Put the appropriate 
+\begin_inset Quotes eld
+\end_inset
+
+mental energy
+\begin_inset Quotes erd
+\end_inset
+
+ into it!
+\end_layout
+
+\begin_layout Standard
+We will come back, shortly, to the question about recognizing—and shifting—other
+ people's level of mental energy.
+\end_layout
+
+\begin_layout Standard
+Meanwhile, let‘s move ahead to the third component of thought.
+\end_layout
+
+\begin_layout Section
+Modes of Behaviour
+\end_layout
+
+\begin_layout Standard
+The third component of thought is something we can call 
+\begin_inset Quotes eld
+\end_inset
+
+modes of behaviour.
+\begin_inset Quotes erd
+\end_inset
+
+ There are three basic 
+\begin_inset Quotes eld
+\end_inset
+
+modes of behaviour
+\begin_inset Quotes erd
+\end_inset
+
+ which we can find reflected in every thought we have—and in every thought
+ other people have.
+ These three modes are: 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\shape smallcaps
+Reactive
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\shape smallcaps
+Ego
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\shape smallcaps
+Purposeful
+\series default
+ 
+\end_layout
+
+\begin_layout Standard
+When we use the word 
+\begin_inset Quotes eld
+\end_inset
+
+behaviour
+\begin_inset Quotes erd
+\end_inset
+
+ most of us think of actions—what we do or what someone else does is 
+\begin_inset Quotes eld
+\end_inset
+
+behaviour.
+\begin_inset Quotes erd
+\end_inset
+
+ And that is; of course, quite accurate, as far as it goes.
+\end_layout
+
+\begin_layout Standard
+Behaviour—what we do (or don't do) at a point in time—reflects what we are
+ thinking at that moment, however, and it is for this reason that we want
+ to discuss 
+\begin_inset Quotes eld
+\end_inset
+
+modes of behaviour
+\begin_inset Quotes erd
+\end_inset
+
+ as part of quality of thought.
+\end_layout
+
+\begin_layout Standard
+And there is another reason, equally important: what we think, and the modes
+ of behaviour we employ in our thinking and in our actions, show the values
+ we are holding—or that we are applying—at that moment (whether consciously
+ or unconsciously).
+ Values are totally 
+\begin_inset Quotes eld
+\end_inset
+
+internal
+\begin_inset Quotes erd
+\end_inset
+
+ or mental.
+\end_layout
+
+\begin_layout Standard
+Let's look, then, at the three modes of behaviour and the values they disclose.
+\end_layout
+
+\begin_layout Standard
+First—what do we mean by a 
+\begin_inset Quotes eld
+\end_inset
+
+value
+\begin_inset Quotes erd
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Standard
+For our purposes here, I think the most useful basic description is this—a
+ value is the expression of a principle or standard considered important
+ in life.
+\end_layout
+
+\begin_layout Standard
+Some 
+\begin_inset Quotes eld
+\end_inset
+
+values
+\begin_inset Quotes erd
+\end_inset
+
+ are widely held and often put into words: 
+\end_layout
+
+\begin_layout Itemize
+honesty 
+\end_layout
+
+\begin_layout Itemize
+openness 
+\end_layout
+
+\begin_layout Itemize
+respect for human life 
+\end_layout
+
+\begin_layout Standard
+There are many other 
+\begin_inset Quotes eld
+\end_inset
+
+values,
+\begin_inset Quotes erd
+\end_inset
+
+ however, which are even more widely held but are deeper and less often
+ identified or put into words: They include such things as: 
+\end_layout
+
+\begin_layout Itemize
+self-protection 
+\end_layout
+
+\begin_layout Itemize
+self-assertiveness 
+\end_layout
+
+\begin_layout Itemize
+success 
+\end_layout
+
+\begin_layout Itemize
+fulfilment 
+\end_layout
+
+\begin_layout Itemize
+hope 
+\end_layout
+
+\begin_layout Itemize
+joy 
+\end_layout
+
+\begin_layout Standard
+Still other 
+\begin_inset Quotes eld
+\end_inset
+
+values
+\begin_inset Quotes erd
+\end_inset
+
+ are more personal to specific individuals: 
+\end_layout
+
+\begin_layout Itemize
+Sue values her privacy 
+\end_layout
+
+\begin_layout Itemize
+John values his family 
+\end_layout
+
+\begin_layout Itemize
+and so on 
+\end_layout
+
+\begin_layout Standard
+Values are the expression of principles or standards considered important
+ in life—values are basic to defining who we are and how we think and behave.
+\end_layout
+
+\begin_layout Standard
+At any particular moment, then, in any given situation, our thoughts and
+ our actions exhibit the values we are expressing at that moment.
+ What is exhibited is the particular value, or set of related values that
+ we consider important at that moment, in that situation.
+ Our 
+\series bold
+\shape smallcaps
+Situational
+\series default
+ values.
+\end_layout
+
+\begin_layout Standard
+Which brings us back to 
+\begin_inset Quotes eld
+\end_inset
+
+modes of behaviour.
+\begin_inset Quotes erd
+\end_inset
+
+ By 
+\begin_inset Quotes eld
+\end_inset
+
+modes of behaviour
+\begin_inset Quotes erd
+\end_inset
+
+ I mean, quite simply, the three broad classes or patterns of behaviour
+ (
+\series bold
+\shape smallcaps
+Reactive
+\series default
+, 
+\series bold
+Ego
+\series default
+, 
+\series bold
+Purposeful
+\series default
+\shape default
+) I listed at the beginning—each of which exhibits a certain set of values
+ which the person behaving in each of these modes considers important to
+ apply at that moment, in that situation.
+\end_layout
+
+\begin_layout Standard
+What we see—when we look at ourselves or another person—is behaviour: patterns
+ or modes of thought and behaviour.
+ What's behind these 
+\begin_inset Quotes eld
+\end_inset
+
+behaviours
+\begin_inset Quotes erd
+\end_inset
+
+ are particular values.
+ 
+\end_layout
+
+\begin_layout Itemize
+The 
+\series bold
+\shape smallcaps
+Reactive
+\series default
+\shape default
+ mode describes how we think and behave in response to the environment we
+ are in—including the other people.in that environment.
+ 
+\end_layout
+
+\begin_layout Itemize
+The 
+\series bold
+\shape smallcaps
+Ego
+\series default
+\shape default
+ mode describes how we think and behave to achieve our personal aims or
+ goals.
+ 
+\end_layout
+
+\begin_layout Itemize
+The 
+\series bold
+\shape smallcaps
+Purposeful
+\series default
+\shape default
+ mode describes how we behave in regard to some (larger) purpose beyond
+ just ourselves.
+ 
+\end_layout
+
+\begin_layout Standard
+I think it would be fair to say that all of us go into the 
+\series bold
+\shape smallcaps
+Reactive
+\series default
+\shape default
+ mode when we experience something new—or different, or unusual—for the
+ first time.
+ We look and listen—we may taste it or smell it—but we do so cautiously.
+ We hold back from it.
+ We're on our guard.
+ We may well be suspicious, even anxious.
+ What's this all about? What's going on here? Will it attack me?
+\end_layout
+
+\begin_layout Standard
+Then, as we gain more experience with whatever it is, as we become more
+ familiar and comfortable with it, we often move on to the second mode—
+\series bold
+\shape smallcaps
+Ego
+\series default
+\shape default
+.
+ There, we can often find a personally useful or relevant may to use the
+ new thing, the new situation, to our personal advantage.
+ We use it, in ways that make sense to us, that have a payoff, for us.
+\end_layout
+
+\begin_layout Standard
+Then, as we use it and derive benefit or advantage from it, we may move
+ to the third mode—
+\series bold
+\shape smallcaps
+Purposeful
+\series default
+\shape default
+.
+ We may begin to see not just a way for whatever-it-is to be of use or advantage
+ to us personally, but a way for it to be useful or usable in achieving
+ something in a larger context.
+ We extend our thinking about whatever-it-is beyond ourselves and our own
+ self-interest and immediate needs.
+\end_layout
+
+\begin_layout Standard
+Let's take an example.
+\end_layout
+
+\begin_layout Standard
+Not too many years ago, Personal Computers didn't exist, and few of us knew
+ much about any kind of computers.
+ We got funny cards with our phone bills and computer printouts crossed
+ our desks, but keyboards, discs, drives, programs, storage and chips were
+ just distant jargon.
+\end_layout
+
+\begin_layout Standard
+Then, computers got closer—and closer.
+ We began to hear about word processors, remote terminals, personal, even
+ portable, computers.
+ Then one showed up down the hall.
+ Then another.
+\end_layout
+
+\begin_layout Standard
+How did we behave? We were 
+\series bold
+\shape smallcaps
+Reactive
+\series default
+\shape default
+ at first.
+ What's this? What's it going to do to me? What does it do, anyway? How
+ does it work? You mean I'm going to have to learn that? Some 
+\begin_inset Quotes eld
+\end_inset
+
+reactions
+\begin_inset Quotes erd
+\end_inset
+
+ were even stronger—No way! Not me!
+\end_layout
+
+\begin_layout Standard
+But time moved on.
+ And then the Company offered to subsidize the purchase of PC's by employees
+ for personal use.
+ What happened? Over 500 were snapped up! These 500 people had moved from
+ 
+\series bold
+\shape smallcaps
+Reactive
+\series default
+\shape default
+ to 
+\series bold
+\shape smallcaps
+Ego
+\series default
+\shape default
+ so far as computers were concerned! They had seen ways to use a PC to pursue
+ their personal purposes and interests.
+\end_layout
+
+\begin_layout Standard
+Inside the Company, too, a similar behaviour swing could be observed in
+ many people as they became more familiar with word processors and terminals.
+\end_layout
+
+\begin_layout Standard
+What happened next?
+\end_layout
+
+\begin_layout Standard
+Soon stories started flowing back along these lines—
+\begin_inset Quotes eld
+\end_inset
+
+I bought it to play with, to do my income tax, etc.
+ and before you knew it all of as were using it—my husband, my wife, the
+ kids.
+ We've found dozens of ways to use it that make sense — We're looking for
+ new programs all the time.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And, then, ideas for at-work applications began flowing in—
+\begin_inset Quotes eld
+\end_inset
+
+Why don't we give all the sales reps.
+ a portable—why don't we try others—why don't we try that—use one for this
+ —
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+What was happening was a second switch, from 
+\series bold
+\shape smallcaps
+Ego
+\series default
+ to 
+\series bold
+Purposeful
+\series default
+ thinking and behaviour, with respect to computers, on the part of many
+ people.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Each mode of behaviour was appropriate at the time it occurred, and demonstrated
+ the specific values people were applying at that time, combined with their
+ state of knowledge, familiarity and comfort with the idea of computers.
+\end_layout
+
+\begin_layout Standard
+What happened, over time, was not a change in people's overall values—what
+ happened was that, as the situation changed, the specific values which
+ people expressed or exhibited in their behaviour changed.
+ Their 
+\series bold
+\shape smallcaps
+Situational
+\series default
+ values changed as their understanding of the 
+\series bold
+Situation
+\series default
+ changed.
+\end_layout
+
+\begin_layout Standard
+What does all of this mean for us? What does it do to help us understand—and
+ improve—our quality of thought?
+\end_layout
+
+\begin_layout Standard
+When we think about the profound differences between the extremes of modes
+ of behaviour—from 
+\series bold
+\shape smallcaps
+Reactive
+\series default
+ to 
+\series bold
+Purposeful
+\series default
+—we begin to recognize how much our own thinking, moment by moment, must
+ be 
+\begin_inset Quotes eld
+\end_inset
+
+colored
+\begin_inset Quotes erd
+\end_inset
+
+ by our own immediate and particular mode of behaviour and by our situational
+ values.
+\end_layout
+
+\begin_layout Standard
+Do new ideas, new situations, new people to deal with—do those things make
+ you 
+\series bold
+\shape smallcaps
+Reactive
+\series default
+? How cautiously do you approach them? Do you approach them at all—or are
+ you so 
+\series bold
+Reactive
+\series default
+ you avoid them—pretend they don't exist? Do you stubbornly protect the
+ status quo? Turn off?
+\end_layout
+
+\begin_layout Standard
+Where, and when, do you feel in the 
+\series bold
+\shape smallcaps
+Ego
+\series default
+ mode? How did you get there? Did it just happen, or did you have to work
+ at it? What turned you on? Did you notice the difference? Did it make you
+ feel good?
+\end_layout
+
+\begin_layout Standard
+How about 
+\series bold
+\shape smallcaps
+Purposeful
+\series default
+? Are you involved in situations (other than work) that take you beyond
+ yourself—clubs, school committees, local affairs, politics? How do you
+ 
+\begin_inset Quotes eld
+\end_inset
+
+behave
+\begin_inset Quotes erd
+\end_inset
+
+ when that's what you are doing? What do you look at? Think about? How did
+ you learn to do that?
+\end_layout
+
+\begin_layout Standard
+All of these questions are ways of going about answering the fundamental
+ questions for yourself.
+ Only you know yourself well enough to puzzle it out.
+ And you can—and will, for 
+\begin_inset Quotes eld
+\end_inset
+
+modes of behaviour
+\begin_inset Quotes erd
+\end_inset
+
+ are too basic for you to ignore for long.
+\end_layout
+
+\begin_layout Standard
+There are all kinds of perfectly reasonable and natural explanations for
+ this, and these need not concern us here.
+ What we need to remember is simple and easy to state: 
+\end_layout
+
+\begin_layout Itemize
+none of us 
+\begin_inset Quotes eld
+\end_inset
+
+sees
+\begin_inset Quotes erd
+\end_inset
+
+ everything there is to see in a situation.
+ 
+\end_layout
+
+\begin_layout Itemize
+each of us probably 
+\begin_inset Quotes eld
+\end_inset
+
+sees
+\begin_inset Quotes erd
+\end_inset
+
+ quite different things—different slices of the situation.
+ 
+\end_layout
+
+\begin_layout Itemize
+we can be aware of these facts, and we can do many things to train ourselves
+ to 
+\begin_inset Quotes eld
+\end_inset
+
+see
+\begin_inset Quotes erd
+\end_inset
+
+ more completely and more accurately, but no matter how hard we try it's
+ impossible to 
+\begin_inset Quotes eld
+\end_inset
+
+see
+\begin_inset Quotes erd
+\end_inset
+
+ everything.
+ 
+\end_layout
+
+\begin_layout Itemize
+if you are trying to understand a complex situation, therefore, it may not
+ be very useful just to think about what you 
+\begin_inset Quotes eld
+\end_inset
+
+saw
+\begin_inset Quotes erd
+\end_inset
+
+—you could get a fuller and clearer 
+\begin_inset Quotes eld
+\end_inset
+
+view
+\begin_inset Quotes erd
+\end_inset
+
+ of the situation if you added various people's 
+\begin_inset Quotes eld
+\end_inset
+
+views
+\begin_inset Quotes erd
+\end_inset
+
+ together.
+ The situation might look very different to you then.
+ You might understand it a great deal better.
+ (Do you remember the story of the blind men and the elephant?) If you understoo
+d it better—more completely—you would be able to think more effectively
+ about it.
+ 
+\end_layout
+
+\begin_layout Standard
+What you see is what you get: what you get is what you see! Whichever way
+ you want to phrase it, it's true.
+\end_layout
+
+\begin_layout Standard
+Beware then: Learning to think effectively about the things that we sense
+ is only part of the story: We must also think about—and do something about—the
+ quality and completeness of what we sense, of our inputs, of the raw material
+ of many of our thoughts.
+\end_layout
+
+\begin_layout Section*
+Mental Processes
+\end_layout
+
+\begin_layout Standard
+We all use a range of mental processes: 
+\end_layout
+
+\begin_layout Itemize
+We have ways of 
+\begin_inset Quotes eld
+\end_inset
+
+sensing
+\begin_inset Quotes erd
+\end_inset
+
+ what is going on in the world around us; 
+\end_layout
+
+\begin_layout Itemize
+We have ways of evaluating—sizing up—what our senses bring us; 
+\end_layout
+
+\begin_layout Itemize
+We have ways of picking through what we have sensed, and making patterns
+ out of it that are useful or interesting to us; 
+\end_layout
+
+\begin_layout Itemize
+And we have ways of setting objectives for ourselves, of deciding goals
+ and priorities.
+ 
+\end_layout
+
+\begin_layout Standard
+We're not going to talk of all of these now: The one we need to spend a
+ few minutes·on right now is 
+\begin_inset Quotes eld
+\end_inset
+
+sensing
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+All the data we have about the world 
+\begin_inset Quotes erd
+\end_inset
+
+out there
+\begin_inset Quotes erd
+\end_inset
+
+ comes to us through our senses.
+ Agreed? Of course!
+\end_layout
+
+\begin_layout Standard
+But—did you ever stop to consider how selectively most of us use our senses?
+ Three people could walk together down a country road.
+ After 30 minutes: 
+\end_layout
+
+\begin_layout Itemize
+the bird watcher could give you a detailed list of the 15--20 species he
+ had seen.
+ 
+\end_layout
+
+\begin_layout Itemize
+the wildeflower fancier could tell you all about the rich assortment he
+ had seen and identified by the roadside.
+ 
+\end_layout
+
+\begin_layout Itemize
+the woodsman could name every kind of tree he had seen and the age and condition
+ of each.
+ 
+\end_layout
+
+\begin_layout Itemize
+none could comment usefully on what the others reported—they would claim
+ they 
+\begin_inset Quotes eld
+\end_inset
+
+hadn't seen
+\begin_inset Quotes erd
+\end_inset
+
+ these other things! 
+\end_layout
+
+\begin_layout Standard
+Sound familiar? A bit exaggerated, perhaps, but exaggerated only to make
+ the point: For a whole variety of reasons, none of us ever sees everything
+ there is to see in a-situation—and what we think we see is often only a
+ very small slice of reality.
+ 
+\end_layout
+
+\end_body
+\end_document
