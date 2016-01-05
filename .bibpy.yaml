@@ -1,11 +1,14 @@
 database: all.bib
 
 check-files:
+  format: csv
+
   ignore:
     - .git
     - .gitignore
     - .rsync-filter
     - all.bib
+    - status.tsv
     - README
     - (0sort|event, slides|periodical|review|course/(ESD.S40|KTCP))/
     - book/.*/.*
