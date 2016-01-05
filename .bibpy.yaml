@@ -1,0 +1,27 @@
+database: all.bib
+
+check-files:
+  ignore:
+    - .git
+    - .gitignore
+    - .rsync-filter
+    - all.bib
+    - README
+    - (0sort|event, slides|periodical|review|course/(ESD.S40|KTCP))/
+    - book/.*/.*
+
+  filter:
+    - field: ENTRYTYPE
+      value: online
+      sort: other
+
+    - field: keywords
+      value: x-pnk:hardcopy
+      sort: other
+
+    - field: keywords
+      value: x-pnk:own-work
+      sort: other
+
+queue:
+  include: x-pnk:queue-(?P<priority>\w+)
