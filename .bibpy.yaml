@@ -12,6 +12,9 @@ check-files:
     - README
     - (0sort|event, slides|periodical|review|course/(ESD.S40|KTCP))/
     - book/.*/.*
+    # For after general exams
+    - JPSPGC .*
+    - Ontario .*
 
   filter:
     - field: ENTRYTYPE
@@ -19,7 +22,19 @@ check-files:
       sort: other
 
     - field: keywords
+      value: x-pnk:correspondence
+      sort: other
+
+    - field: keywords
+      value: x-pnk:database
+      sort: other
+
+    - field: keywords
       value: x-pnk:hardcopy
+      sort: other
+
+    - field: keywords
+      value: x-pnk:no-file
       sort: other
 
     - field: keywords
