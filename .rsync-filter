@@ -1,5 +1,6 @@
+- .bibpy.yaml
 - .git*
+- .ipynb_checkpoints*
 - .rsync-filter
-- all.bib
-- all.reflib
+- all.bib*
 - README
