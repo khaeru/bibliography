@@ -21,6 +21,10 @@ check-files:
       value: online
       sort: other
 
+    - field: ENTRYTYPE
+      value: proceedings
+      sort: other
+
     - field: keywords
       value: x-pnk:correspondence
       sort: other
@@ -31,6 +35,10 @@ check-files:
 
     - field: keywords
       value: x-pnk:hardcopy
+      sort: other
+
+    - field: keywords
+      value: x-pnk:later
       sort: other
 
     - field: keywords
