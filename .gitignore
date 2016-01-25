@@ -4,6 +4,7 @@
 *.doc
 *.docx
 *.mobi
+*.odt
 *.pdf
 *.pdf.bz2
 *.ps

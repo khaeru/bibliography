@@ -14,7 +14,7 @@ check-files:
     - book/.*/.*
     # For after general exams
     - JPSPGC .*
-    - Ontario .*
+    - CA-ON .*
 
   filter:
     - field: ENTRYTYPE
