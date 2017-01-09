@@ -1,6 +1,7 @@
 *.bib~*
 # Ignore the actual documents
 */
+!abstracts/
 *.doc
 *.docx
 *.mobi
