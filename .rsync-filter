@@ -2,5 +2,7 @@
 - .git*
 - .ipynb_checkpoints*
 - .rsync-filter
+- abstracts
 - all.bib*
+- biblatex-dm.cfg
 - README
