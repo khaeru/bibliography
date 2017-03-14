@@ -1,5 +1,8 @@
 database: all.bib
 
+add:
+  path: import 
+
 check-files:
   format: csv
 
