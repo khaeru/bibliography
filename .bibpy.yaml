@@ -1,5 +1,8 @@
 database: all.bib
 
+add:
+  path: import
+
 check-files:
   format: csv
 
@@ -8,9 +11,12 @@ check-files:
     - .gitignore
     - .rsync-filter
     - all.bib
+    - biblatex-dm.cfg
     - status.tsv
     - README
-    - (0sort|event, slides|periodical|review|course/(ESD.S40|KTCP))/
+    - (0sort|abstracts|event, slides|periodical|review)/
+    - course/*/
+    # Chapters of books
     - book/.*/.*
     # For after general exams
     - JPSPGC .*
