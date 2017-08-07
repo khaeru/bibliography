@@ -1,7 +1,7 @@
 database: all.bib
 
-add:
-  path: import
+import:
+  path: 0sort/bib
 
 check-files:
   format: csv
