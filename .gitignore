@@ -1,4 +1,17 @@
+# Backups
 *.bib~*
+
+# LaTeX files
+all.aux
+all.bbl
+all.bcf
+all.blg
+all.fdb_latexmk
+all.fls
+all.log
+all.out
+all.run.xml
+
 # Ignore the actual documents
 */
 !abstracts/
