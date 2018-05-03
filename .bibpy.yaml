@@ -3,7 +3,7 @@ database: all.bib
 import:
   path: 0sort/bib
 
-check-files:
+check_files:
   format: csv
 
   ignore:
