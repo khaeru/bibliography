@@ -10,7 +10,7 @@ check_files:
     - .git
     - .gitignore
     - .rsync-filter
-    - all.bib
+    - all.*
     - biblatex-dm.cfg
     - status.tsv
     - README
