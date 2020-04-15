@@ -2,13 +2,13 @@
 *.bib~*
 
 # LaTeX files
-all.aux
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
 all.bbl
 all.bcf
 all.blg
-all.fdb_latexmk
-all.fls
-all.log
 all.out
 all.run.xml
 
